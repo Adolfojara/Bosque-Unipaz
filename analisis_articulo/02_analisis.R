@@ -355,36 +355,39 @@ fig(p_map, "Fig1_transectos", 12, 11)
 ## D. ESTRUCTURA
 ## ---------------------------------------------------------------
 say("\n== D. ESTRUCTURA ==")
+## Sin Attalea nucifera (acaule, sin DAP) para la estructura diamétrica
+ds <- filter(d, !acaule)
+say("Individuos con DAP (sin A. nucifera): ", nrow(ds))
 cortes <- c(0, 5, 10, 20, 40, Inf)
 etq    <- c("<5", "5-10", "10-20", "20-40", "≥40")
-d$clase_DAP <- cut(d$DAP_cm, cortes, etq, right = FALSE)
+ds$clase_DAP <- cut(ds$DAP_cm, cortes, etq, right = FALSE)
 d$estrato <- cut(d$altura_ok, c(0, 5, 12, 25, Inf),
                  c("Sotobosque (<5 m)", "Subdosel (5-12 m)", "Dosel (12-25 m)", "Emergente (>25 m)"),
                  right = FALSE)
-est_dap <- d %>% count(fragmento, clase_DAP) %>% group_by(fragmento) %>%
+est_dap <- ds %>% count(fragmento, clase_DAP) %>% group_by(fragmento) %>%
   mutate(ind_ha = n / (n_distinct(d$transecto[d$fragmento == first(fragmento)]) * AREA_T),
          pct = 100 * n / sum(n)) %>% ungroup()
-est_tot <- d %>% count(clase_DAP) %>% mutate(fragmento = "Total", ind_ha = n / area_ha, pct = 100 * n / sum(n))
+est_tot <- ds %>% count(clase_DAP) %>% mutate(fragmento = "Total", ind_ha = n / area_ha, pct = 100 * n / sum(n))
 est_dap <- bind_rows(est_tot, est_dap); tab(est_dap, "T12_clases_diametricas")
-ab_cl <- d %>% group_by(clase_DAP) %>% summarise(AB_ha = sum(AB_m2) / area_ha, .groups = "drop") %>%
+ab_cl <- ds %>% group_by(clase_DAP) %>% summarise(AB_ha = sum(AB_m2) / area_ha, .groups = "drop") %>%
   mutate(pct_AB = 100 * AB_ha / sum(AB_ha))
 tab(ab_cl, "T12b_area_basal_por_clase")
 say("Clases diamétricas (Total, % individuos): ",
     paste(sprintf("%s=%.1f%%", est_tot$clase_DAP, est_tot$pct), collapse = "; "))
 say("Área basal por clase (%): ", paste(sprintf("%s=%.1f%%", ab_cl$clase_DAP, ab_cl$pct_AB), collapse = "; "))
 say(sprintf("Árboles ≥40 cm DAP: %d individuos (%.1f%% de N) con %.1f%% del área basal",
-            sum(d$DAP_cm >= 40), 100 * mean(d$DAP_cm >= 40),
-            100 * sum(d$AB_m2[d$DAP_cm >= 40]) / sum(d$AB_m2)))
+            sum(ds$DAP_cm >= 40), 100 * mean(ds$DAP_cm >= 40),
+            100 * sum(ds$AB_m2[ds$DAP_cm >= 40]) / sum(ds$AB_m2)))
 ## Ajuste exponencial negativo (J invertida) y cociente de De Liocourt
 mid <- c(3.75, 7.5, 15, 30, 60)    # 2.5-5 tomado como inferior
 ej  <- data.frame(mid = mid, n = est_tot$ind_ha)
 fit <- lm(log(n) ~ mid, ej)
 say(sprintf("Exponencial negativa: ln(N/ha) = %.2f %.3f·DAP; R2 = %.3f; cociente q medio = %.2f",
             coef(fit)[1], coef(fit)[2], summary(fit)$r.squared, mean(head(ej$n, -1) / tail(ej$n, -1))))
-ks <- ks.test(d$DAP_cm[d$fragmento == "B1"], d$DAP_cm[d$fragmento == "B2"])
+ks <- suppressWarnings(ks.test(ds$DAP_cm[ds$fragmento == "B1"], ds$DAP_cm[ds$fragmento == "B2"]))
 say(sprintf("K-S distribución de DAP B1 vs B2: D=%.3f, p=%.4f", ks$statistic, ks$p.value))
 say(sprintf("DAP mediano: B1=%.1f cm, B2=%.1f cm; Altura mediana: B1=%.1f m, B2=%.1f m",
-            median(d$DAP_cm[d$fragmento == "B1"]), median(d$DAP_cm[d$fragmento == "B2"]),
+            median(ds$DAP_cm[ds$fragmento == "B1"]), median(ds$DAP_cm[ds$fragmento == "B2"]),
             median(d$altura_ok[d$fragmento == "B1"], na.rm = TRUE),
             median(d$altura_ok[d$fragmento == "B2"], na.rm = TRUE)))
 est_v <- d %>% filter(!is.na(estrato)) %>% count(fragmento, estrato) %>% group_by(fragmento) %>%
@@ -446,7 +449,7 @@ say("Especies registradas solo en Magdalena (posibles endémicas regionales): ",
 ## ---------------------------------------------------------------
 lista <- d %>% group_by(familia, especie) %>%
   summarise(B1 = sum(fragmento == "B1"), B2 = sum(fragmento == "B2"), Total = n(),
-            Transectos = n_distinct(transecto), DAP_max = max(DAP_cm), .groups = "drop") %>%
+            Transectos = n_distinct(transecto), DAP_max = if (all(is.na(DAP_cm))) NA else max(DAP_cm, na.rm = TRUE), .groups = "drop") %>%
   arrange(familia, especie)
 tab(lista, "Anexo1_lista_floristica")
 

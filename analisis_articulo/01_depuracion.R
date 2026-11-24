@@ -16,7 +16,11 @@
 ##     El Excel calculaba DAP = NoTallos * CAP1 / pi, que sobreestima.
 ##     Si hay más tallos que columnas de CAP, los tallos sin medir
 ##     toman el promedio de los medidos.
-##  4. Alturas inverosímiles (relación altura/DAP > 400) se marcan como NA
+##  4. El transecto 21 pertenece al bosque 1 (confirmado en campo; la hoja
+##     "estructura" lo asignaba al bosque 2).
+##  5. Attalea nucifera es una palma acaule y sus "tallos" son pecíolos:
+##     se excluye de DAP y área basal (ver abajo).
+##  6. Alturas inverosímiles (relación altura/DAP > 400) se marcan como NA
 ##     solo para el análisis de estructura vertical.
 ## ================================================================
 
@@ -81,7 +85,7 @@ for (i in seq_len(nrow(xl))) {
 
 datos <- tibble(
   transecto = xl$TRANSECTO,
-  fragmento = paste0("B", xl$Bosque),
+  fragmento = paste0("B", ifelse(xl$TRANSECTO == 21, 1, xl$Bosque)),  # T21 = bosque 1 (confirmado por A. Jara)
   salida    = xl$SALIDA,
   codigo    = xl$`No Campo`,
   familia   = xl$familia,
@@ -91,9 +95,15 @@ datos <- tibble(
   DAP_excel = round(xl$`DAP (cm)`, 2),
   DAP_cm    = round(dap_eq, 2),
   AB_m2     = ab,
-  palma     = xl$familia == "Arecaceae"
+  palma     = xl$familia == "Arecaceae",
+  acaule    = xl$especie == "Attalea nucifera"
 ) %>%
-  mutate(altura_ok = ifelse(altura_m / (DAP_cm / 100) > 400, NA, altura_m))
+  ## Attalea nucifera es acaule: los "tallos" medidos son pecíolos (confirmado
+  ## por A. Jara). Se conserva como individuo en composición y diversidad, pero
+  ## sin DAP ni área basal.
+  mutate(DAP_cm = ifelse(acaule, NA, DAP_cm),
+         AB_m2  = ifelse(acaule, 0, AB_m2),
+         altura_ok = ifelse(!is.na(DAP_cm) & altura_m / (DAP_cm / 100) > 400, NA, altura_m))
 
 write.csv(datos, file.path(base, "analisis_articulo", "datos", "datos_limpios.csv"),
           row.names = FALSE)

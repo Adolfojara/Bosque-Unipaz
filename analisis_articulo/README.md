@@ -27,10 +27,9 @@ Las curvas de Hill (rarefacción/extrapolación, cobertura, Chao1, bootstrap) es
   solo del análisis de estratos.
 - Longitud del transecto 10 corregida (−74,747 → −73,747). Transectos 19 y 21 sin coordenadas.
 
-## Pendiente de verificar en campo
+## Datos confirmados en campo (A. Jara)
 
-- Transecto 21: la hoja `estructura` lo asigna al bosque 2, la hoja de coordenadas al bosque 1; en el NMDS
-  se agrupa con B1. Se usó B2.
-- *Lecythis mesophylla* con CAP 500 cm (DAP 159 cm) aporta el 18 % del área basal.
-- Palmas (*Attalea nucifera* con 6-13 "tallos" de CAP 6-9 cm y 2-3 m de alto): confirmar si son tallos
-  o pecíolos de palmas acaules.
+- El transecto 21 pertenece al bosque 1 (la hoja `estructura` lo asignaba al 2). Corregido en `01_depuracion.R`.
+- El CAP de 500 cm de *Lecythis mesophylla* es correcto.
+- *Attalea nucifera* es acaule: los "tallos" medidos son pecíolos. Se conserva en composición y diversidad,
+  pero sin DAP ni área basal (queda fuera de clases diamétricas y su dominancia relativa es 0).

@@ -36,7 +36,7 @@ El estudio se realizó en los relictos boscosos del predio del Instituto Univers
 
 ## Muestreo de la vegetación
 
-Entre abril de 2012 y octubre de 2013 se establecieron 30 transectos de 100 m^2^ [POR COMPLETAR: dimensiones, p. ej. 2 × 50 m], 20 en B1 y diez en B2, para un área total de 0,3 ha. En cada transecto se registraron todos los individuos leñosos con diámetro a la altura del pecho, DAP, de al menos 2,5 cm [POR COMPLETAR: confirmar criterio de inclusión; el menor DAP registrado fue 2,3 cm]. Se midió la circunferencia a la altura del pecho de cada tallo y se estimó la altura total. Para los individuos con varios tallos se calculó un DAP equivalente como la raíz cuadrada de la suma de los cuadrados de los DAP de los tallos, y el área basal como la suma de las áreas basales de cada tallo. Se tomaron coordenadas geográficas del inicio de cada transecto.
+Entre abril de 2012 y octubre de 2013 se establecieron 30 transectos de 100 m^2^ [POR COMPLETAR: dimensiones, p. ej. 2 × 50 m], 21 en B1 y nueve en B2, para un área total de 0,3 ha. En cada transecto se registraron todos los individuos leñosos con diámetro a la altura del pecho, DAP, de al menos 2,5 cm [POR COMPLETAR: confirmar criterio de inclusión; el menor DAP registrado fue 2,3 cm]. Se midió la circunferencia a la altura del pecho de cada tallo y se estimó la altura total. Para los individuos con varios tallos se calculó un DAP equivalente como la raíz cuadrada de la suma de los cuadrados de los DAP de los tallos, y el área basal como la suma de las áreas basales de cada tallo. *Attalea nucifera* es una palma acaule, y en ella se midieron pecíolos y no tallos; por ello sus individuos se incluyeron en los análisis de composición y diversidad, pero no en los de DAP y área basal. Se tomaron coordenadas geográficas del inicio de cada transecto.
 
 Se recolectaron muestras botánicas de los individuos, que fueron identificadas con claves taxonómicas, comparación con material de herbario y consulta a especialistas. Los ejemplares de respaldo se depositaron en [POR COMPLETAR: herbario y acrónimo según Index Herbariorum]. La nomenclatura sigue el Catálogo de plantas y líquenes de Colombia (Bernal et al., 2016). Los individuos que no pudieron identificarse a especie se trataron como morfoespecies. La recolección se realizó conforme a la normatividad nacional vigente [POR COMPLETAR: permiso de recolección].
 
@@ -46,9 +46,9 @@ Se recolectaron muestras botánicas de los individuos, que fueron identificadas 
 
 **Diversidad alfa.** La diversidad se expresó con números de Hill de orden q = 0 (riqueza de especies), q = 1 (exponencial de la entropía de Shannon) y q = 2 (inverso del índice de Simpson) (Hill, 1973; Jost, 2006). Para el bosque en conjunto y para cada fragmento se construyeron curvas de rarefacción y extrapolación basadas en abundancia hasta el doble del tamaño de la muestra total, con intervalos de confianza del 95 % obtenidos con 200 réplicas de bootstrap (Chao et al., 2014). La completitud del inventario se evaluó con la cobertura de muestreo (Chao & Jost, 2012) y con los estimadores asintóticos de riqueza Chao1 (Chao, 1984), de diversidad de Shannon (Chao et al., 2013) y de Simpson. Los fragmentos se compararon a un mismo tamaño de muestra, igual al número de individuos del fragmento más pequeño, y a una misma cobertura, igual a la menor de las coberturas alcanzadas al doble de cada muestra (Chao et al., 2014); se consideraron diferentes cuando los intervalos de confianza no se superpusieron. Como complemento se usaron los transectos como unidades de muestreo para calcular los estimadores de incidencia Chao2 y jackknife de primer y segundo orden (Colwell & Coddington, 1994). Para cada transecto se calcularon la riqueza, la abundancia, los números de Hill, la equidad de Pielou, el alfa de Fisher (Fisher et al., 1943) y el área basal, y los fragmentos se compararon con pruebas de Wilcoxon.
 
-**Diversidad beta.** Con datos de presencia y ausencia se calculó la disimilitud multisitio de Sørensen, βSOR, y su partición en recambio, βSIM, y anidamiento, βSNE (Baselga, 2010). Para comparar fragmentos con igual número de sitios, en el bosque total y en B1 se promediaron 200 submuestras aleatorias de diez transectos. También se calculó la diversidad beta de Whittaker como la razón entre la riqueza total y la riqueza media por transecto. Las diferencias en composición entre fragmentos se evaluaron con PERMANOVA (Anderson, 2001) sobre las distancias de Bray-Curtis (abundancia) y de Sørensen (incidencia), con 9999 permutaciones, y la homogeneidad de la dispersión multivariada con betadisper (Anderson, 2006). La composición se ordenó con escalamiento multidimensional no métrico, NMDS, en tres dimensiones sobre la distancia de Bray-Curtis (Clarke, 1993), y se ajustaron como vectores las especies presentes en al menos cinco transectos. La relación entre la disimilitud florística y la distancia geográfica se evaluó con pruebas de Mantel con correlación de Spearman y 9999 permutaciones (Nekola & White, 1999), usando los 28 transectos con coordenadas.
+**Diversidad beta.** Con datos de presencia y ausencia se calculó la disimilitud multisitio de Sørensen, βSOR, y su partición en recambio, βSIM, y anidamiento, βSNE (Baselga, 2010). Para comparar fragmentos con igual número de sitios, en el bosque total y en B1 se promediaron 200 submuestras aleatorias de nueve transectos, el número de transectos de B2. También se calculó la diversidad beta de Whittaker como la razón entre la riqueza total y la riqueza media por transecto. Las diferencias en composición entre fragmentos se evaluaron con PERMANOVA (Anderson, 2001) sobre las distancias de Bray-Curtis (abundancia) y de Sørensen (incidencia), con 9999 permutaciones, y la homogeneidad de la dispersión multivariada con betadisper (Anderson, 2006). La composición se ordenó con escalamiento multidimensional no métrico, NMDS, en tres dimensiones sobre la distancia de Bray-Curtis (Clarke, 1993), y se ajustaron como vectores las especies presentes en al menos cinco transectos. La relación entre la disimilitud florística y la distancia geográfica se evaluó con pruebas de Mantel con correlación de Spearman y 9999 permutaciones (Nekola & White, 1999), usando los 28 transectos con coordenadas.
 
-**Estructura.** Se calcularon la densidad, en individuos por hectárea, y el área basal, en m^2^ por hectárea. Los individuos se agruparon en clases diamétricas de <5, 5-10, 10-20, 20-40 y ≥40 cm, y a la distribución se ajustó un modelo exponencial negativo para calcular el cociente de De Liocourt (Meyer, 1952). Las distribuciones diamétricas de los fragmentos se compararon con la prueba de Kolmogorov-Smirnov. Los individuos se asignaron a cuatro estratos de altura: sotobosque (<5 m), subdosel (5-12 m), dosel (12-25 m) y emergentes (>25 m). Se ajustó una relación alométrica log-log entre altura y DAP excluyendo las palmas. Cuatro alturas inverosímiles, con una relación altura/DAP mayor a 400, se excluyeron de los análisis de estructura vertical.
+**Estructura.** Se calcularon la densidad, en individuos por hectárea, y el área basal, en m^2^ por hectárea. Excluyendo a *A. nucifera*, los individuos se agruparon en clases diamétricas de <5, 5-10, 10-20, 20-40 y ≥40 cm, y a la distribución se ajustó un modelo exponencial negativo para calcular el cociente de De Liocourt (Meyer, 1952). Las distribuciones diamétricas de los fragmentos se compararon con la prueba de Kolmogorov-Smirnov. Los individuos se asignaron a cuatro estratos de altura: sotobosque (<5 m), subdosel (5-12 m), dosel (12-25 m) y emergentes (>25 m). Se ajustó una relación alométrica log-log entre altura y DAP excluyendo las palmas. Cuatro alturas inverosímiles, con una relación altura/DAP mayor a 400, se excluyeron de los análisis de estructura vertical.
 
 **Afinidades biogeográficas.** Para las especies identificadas se registró su presencia en las regiones naturales de Colombia y en Centroamérica a partir de [POR COMPLETAR: fuentes de distribución, p. ej. Bernal et al., 2016], y se calculó el porcentaje de especies compartidas con cada región.
 
@@ -60,7 +60,7 @@ Todos los análisis se hicieron en R 4.3.3 (R Core Team, 2024) con el paquete ve
 
 Se registraron 745 individuos pertenecientes a 178 morfoespecies, 100 géneros y 42 familias (Tabla 1, Anexo 1). Del total de morfoespecies, 104 (58 %) se identificaron a especie, 34 a género, 27 a familia y 13 quedaron indeterminadas. Las familias más ricas fueron Fabaceae con 25 especies, Moraceae y Annonaceae con 12 cada una, Rubiaceae con ocho, y Malvaceae y Violaceae con siete. Las familias con más individuos fueron Euphorbiaceae (121), Arecaceae (90) y Fabaceae (78).
 
-*Senefeldera testiculata* fue la especie con mayor IVI (19,5), por su alta densidad (93 individuos, 12,5 % del total) y frecuencia (18 transectos). Le siguieron *Lecythis mesophylla* (18,8), representada por un solo árbol de 159 cm de DAP que aportó el 18,5 % del área basal, y *Attalea nucifera* (16,6), con 69 individuos en 25 transectos (Fig. 2). Completaron las diez primeras *Brownea stenantha*, *Isidodendron tripterocarpum*, *Tapirira guianensis*, *Brosimum utile*, *Clathrotropis brunnea*, *Sagotia brachysepala* y *Amaioua corymbosa*. Fabaceae tuvo el mayor IVF (43,7), seguida por Lecythidaceae (26,9), Euphorbiaceae (23,8), Moraceae (22,5) y Arecaceae (18,8) (Tabla 2).
+*Senefeldera testiculata* fue la especie con mayor IVI (19,5), por su alta densidad (93 individuos, 12,5 % del total) y frecuencia (18 transectos). Le siguieron *Lecythis mesophylla* (19,2), representada por un solo árbol de 159 cm de DAP que aportó el 18,9 % del área basal, y *A. nucifera* (14,6), la especie más frecuente, con 69 individuos en 25 transectos (Fig. 2). Completaron las diez primeras *Brownea stenantha*, *Isidodendron tripterocarpum*, *Tapirira guianensis*, *Brosimum utile*, *Clathrotropis brunnea*, *Sagotia brachysepala* y *Pterocarpus officinalis*. Fabaceae tuvo el mayor IVF (44,1), seguida por Lecythidaceae (27,4), Euphorbiaceae (24,0), Moraceae (22,7) y Arecaceae (16,7) (Tabla 2).
 
 La flora estuvo dominada por especies raras: 94 especies (53 %) se registraron con un solo individuo, 24 con dos individuos, y 100 especies (56 %) aparecieron en un solo transecto.
 
@@ -68,21 +68,21 @@ La flora estuvo dominada por especies raras: 94 especies (53 %) se registraron c
 
 La cobertura de muestreo del bosque fue 0,87, es decir, cerca del 13 % de los individuos de la comunidad pertenecen a especies no registradas. Sin embargo, la riqueza estimada con Chao1 fue de 362 especies (IC 95 %: 280-444), por lo que el inventario registró cerca de la mitad de la riqueza esperada (Tabla 1). Los estimadores de incidencia dieron valores similares: Chao2 = 339 ± 45 y jackknife de segundo orden = 341. En contraste, la diversidad de Shannon observada (71,2 especies efectivas) alcanzó el 78 % de su valor asintótico (91,1) y la de Simpson (29,2) el 96 % (30,3), lo que indica que las especies comunes están bien representadas y que el déficit se concentra en las raras (Fig. 3).
 
-A un mismo tamaño de muestra de 240 individuos, B1 tuvo mayor riqueza que B2 (91,7 frente a 72,0 especies; intervalos sin superposición), igual diversidad de Shannon (45,9 frente a 42,6) y menor diversidad de Simpson (20,3 frente a 28,9). La comparación a igual cobertura (0,90) mostró el mismo patrón: B1 superó a B2 en riqueza (180 frente a 103 especies) y B2 superó a B1 en diversidad de orden 2 (30,6 frente a 21,6) (Fig. 3). Esto indica que B1 tiene más especies raras pero una mayor dominancia de pocas especies, principalmente *S. testiculata* y *A. nucifera*.
+A un mismo tamaño de muestra de 204 individuos, B1 tuvo mayor riqueza que B2 (81,2 frente a 63,0 especies; intervalos sin superposición), una diversidad de Shannon similar (41,8 frente a 36,1) y menor diversidad de Simpson (18,9 frente a 24,3), aunque en este último caso los intervalos se superpusieron ligeramente. La comparación a igual cobertura (0,83) mostró el mismo patrón: B1 superó a B2 en riqueza (123 frente a 99 especies) y B2 tendió a superar a B1 en diversidad de orden 2 (25,7 frente a 19,8) (Fig. 3). En B2 solo dos especies tuvieron dos individuos, por lo que su riqueza asintótica es muy incierta (Chao1 = 422; IC 95 %: 81-763) y no debe interpretarse; la extrapolación al doble de la muestra es más confiable (Chao et al., 2014). Esto indica que B1 tiene más especies raras pero una mayor dominancia de pocas especies, principalmente *S. testiculata* y *A. nucifera*.
 
-Por transecto se registraron en promedio 24,8 ± 6,9 individuos y 15,6 ± 4,0 especies, con una diversidad de Shannon de 2,51 ± 0,33 y una equidad de 0,93 ± 0,05. Ninguna de estas variables difirió entre fragmentos (Wilcoxon, p > 0,17), pero el área basal por transecto fue mayor en B1 (mediana de 0,30 m^2^ frente a 0,13 m^2^; W = 146, p = 0,045).
+Por transecto se registraron en promedio 24,8 ± 6,9 individuos y 15,6 ± 4,0 especies, con una diversidad de Shannon de 2,51 ± 0,33 y una equidad de 0,93 ± 0,05. Ninguna de estas variables difirió entre fragmentos (Wilcoxon, p > 0,09), pero el área basal por transecto fue mayor en B1 (mediana de 0,32 m^2^ frente a 0,10 m^2^; W = 149, p = 0,015).
 
 ## Diversidad beta
 
-La disimilitud multisitio entre diez transectos fue muy alta (βSOR = 0,90) y se debió casi por completo al recambio de especies (βSIM = 0,88), mientras que el anidamiento fue mínimo (βSNE = 0,02); el recambio explicó el 98 % de la diversidad beta (Tabla 3). El patrón fue similar dentro de cada fragmento (βSOR = 0,89 en B1 y 0,87 en B2, con 97 % de recambio). La riqueza total fue 11,4 veces la riqueza media por transecto, y en promedio dos transectos compartieron solo el 19 % de sus especies (βSOR por pares = 0,81).
+La disimilitud multisitio entre nueve transectos fue muy alta (βSOR = 0,89) y se debió casi por completo al recambio de especies (βSIM = 0,87), mientras que el anidamiento fue mínimo (βSNE = 0,02); el recambio explicó el 98 % de la diversidad beta (Tabla 3). El patrón fue similar dentro de cada fragmento (βSOR = 0,88 en B1 y 0,85 en B2, con 97 % y 96 % de recambio). La riqueza total fue 11,4 veces la riqueza media por transecto, y en promedio dos transectos compartieron solo el 19 % de sus especies (βSOR por pares = 0,81).
 
-Los fragmentos compartieron 35 especies; 106 fueron exclusivas de B1 y 37 de B2, con una similitud de Sørensen de 0,33. La composición difirió entre fragmentos tanto en abundancia (PERMANOVA Bray-Curtis: F = 5,16, R^2^ = 0,16, p < 0,001) como en incidencia (Sørensen: F = 5,17, R^2^ = 0,16, p < 0,001). La dispersión multivariada fue homogénea con Bray-Curtis (p = 0,94), por lo que la diferencia refleja un cambio real en composición; con Sørensen B2 fue algo menos disperso (p = 0,044). La similitud media de Bray-Curtis entre transectos del mismo fragmento fue el doble que entre fragmentos (0,24 frente a 0,12). En el NMDS (estrés = 0,19) los transectos de B1 se asociaron con *S. testiculata*, *Euterpe kalbreyeri*, *Tapura bullata* y *B. stenantha*, y los de B2 con *T. guianensis*, *Cupania scrobiculata*, *Byrsonima spicata* y *Myrcia splendens* (Fig. 4a). La disimilitud florística aumentó con la distancia entre transectos, en un intervalo de hasta 1 km (Mantel Bray-Curtis: r = 0,36, p < 0,001; Sørensen: r = 0,31, p < 0,001) (Fig. 4b).
+Los fragmentos compartieron 28 especies; 115 fueron exclusivas de B1 y 35 de B2, con una similitud de Sørensen de 0,27. La composición difirió entre fragmentos tanto en abundancia (PERMANOVA Bray-Curtis: F = 6,29, R^2^ = 0,18, p < 0,001) como en incidencia (Sørensen: F = 6,18, R^2^ = 0,18, p < 0,001). La dispersión multivariada fue homogénea con Bray-Curtis (p = 0,39), por lo que la diferencia refleja un cambio real en composición; con Sørensen B2 fue menos disperso (p = 0,009). La similitud media de Bray-Curtis entre transectos del mismo fragmento fue más del doble que entre fragmentos (0,25 frente a 0,10). En el NMDS (estrés = 0,19) los transectos de B1 se asociaron con *S. testiculata*, *Euterpe kalbreyeri*, *Tapura bullata* y *B. stenantha*, y los de B2 con *T. guianensis*, *Cupania scrobiculata*, *Byrsonima spicata* y *Myrcia splendens* (Fig. 4a). La disimilitud florística aumentó con la distancia entre transectos, en un intervalo de hasta 1 km (Mantel Bray-Curtis: r = 0,36, p < 0,001; Sørensen: r = 0,31, p < 0,001) (Fig. 4b).
 
 ## Estructura
 
-La densidad fue de 2483 individuos/ha y el área basal de 35,9 m^2^/ha. B1 y B2 tuvieron densidades similares (2525 y 2400 individuos/ha), pero el área basal de B1 (44,4 m^2^/ha) más que duplicó la de B2 (18,9 m^2^/ha) (Tabla 1). La distribución diamétrica tuvo forma de J invertida (Fig. 5a): el 41,9 % de los individuos tuvo DAP < 5 cm, el 33,7 % entre 5 y 10 cm, el 17,9 % entre 10 y 20 cm, el 5,4 % entre 20 y 40 cm y el 1,2 % ≥ 40 cm. El modelo exponencial negativo se ajustó bien (ln N = 7,10 − 0,064 DAP; R^2^ = 0,99) con un cociente de De Liocourt de 2,7. Solo nueve árboles con DAP ≥ 40 cm concentraron el 46,7 % del área basal. La distribución diamétrica no difirió entre fragmentos (Kolmogorov-Smirnov: D = 0,07, p = 0,43), aunque los árboles mayores de 20 cm fueron más frecuentes en B1.
+La densidad fue de 2483 individuos/ha y el área basal de 35,2 m^2^/ha. B1 y B2 tuvieron densidades similares (2576 y 2267 individuos/ha), pero el área basal de B1 (44,6 m^2^/ha) fue más del triple que la de B2 (13,2 m^2^/ha) (Tabla 1). Sin *A. nucifera*, la distribución diamétrica de los 676 individuos restantes tuvo forma de J invertida (Fig. 5a): el 44,7 % tuvo DAP < 5 cm, el 28,7 % entre 5 y 10 cm, el 19,4 % entre 10 y 20 cm, el 5,9 % entre 20 y 40 cm y el 1,3 % ≥ 40 cm. El modelo exponencial negativo se ajustó bien (ln N = 6,98 − 0,062 DAP; R^2^ = 0,99) con un cociente de De Liocourt de 2,7. Solo nueve árboles con DAP ≥ 40 cm concentraron el 47,6 % del área basal. La distribución diamétrica no difirió entre fragmentos (Kolmogorov-Smirnov: D = 0,07, p = 0,46), aunque los árboles mayores de 20 cm fueron más frecuentes en B1.
 
-Verticalmente, el 34,7 % de los individuos estuvo en el sotobosque, el 42,9 % en el subdosel, el 19,8 % en el dosel y el 2,6 % fueron emergentes de más de 25 m (Fig. 5b). B2 tuvo una mayor proporción de individuos en el subdosel (52 % frente a 38 %) y casi carece de emergentes (0,4 % frente a 3,6 % en B1). El sotobosque estuvo dominado por *S. testiculata* y *A. nucifera*, el subdosel por *S. testiculata*, *B. stenantha* y *A. corymbosa*, y el dosel por *T. guianensis*, *B. stenantha* y *B. spicata*. Los árboles más altos fueron *L. mesophylla* (33 m), *Tetragastris panamensis* e *I. tripterocarpum* (30 m). La altura se relacionó con el DAP según ln H = 0,59 + 0,74 ln DAP (R^2^ = 0,71; n = 651).
+Verticalmente, el 34,7 % de los individuos estuvo en el sotobosque, el 42,9 % en el subdosel, el 19,8 % en el dosel y el 2,6 % fueron emergentes de más de 25 m (Fig. 5b). B2 tuvo una mayor proporción de individuos en el subdosel (52 % frente a 39 %) y no tuvo emergentes, que en B1 representaron el 3,5 %. El sotobosque estuvo dominado por *S. testiculata* y *A. nucifera*, el subdosel por *S. testiculata*, *B. stenantha* y *A. corymbosa*, y el dosel por *T. guianensis*, *B. stenantha* y *B. spicata*. Los árboles más altos fueron *L. mesophylla* (33 m), *Tetragastris panamensis* e *I. tripterocarpum* (30 m). La altura se relacionó con el DAP según ln H = 0,59 + 0,74 ln DAP (R^2^ = 0,71; n = 651).
 
 ## Afinidades biogeográficas
 
@@ -98,7 +98,7 @@ La importancia de *S. testiculata* y de las palmas *A. nucifera*, *Astrocaryum m
 
 El resultado más destacado es la magnitud del recambio de especies. Con un 98 % de la diversidad beta debida al reemplazo de especies y casi sin anidamiento, los transectos no son subconjuntos empobrecidos unos de otros, sino muestras de una flora muy heterogénea. El decaimiento de la similitud con la distancia en una escala de solo 1 km sugiere que la limitación de la dispersión, la heterogeneidad ambiental local o ambas estructuran la composición (Condit et al., 2002; Tuomisto et al., 2003). Parte de este recambio puede deberse también al gran número de especies raras, que inflan la disimilitud entre muestras pequeñas; por ello, la diferencia entre fragmentos se confirmó con medidas basadas en abundancia y con dispersión homogénea.
 
-Los dos fragmentos difieren en composición y en estructura más que en diversidad local. B1 tiene más especies, más área basal y árboles emergentes, mientras que B2 tiene un subdosel denso, casi sin emergentes, y especies como *T. guianensis*, *B. spicata*, *C. scrobiculata* y *M. splendens*, asociadas con frecuencia a bosques secundarios o de borde [POR COMPLETAR: cita sobre ecología de estas especies]. Este contraste sugiere historias de perturbación distintas, con B2 en una etapa sucesional más temprana o con mayor extracción de árboles grandes [POR COMPLETAR: confirmar historia de uso de cada fragmento]. La mayor diversidad de Simpson en B2 refleja una menor dominancia de *S. testiculata*, no una mayor riqueza.
+Los dos fragmentos difieren en composición y en estructura más que en diversidad local. B1 tiene más especies, más área basal y árboles emergentes, mientras que B2 tiene un subdosel denso, sin emergentes, y especies como *T. guianensis*, *B. spicata*, *C. scrobiculata* y *M. splendens*, asociadas con frecuencia a bosques secundarios o de borde [POR COMPLETAR: cita sobre ecología de estas especies]. Este contraste sugiere historias de perturbación distintas, con B2 en una etapa sucesional más temprana o con mayor extracción de árboles grandes [POR COMPLETAR: confirmar historia de uso de cada fragmento]. La mayor diversidad de Simpson en B2 refleja una menor dominancia de *S. testiculata*, no una mayor riqueza.
 
 La distribución en J invertida indica una regeneración activa, y la concentración del área basal en pocos árboles grandes muestra que estos relictos conservan remanentes del dosel original. Esos árboles son críticos: su pérdida reduciría a la mitad la biomasa del bosque, y la fragmentación aumenta su mortalidad (Laurance et al., 2002).
 
@@ -180,59 +180,63 @@ Tuomisto, H., Ruokolainen, K. & Yli-Halla, M. (2003). Dispersal, environment, an
 
 | Variable | Total | B1 | B2 |
 |:------------------------|-----------:|-----------:|-----------:|
-| Transectos (área, ha) | 30 (0,3) | 20 (0,2) | 10 (0,1) |
-| Individuos | 745 | 505 | 240 |
-| Familias | 42 | 38 | 31 |
-| Géneros | 100 | 85 | 52 |
-| Especies, q = 0 | 178 (362; 280-444) | 141 (264; 203-325) | 72 (162; 103-221) |
-| Shannon, q = 1 | 71,2 (91,1; 79,8-102,4) | 56,0 (73,9; 62,7-85,1) | 42,6 (58,9; 47,1-70,7) |
-| Simpson, q = 2 | 29,2 (30,3; 24,9-35,7) | 21,2 (22,1; 17,2-27,1) | 28,9 (32,7; 26,6-38,7) |
-| Cobertura de muestreo | 0,87 | 0,85 | 0,84 |
-| Especies con uno / dos individuos | 94 / 24 | 77 / 24 | 38 / 8 |
-| Densidad (individuos/ha) | 2483 | 2525 | 2400 |
-| Área basal (m^2^/ha) | 35,9 | 44,4 | 18,9 |
+| Transectos (área, ha) | 30 (0,3) | 21 (0,21) | 9 (0,09) |
+| Individuos | 745 | 541 | 204 |
+| Familias | 42 | 38 | 30 |
+| Géneros | 100 | 87 | 44 |
+| Especies, q = 0 | 178 (362; 280-444) | 143 (281; 208-354) | 63 (422; 81-763)* |
+| Shannon, q = 1 | 71,2 (91,1; 79,8-102,4) | 54,3 (71,0; 60,3-81,8) | 36,1 (61,6; 41,2-82,1) |
+| Simpson, q = 2 | 29,2 (30,3; 24,9-35,7) | 20,0 (20,7; 16,5-24,9) | 24,3 (27,4; 21,9-32,9) |
+| Cobertura de muestreo | 0,87 | 0,86 | 0,81 |
+| Especies con uno / dos individuos | 94 / 24 | 78 / 22 | 38 / 2 |
+| Densidad (individuos/ha) | 2483 | 2576 | 2267 |
+| Área basal (m^2^/ha)† | 35,2 | 44,6 | 13,2 |
+
+\* Estimado poco confiable: B2 tiene solo dos especies con dos individuos. † Sin *Attalea nucifera*, palma acaule.
 
 **Tabla 2.** Especies y familias con mayor valor de importancia en los relictos de bosque de UNIPAZ. N = número de individuos; Fr = número de transectos; DeR, FrR, DoR y DivR = densidad, frecuencia, dominancia y diversidad relativas (%); IVI = índice de valor de importancia (máximo 300); IVF = índice de valor de importancia familiar (máximo 300).
 
 | Especie | Familia | N | Fr | DeR | FrR | DoR | IVI |
 |:--------------------------|:--------------|----:|----:|-----:|-----:|-----:|-----:|
 | *Senefeldera testiculata* | Euphorbiaceae | 93 | 18 | 12,5 | 3,8 | 3,2 | 19,5 |
-| *Lecythis mesophylla* | Lecythidaceae | 1 | 1 | 0,1 | 0,2 | 18,5 | 18,8 |
-| *Attalea nucifera* | Arecaceae | 69 | 25 | 9,3 | 5,3 | 2,0 | 16,6 |
-| *Brownea stenantha* | Fabaceae | 30 | 15 | 4,0 | 3,2 | 3,1 | 10,4 |
-| *Isidodendron tripterocarpum* | Trigoniaceae | 4 | 3 | 0,5 | 0,6 | 8,6 | 9,8 |
-| *Tapirira guianensis* | Anacardiaceae | 21 | 12 | 2,8 | 2,6 | 3,8 | 9,1 |
-| *Brosimum utile* | Moraceae | 10 | 7 | 1,3 | 1,5 | 6,2 | 9,0 |
-| *Clathrotropis brunnea* | Fabaceae | 13 | 8 | 1,7 | 1,7 | 4,5 | 7,9 |
+| *Lecythis mesophylla* | Lecythidaceae | 1 | 1 | 0,1 | 0,2 | 18,9 | 19,2 |
+| *Attalea nucifera*† | Arecaceae | 69 | 25 | 9,3 | 5,3 | 0,0 | 14,6 |
+| *Brownea stenantha* | Fabaceae | 30 | 15 | 4,0 | 3,2 | 3,2 | 10,4 |
+| *Isidodendron tripterocarpum* | Trigoniaceae | 4 | 3 | 0,5 | 0,6 | 8,8 | 9,9 |
+| *Tapirira guianensis* | Anacardiaceae | 21 | 12 | 2,8 | 2,6 | 3,8 | 9,2 |
+| *Brosimum utile* | Moraceae | 10 | 7 | 1,3 | 1,5 | 6,3 | 9,2 |
+| *Clathrotropis brunnea* | Fabaceae | 13 | 8 | 1,7 | 1,7 | 4,6 | 8,0 |
 | *Sagotia brachysepala* | Euphorbiaceae | 21 | 12 | 2,8 | 2,6 | 1,9 | 7,3 |
-| *Amaioua corymbosa* | Rubiaceae | 25 | 14 | 3,4 | 3,0 | 0,5 | 6,9 |
+| *Pterocarpus officinalis* | Fabaceae | 1 | 1 | 0,1 | 0,2 | 6,6 | 6,9 |
 
 | Familia | N | Especies | DeR | DivR | DoR | IVF |
 |:----------------|----:|--------:|-----:|-----:|-----:|-----:|
-| Fabaceae | 78 | 25 | 10,7 | 15,2 | 17,9 | 43,7 |
-| Lecythidaceae | 15 | 6 | 2,1 | 3,6 | 21,2 | 26,9 |
-| Euphorbiaceae | 121 | 3 | 16,6 | 1,8 | 5,5 | 23,8 |
-| Moraceae | 42 | 12 | 5,7 | 7,3 | 9,5 | 22,5 |
-| Arecaceae | 90 | 5 | 12,3 | 3,0 | 3,4 | 18,8 |
-| Rubiaceae | 49 | 8 | 6,7 | 4,8 | 2,0 | 13,6 |
-| Annonaceae | 31 | 12 | 4,2 | 7,3 | 1,9 | 13,5 |
+| Fabaceae | 78 | 25 | 10,7 | 15,2 | 18,3 | 44,1 |
+| Lecythidaceae | 15 | 6 | 2,1 | 3,6 | 21,7 | 27,4 |
+| Euphorbiaceae | 121 | 3 | 16,6 | 1,8 | 5,6 | 24,0 |
+| Moraceae | 42 | 12 | 5,7 | 7,3 | 9,7 | 22,7 |
+| Arecaceae | 90 | 5 | 12,3 | 3,0 | 1,4 | 16,7 |
+| Rubiaceae | 49 | 8 | 6,7 | 4,8 | 2,1 | 13,6 |
+| Annonaceae | 31 | 12 | 4,2 | 7,3 | 2,0 | 13,5 |
 
-**Tabla 3.** Diversidad beta en los relictos de bosque de UNIPAZ. βSOR = disimilitud multisitio de Sørensen; βSIM = componente de recambio; βSNE = componente de anidamiento, calculados para conjuntos de diez transectos (promedio de 200 submuestras en Total y B1). βW = diversidad beta de Whittaker. Abajo, resultados de PERMANOVA y betadisper entre fragmentos con 9999 permutaciones.
+† Palma acaule sin área basal; su IVI depende solo de densidad y frecuencia.
+
+**Tabla 3.** Diversidad beta en los relictos de bosque de UNIPAZ. βSOR = disimilitud multisitio de Sørensen; βSIM = componente de recambio; βSNE = componente de anidamiento, calculados para conjuntos de nueve transectos (promedio de 200 submuestras en Total y B1). βW = diversidad beta de Whittaker. Abajo, resultados de PERMANOVA y betadisper entre fragmentos con 9999 permutaciones.
 
 | Unidad | βSOR | βSIM | βSNE | Recambio (%) | βW |
 |:-------|-----:|-----:|-----:|-------------:|-----:|
-| Total | 0,90 | 0,88 | 0,02 | 98 | 11,4 |
-| B1 | 0,89 | 0,87 | 0,02 | 97 | 8,7 |
-| B2 | 0,87 | 0,84 | 0,03 | 97 | 5,0 |
+| Total | 0,89 | 0,87 | 0,02 | 98 | 11,4 |
+| B1 | 0,88 | 0,86 | 0,02 | 97 | 8,8 |
+| B2 | 0,85 | 0,82 | 0,03 | 96 | 4,5 |
 
 | Distancia | F (PERMANOVA) | R^2^ | p | F (betadisper) | p |
 |:------------|-----------------:|------:|-------:|-----------------:|------:|
-| Bray-Curtis | 5,16 | 0,16 | <0,001 | 0,01 | 0,94 |
-| Sørensen | 5,17 | 0,16 | <0,001 | 4,46 | 0,044 |
+| Bray-Curtis | 6,29 | 0,18 | <0,001 | 0,75 | 0,39 |
+| Sørensen | 6,18 | 0,18 | <0,001 | 7,48 | 0,009 |
 
 # FIGURAS
 
-**Figura 1.** Ubicación de los 30 transectos de muestreo en los fragmentos de bosque B1 y B2 del predio de UNIPAZ, Barrancabermeja, Santander. Faltan las coordenadas de los transectos 19 y 21. [POR COMPLETAR: reemplazar por un mapa con escala métrica y localización regional.]
+**Figura 1.** Ubicación de los 30 transectos de muestreo en los fragmentos de bosque B1 y B2 del predio de UNIPAZ, Barrancabermeja, Santander. Faltan las coordenadas de los transectos 19 (B2) y 21 (B1). [POR COMPLETAR: reemplazar por un mapa con escala métrica y localización regional.]
 
 ![](../analisis_articulo/figuras/Fig1_transectos.png){width=12cm}
 
@@ -250,7 +254,7 @@ Tuomisto, H., Ruokolainen, K. & Yli-Halla, M. (2003). Dispersal, environment, an
 
 ![](../analisis_articulo/figuras/Fig4b_decaimiento_distancia.png){width=10cm}
 
-**Figura 5.** **a.** Distribución de individuos por clase diamétrica y **b.** porcentaje de individuos por estrato de altura en los fragmentos B1 y B2.
+**Figura 5.** **a.** Distribución de individuos por clase diamétrica y **b.** porcentaje de individuos por estrato de altura en los fragmentos B1 y B2. La distribución diamétrica excluye a *Attalea nucifera*, palma acaule.
 
 ![](../analisis_articulo/figuras/Fig5_estructura.png){width=15cm}
 

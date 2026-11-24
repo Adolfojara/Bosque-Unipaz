@@ -1,5 +1,5 @@
 "familia","especie","B1","B2","Total","Transectos","DAP_max"
-"Anacardiaceae","Tapirira guianensis",5,16,21,12,31.99
+"Anacardiaceae","Tapirira guianensis",6,15,21,12,31.99
 "Annonaceae","Annonaceae sp.1",1,0,1,1,5.73
 "Annonaceae","Duguetia antioquensis",4,0,4,3,19.8
 "Annonaceae","Duguetia surinamensis",1,0,1,1,8.12
@@ -14,23 +14,23 @@
 "Annonaceae","Xylopia emarginata",0,4,4,2,26.42
 "Apocynaceae","Lacmellea floribunda",1,3,4,3,24.51
 "Araliaceae","Dendropanax arboreus",1,0,1,1,9.55
-"Araliaceae","Schefflera morototoni",0,2,2,2,4.77
+"Araliaceae","Schefflera morototoni",1,1,2,2,4.77
 "Arecaceae","Astrocaryum malybo",9,0,9,7,11.79
-"Arecaceae","Attalea nucifera",52,17,69,25,13.57
+"Arecaceae","Attalea nucifera",53,16,69,25,NA
 "Arecaceae","Euterpe kalbreyeri",5,1,6,6,14.96
 "Arecaceae","Euterpe sp.1",1,0,1,1,15.34
 "Arecaceae","Geonoma sp.1",5,0,5,3,15.6
 "Bignoniaceae","Jacaranda caucana",4,13,17,8,19.89
-"Bignoniaceae","Memora aspericarpa",0,2,2,2,4.14
+"Bignoniaceae","Memora aspericarpa",1,1,2,2,4.14
 "Bignoniaceae","Tabebuia sp.1",3,1,4,4,10.19
 "Boraginaceae","Cordia sp.1",1,0,1,1,21.65
 "Burseraceae","Burseraceae sp.1",1,0,1,1,31.99
-"Burseraceae","Protium calanense",5,2,7,6,8.59
+"Burseraceae","Protium calanense",6,1,7,6,8.59
 "Burseraceae","Protium sagotianum",2,0,2,2,9.55
-"Burseraceae","Tetragastris panamensis",8,1,9,6,26.2
+"Burseraceae","Tetragastris panamensis",9,0,9,6,26.2
 "Celastraceae","Celastraceae gen-ign. sp.1",1,0,1,1,4.01
 "Celastraceae","Cheiloclinium cognatum",1,0,1,1,4.93
-"Celastraceae","Dendrobangia boliviana",1,2,3,2,12.41
+"Celastraceae","Dendrobangia boliviana",3,0,3,2,12.41
 "Celastraceae","Maytenus longipes",4,0,4,4,17.19
 "Chrysobalanaceae","Chrysobalanaceae gen-ign. sp.1",1,0,1,1,8.98
 "Chrysobalanaceae","Hirtella triandra",0,1,1,1,5.22
@@ -38,18 +38,18 @@
 "Clusiaceae","Clusia columnaris",0,1,1,1,3.5
 "Clusiaceae","Garcinia madruno",1,0,1,1,3.76
 "Connaraceae","Rourea cuspidata",0,1,1,1,3.82
-"Dichapetalaceae","Tapura bullata",17,3,20,11,7.32
+"Dichapetalaceae","Tapura bullata",19,1,20,11,7.32
 "Dilleniaceae","Dilleniaceae gen-ign. sp.1",1,0,1,1,3.82
 "Dilleniaceae","Doliocarpus major",4,0,4,2,8.59
 "Elaeocarpaceae","Sloanea tuerckheimii",2,0,2,2,10.25
 "Erythroxylaceae","Erythroxylum citrifolium",0,1,1,1,6.43
-"Euphorbiaceae","Mabea occidentalis",3,4,7,5,12.57
-"Euphorbiaceae","Sagotia brachysepala",16,5,21,12,20.12
-"Euphorbiaceae","Senefeldera testiculata",81,12,93,18,53.16
-"Fabaceae","Abarema macradenia",2,2,4,2,9.77
+"Euphorbiaceae","Mabea occidentalis",4,3,7,5,12.57
+"Euphorbiaceae","Sagotia brachysepala",21,0,21,12,20.12
+"Euphorbiaceae","Senefeldera testiculata",93,0,93,18,53.16
+"Fabaceae","Abarema macradenia",4,0,4,2,9.77
 "Fabaceae","Bauhinia rutilans",1,0,1,1,2.71
 "Fabaceae","Bauhinia sp.1",2,0,2,2,6.37
-"Fabaceae","Brownea stenantha",29,1,30,15,19.1
+"Fabaceae","Brownea stenantha",30,0,30,15,19.1
 "Fabaceae","Clathrotropis brunnea",13,0,13,8,41.06
 "Fabaceae","Fabaceae gen-ign. sp.1",0,1,1,1,6.37
 "Fabaceae","Fabaceae sp.1",1,0,1,1,17.35
@@ -113,12 +113,12 @@
 "Melastomataceae","Miconia sp.1",0,1,1,1,5.57
 "Melastomataceae","Miconia tomentosa",0,4,4,2,7.79
 "Melastomataceae","Mouriri sp.1",0,1,1,1,4.33
-"Moraceae","Brosimum guianense",7,2,9,7,41.38
+"Moraceae","Brosimum guianense",8,1,9,7,41.38
 "Moraceae","Brosimum sp.1",1,0,1,1,5.73
-"Moraceae","Brosimum utile",9,1,10,7,75.12
+"Moraceae","Brosimum utile",10,0,10,7,75.12
 "Moraceae","Ficus citrifolia",0,1,1,1,18.97
 "Moraceae","Ficus sp.1",0,1,1,1,20.5
-"Moraceae","Helianthostylis sprucei",5,1,6,5,14.01
+"Moraceae","Helianthostylis sprucei",6,0,6,5,14.01
 "Moraceae","Helicostylis sp.1",4,0,4,4,13.05
 "Moraceae","Helicostylis sp.2",0,1,1,1,2.86
 "Moraceae","Helicostylis tomentosa",1,0,1,1,7.77
@@ -143,7 +143,7 @@
 "Olacaceae","Minquartia guianensis",1,0,1,1,33.1
 "Olacaceae","Olacaceae gen-ign. sp.1",1,0,1,1,4.93
 "Olacaceae","Olacaceae gen-ign. sp.2",1,0,1,1,10.22
-"Polygonaceae","Coccoloba sp.1",2,4,6,6,70.28
+"Polygonaceae","Coccoloba sp.1",3,3,6,6,70.28
 "Rubiaceae","Amaioua corymbosa",10,15,25,14,10.5
 "Rubiaceae","Duroia hirsuta",2,0,2,2,6.18
 "Rubiaceae","Posoqueria latifolia",8,6,14,10,18.81
@@ -169,7 +169,7 @@
 "Simaroubaceae","Picrolemma sp.1",1,0,1,1,3.18
 "Siparunaceae","Siparuna guianensis",2,0,2,2,5.41
 "Trigoniaceae","Isidodendron tripterocarpum",4,0,4,3,103.45
-"Violaceae","Leonia triandra",3,1,4,3,6.94
+"Violaceae","Leonia triandra",4,0,4,3,6.94
 "Violaceae","Rinorea laurifolia",1,0,1,1,3.66
 "Violaceae","Rinorea lindeniana",1,0,1,1,4.14
 "Violaceae","Rinorea sp.1",1,0,1,1,2.42
