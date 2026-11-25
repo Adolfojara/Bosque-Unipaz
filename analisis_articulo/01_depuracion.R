@@ -46,7 +46,9 @@ xl$especie[1:727] <- str_squish(csv$especie)
 ## 2. Correcciones tipográficas
 fix <- c("Belllucia"   = "Bellucia",   "Byrsomima"  = "Byrsonima",
          "Clathotropis" = "Clathrotropis", "Duguettia" = "Duguetia",
-         "Olaceaceae"  = "Olacaceae",  "Compsouneura" = "Compsoneura",  "Leonia trindra" = "Leonia triandra",
+         "Olaceaceae"  = "Olacaceae",  "Compsouneura" = "Compsoneura",
+         "Leonia trindra" = "Leonia triandra",
+         "^Euterpe kalbreyeri$" = "Euterpe longevaginata",   # nombre indicado por A. Jara
          "Manilkara bidenta$" = "Manilkara bidentata",
          "Machaerium kegelli" = "Machaerium kegelii",
          "^clusia" = "Clusia", "^sorocea" = "Sorocea",

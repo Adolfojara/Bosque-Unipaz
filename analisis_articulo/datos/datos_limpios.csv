@@ -45,7 +45,7 @@
 2,"B1",1,"T2-3","Fabaceae","Brownea stenantha",1,8,5.35,5.35,0.00224599455691283,FALSE,FALSE,8
 2,"B1",1,"T2-4","Malpighiaceae","Byrsonima aff. hypoleuca",1,8,5.57,5.57,0.00243706006609465,FALSE,FALSE,8
 2,"B1",1,"s.n.","Euphorbiaceae","Senefeldera testiculata",1,7,5,5,0.00196150509613606,FALSE,FALSE,7
-2,"B1",1,"T2-10","Arecaceae","Euterpe kalbreyeri",16,6,30.56,7.64,0.00458366236104658,TRUE,FALSE,6
+2,"B1",1,"T2-10","Arecaceae","Euterpe longevaginata",16,6,30.56,7.64,0.00458366236104658,TRUE,FALSE,6
 2,"B1",1,"s.n.","Dichapetalaceae","Tapura bullata",1,6,3.15,3.15,0.000779938798621833,FALSE,FALSE,6
 2,"B1",1,"s.n.","Euphorbiaceae","Senefeldera testiculata",1,6,4.49,4.49,0.00158207971180499,FALSE,FALSE,6
 2,"B1",1,"T2-12","Fabaceae","Swartzia simplex",1,6,3.5,3.5,0.000962887405705967,FALSE,FALSE,6
@@ -80,7 +80,7 @@
 3,"B1",1,"t3-15","Rubiaceae","Amaioua corymbosa",1,6,6.21,6.21,0.00302593335553466,FALSE,FALSE,6
 3,"B1",1,"t3-15","Rubiaceae","Amaioua corymbosa",1,6,4.14,4.14,0.00134485926912652,FALSE,FALSE,6
 3,"B1",1,"T1-12","Rubiaceae","Rubiaceae sp.2",1,6,8.28,8.28,0.00537943707650606,FALSE,FALSE,6
-3,"B1",1,"t3-14","Arecaceae","Euterpe kalbreyeri",1,5.5,4.62,4.62,0.00167311633925355,TRUE,FALSE,5.5
+3,"B1",1,"t3-14","Arecaceae","Euterpe longevaginata",1,5.5,4.62,4.62,0.00167311633925355,TRUE,FALSE,5.5
 3,"B1",1,"t3-22","Annonaceae","Duguetia antioquensis",1,5,3.82,3.82,0.00114591559026165,FALSE,FALSE,5
 3,"B1",1,"t3-27","Arecaceae","Astrocaryum malybo",7,5,31.19,11.79,0.010918029096104,TRUE,FALSE,5
 3,"B1",1,"T3-08","Euphorbiaceae","Sagotia brachysepala",1,5,6.68,6.68,0.00350936649517629,FALSE,FALSE,5
@@ -112,7 +112,7 @@
 4,"B1",1,"t4-01","Euphorbiaceae","Senefeldera testiculata",1,5,4.93,4.93,0.00191184875389139,FALSE,FALSE,5
 4,"B1",1,"t4-01","Euphorbiaceae","Senefeldera testiculata",1,5,3.5,3.5,0.000962887405705967,FALSE,FALSE,5
 4,"B1",1,"t4-01","Euphorbiaceae","Senefeldera testiculata",1,4.5,3.98,3.98,0.00124339799290543,FALSE,FALSE,4.5
-4,"B1",1,"t4-05","Arecaceae","Euterpe kalbreyeri",10,4,31.83,10.07,0.00795774715459477,TRUE,FALSE,4
+4,"B1",1,"t4-05","Arecaceae","Euterpe longevaginata",10,4,31.83,10.07,0.00795774715459477,TRUE,FALSE,4
 4,"B1",1,"t4-01","Euphorbiaceae","Senefeldera testiculata",2,4,10.19,5.56,0.0024271128821514,FALSE,FALSE,4
 4,"B1",1,"t4-01","Euphorbiaceae","Senefeldera testiculata",1,4,3.5,3.5,0.000962887405705967,FALSE,FALSE,4
 4,"B1",1,"t4-01","Euphorbiaceae","Senefeldera testiculata",1,4,3.02,3.02,0.000718186680702178,FALSE,FALSE,4
@@ -313,7 +313,7 @@
 14,"B2",2,"T14-01","Euphorbiaceae","Mabea occidentalis",1,10,4.84,4.84,0.00183855790259757,FALSE,FALSE,10
 14,"B2",2,"T14-05","Fabaceae","Inga oerstediana",1,10,7,7,0.00385154962282387,FALSE,FALSE,10
 14,"B2",2,"T14-01","Euphorbiaceae","Mabea occidentalis",1,8.5,4.52,4.52,0.00160460013625249,FALSE,FALSE,8.5
-14,"B2",2,"T14-03","Arecaceae","Euterpe kalbreyeri",1,8,6.21,6.21,0.00302593335553466,TRUE,FALSE,8
+14,"B2",2,"T14-03","Arecaceae","Euterpe longevaginata",1,8,6.21,6.21,0.00302593335553466,TRUE,FALSE,8
 14,"B2",2,"T14-08","Polygonaceae","Coccoloba sp.1",2,7,9.68,7.02,0.00387574117417384,FALSE,FALSE,7
 14,"B2",2,"T14-04","Bignoniaceae","Jacaranda caucana",1,6,6.68,6.68,0.00350936649517629,FALSE,FALSE,6
 14,"B2",2,"T14-11","Melastomataceae","Mouriri sp.1",1,5,4.33,4.33,0.00147186491371385,FALSE,FALSE,5
@@ -621,7 +621,7 @@
 25,"B1",2,"T25-11","Fabaceae","Inga pezizifera",1,2,3.18,3.18,0.000795774715459477,FALSE,FALSE,2
 26,"B1",2,"T26-15","Sapotaceae","Chrysophyllum argenteum",1,24,29.13,29.13,0.066624248615056,FALSE,FALSE,24
 26,"B1",2,"T26-12","Fabaceae","Brownea stenantha",1,16,19.1,19.1,0.0286478897565412,FALSE,FALSE,16
-26,"B1",2,"T26-14","Arecaceae","Euterpe kalbreyeri",1,13,14.96,14.96,0.0175786634644998,TRUE,FALSE,13
+26,"B1",2,"T26-14","Arecaceae","Euterpe longevaginata",1,13,14.96,14.96,0.0175786634644998,TRUE,FALSE,13
 26,"B1",2,"T26-16","Celastraceae","Maytenus longipes",1,13,5.41,5.41,0.00229978892767789,FALSE,FALSE,13
 26,"B1",2,"T26-13","Fabaceae","Clathrotropis brunnea",1,13,10.19,10.19,0.00814873308630504,FALSE,FALSE,13
 26,"B1",2,"T26-05","Rubiaceae","Posoqueria latifolia",1,10,10.57,10.57,0.00877134722368054,FALSE,FALSE,10
@@ -686,7 +686,7 @@
 28,"B1",2,"T28-06","Lecythidaceae","Gustavia longifuniculata",1,14,18.3,18.3,0.026310301529879,FALSE,FALSE,14
 28,"B1",2,"T28-17","Olacaceae","Olacaceae gen-ign. sp.2",3,13,20.53,10.22,0.00820642675317585,FALSE,FALSE,13
 28,"B1",2,"T28-12","Nyctaginaceae","Neea divaricata",2,12,37.56,19.83,0.0308840167069823,FALSE,FALSE,12
-28,"B1",2,"T28-15","Arecaceae","Euterpe kalbreyeri",1,8,5.57,5.57,0.00243706006609465,TRUE,FALSE,8
+28,"B1",2,"T28-15","Arecaceae","Euterpe longevaginata",1,8,5.57,5.57,0.00243706006609465,TRUE,FALSE,8
 28,"B1",2,"T28-04","Euphorbiaceae","Sagotia brachysepala",1,8,11.78,11.78,0.0108941558546402,FALSE,FALSE,8
 28,"B1",2,"T28-10","Fabaceae","Brownea stenantha",1,8,7.96,7.96,0.00497359197162173,FALSE,FALSE,8
 28,"B1",2,"T28-19","Myristicaceae","Compsoneura mutisii",1,6,5.47,5.47,0.00235421991821532,FALSE,FALSE,6

@@ -430,7 +430,7 @@ bg$Especie <- str_squish(bg$Especie)
 fix_bg <- c("Belllucia" = "Bellucia", "Byrsomima" = "Byrsonima", "Clathotropis" = "Clathrotropis",
             "Duguettia" = "Duguetia", "kegelli" = "kegelii", "Manilkara bidenta$" = "Manilkara bidentata",
             "Licaniahypoleuca" = "Licania hypoleuca",
-            "^Euterpe precatoria var. longevaginata.*" = "Euterpe kalbreyeri")  # sinónimo
+            "^Euterpe precatoria var. longevaginata.*" = "Euterpe longevaginata")
 for (p in names(fix_bg)) bg$Especie <- str_replace(bg$Especie, p, fix_bg[[p]])
 reg <- names(bg)[4:12]                          # Amazonia ... Magdalena
 bg_in <- filter(bg, Especie %in% d$especie)

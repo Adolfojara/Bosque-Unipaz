@@ -50,7 +50,7 @@ Se recolectaron muestras botánicas de los individuos, que fueron identificadas 
 
 **Estructura.** Se calcularon la densidad, en individuos por hectárea, y el área basal, en m^2^ por hectárea. Excluyendo a *A. nucifera*, los individuos se agruparon en clases diamétricas de <5, 5-10, 10-20, 20-40 y ≥40 cm, y a la distribución se ajustó un modelo exponencial negativo para calcular el cociente de De Liocourt (Meyer, 1952). Las distribuciones diamétricas de los fragmentos se compararon con la prueba de Kolmogorov-Smirnov. Los individuos se asignaron a cuatro estratos de altura: sotobosque (<5 m), subdosel (5-12 m), dosel (12-25 m) y emergentes (>25 m). Se ajustó una relación alométrica log-log entre altura y DAP excluyendo las palmas. Cuatro alturas inverosímiles, con una relación altura/DAP mayor a 400, se excluyeron de los análisis de estructura vertical.
 
-**Afinidades biogeográficas.** Para las especies identificadas se registró su presencia en las regiones naturales de Colombia y en Centroamérica a partir de [POR COMPLETAR: fuentes de distribución, p. ej. Bernal et al., 2016], y se calculó el porcentaje de especies compartidas con cada región.
+**Afinidades biogeográficas.** Para las especies identificadas se registró su presencia en las regiones naturales de Colombia y en Centroamérica a partir del Catálogo de plantas y líquenes de Colombia (Bernal et al., 2016), Tropicos (Tropicos.org, 2026) y los registros de GBIF (GBIF.org, 2026), y se calculó el porcentaje de especies compartidas con cada región.
 
 Todos los análisis se hicieron en R 4.3.3 (R Core Team, 2024) con el paquete vegan 2.6-4 (Oksanen et al., 2022). Las funciones de rarefacción y extrapolación de números de Hill se programaron siguiendo a Chao et al. (2014) y se verificaron contra los valores publicados por Hsieh et al. (2016). Los datos y el código están disponibles en [POR COMPLETAR: repositorio público].
 
@@ -76,7 +76,7 @@ Por transecto se registraron en promedio 24,8 ± 6,9 individuos y 15,6 ± 4,0 es
 
 La disimilitud multisitio entre nueve transectos fue muy alta (βSOR = 0,89) y se debió casi por completo al recambio de especies (βSIM = 0,87), mientras que el anidamiento fue mínimo (βSNE = 0,02); el recambio explicó el 98 % de la diversidad beta (Tabla 3). El patrón fue similar dentro de cada fragmento (βSOR = 0,88 en B1 y 0,85 en B2, con 97 % y 96 % de recambio). La riqueza total fue 11,4 veces la riqueza media por transecto, y en promedio dos transectos compartieron solo el 19 % de sus especies (βSOR por pares = 0,81).
 
-Los fragmentos compartieron 28 especies; 115 fueron exclusivas de B1 y 35 de B2, con una similitud de Sørensen de 0,27. La composición difirió entre fragmentos tanto en abundancia (PERMANOVA Bray-Curtis: F = 6,29, R^2^ = 0,18, p < 0,001) como en incidencia (Sørensen: F = 6,18, R^2^ = 0,18, p < 0,001). La dispersión multivariada fue homogénea con Bray-Curtis (p = 0,39), por lo que la diferencia refleja un cambio real en composición; con Sørensen B2 fue menos disperso (p = 0,009). La similitud media de Bray-Curtis entre transectos del mismo fragmento fue más del doble que entre fragmentos (0,25 frente a 0,10). En el NMDS (estrés = 0,19) los transectos de B1 se asociaron con *S. testiculata*, *Euterpe kalbreyeri*, *Tapura bullata* y *B. stenantha*, y los de B2 con *T. guianensis*, *Cupania scrobiculata*, *Byrsonima spicata* y *Myrcia splendens* (Fig. 4a). La disimilitud florística aumentó con la distancia entre transectos, en un intervalo de hasta 1 km (Mantel Bray-Curtis: r = 0,36, p < 0,001; Sørensen: r = 0,31, p < 0,001) (Fig. 4b).
+Los fragmentos compartieron 28 especies; 115 fueron exclusivas de B1 y 35 de B2, con una similitud de Sørensen de 0,27. La composición difirió entre fragmentos tanto en abundancia (PERMANOVA Bray-Curtis: F = 6,29, R^2^ = 0,18, p < 0,001) como en incidencia (Sørensen: F = 6,18, R^2^ = 0,18, p < 0,001). La dispersión multivariada fue homogénea con Bray-Curtis (p = 0,39), por lo que la diferencia refleja un cambio real en composición; con Sørensen B2 fue menos disperso (p = 0,009). La similitud media de Bray-Curtis entre transectos del mismo fragmento fue más del doble que entre fragmentos (0,25 frente a 0,10). En el NMDS (estrés = 0,19) los transectos de B1 se asociaron con *S. testiculata*, *Euterpe longevaginata*, *Tapura bullata* y *B. stenantha*, y los de B2 con *T. guianensis*, *Cupania scrobiculata*, *Byrsonima spicata* y *Myrcia splendens* (Fig. 4a). La disimilitud florística aumentó con la distancia entre transectos, en un intervalo de hasta 1 km (Mantel Bray-Curtis: r = 0,36, p < 0,001; Sørensen: r = 0,31, p < 0,001) (Fig. 4b).
 
 ## Estructura
 
@@ -94,7 +94,7 @@ El bosque de UNIPAZ alberga una flora leñosa rica para el área muestreada. Con
 
 La combinación de alta cobertura de muestreo y baja completitud de la riqueza tiene una lectura clara: las especies comunes ya están bien caracterizadas, mientras que más de la mitad de las especies son raras y muchas aún no se han registrado. Los números de Hill de orden 1 y 2 están cerca de sus valores asintóticos, de modo que las conclusiones sobre dominancia y diversidad de especies comunes son robustas, mientras que la riqueza total debe interpretarse como una estimación mínima (Chao et al., 2014). Ampliar el muestreo, en particular en B2, mejoraría la estimación de la riqueza.
 
-La importancia de *S. testiculata* y de las palmas *A. nucifera*, *Astrocaryum malybo* y *E. kalbreyeri* en el sotobosque y el subdosel, junto con la de *B. stenantha*, *T. guianensis* y *C. brunnea*, define la fisonomía de este bosque. La dominancia de pocas especies de sotobosque contrasta con un dosel en el que el área basal depende de individuos aislados de gran tamaño, como *L. mesophylla*, *I. tripterocarpum*, *Pterocarpus officinalis* y *B. utile*. Que Fabaceae sea la familia más rica e importante concuerda con el patrón general de los bosques neotropicales de tierras bajas (Gentry, 1988).
+La importancia de *S. testiculata* y de las palmas *A. nucifera*, *Astrocaryum malybo* y *E. longevaginata* en el sotobosque y el subdosel, junto con la de *B. stenantha*, *T. guianensis* y *C. brunnea*, define la fisonomía de este bosque. La dominancia de pocas especies de sotobosque contrasta con un dosel en el que el área basal depende de individuos aislados de gran tamaño, como *L. mesophylla*, *I. tripterocarpum*, *Pterocarpus officinalis* y *B. utile*. Que Fabaceae sea la familia más rica e importante concuerda con el patrón general de los bosques neotropicales de tierras bajas (Gentry, 1988).
 
 El resultado más destacado es la magnitud del recambio de especies. Con un 98 % de la diversidad beta debida al reemplazo de especies y casi sin anidamiento, los transectos no son subconjuntos empobrecidos unos de otros, sino muestras de una flora muy heterogénea. El decaimiento de la similitud con la distancia en una escala de solo 1 km sugiere que la limitación de la dispersión, la heterogeneidad ambiental local o ambas estructuran la composición (Condit et al., 2002; Tuomisto et al., 2003). Parte de este recambio puede deberse también al gran número de especies raras, que inflan la disimilitud entre muestras pequeñas; por ello, la diferencia entre fragmentos se confirmó con medidas basadas en abundancia y con dispersión homogénea.
 
@@ -146,6 +146,8 @@ Etter, A., McAlpine, C. & Possingham, H. (2008). Historical patterns and drivers
 
 Fisher, R. A., Corbet, A. S. & Williams, C. B. (1943). The relation between the number of species and the number of individuals in a random sample of an animal population. *Journal of Animal Ecology*, *12*(1), 42-58. https://doi.org/10.2307/1411
 
+GBIF.org. (2026). *GBIF home page* [POR COMPLETAR: fecha de consulta]. Global Biodiversity Information Facility. https://www.gbif.org
+
 Gentry, A. H. (1982). Patterns of Neotropical plant species diversity. *Evolutionary Biology*, *15*, 1-84.
 
 Gentry, A. H. (1988). Changes in plant community diversity and floristic composition on environmental and geographical gradients. *Annals of the Missouri Botanical Garden*, *75*(1), 1-34. https://doi.org/10.2307/2399464
@@ -171,6 +173,8 @@ Oksanen, J., Simpson, G. L., Blanchet, F. G., Kindt, R., Legendre, P., Minchin, 
 Phillips, O. L. & Miller, J. S. (2002). *Global patterns of plant diversity: Alwyn H. Gentry's forest transect data set*. Missouri Botanical Garden Press.
 
 R Core Team. (2024). *R: A language and environment for statistical computing* (versión 4.3.3). R Foundation for Statistical Computing. https://www.R-project.org/
+
+Tropicos.org. (2026). *Tropicos* [POR COMPLETAR: fecha de consulta]. Missouri Botanical Garden. https://www.tropicos.org
 
 Tuomisto, H., Ruokolainen, K. & Yli-Halla, M. (2003). Dispersal, environment, and floristic variation of western Amazonian forests. *Science*, *299*(5604), 241-244. https://doi.org/10.1126/science.1078037
 
