@@ -1,0 +1,67 @@
+RESULTADOS CLAVE — generado por 02_analisis.R
+
+== A. COMPOSICIÓN ==
+Nivel de determinación de las morfoespecies: Especie = 104; Familia = 27; Género = 34; Indeterminada = 13
+Top 5 IVI: Senefeldera testiculata (19.5); Lecythis mesophylla (19.2); Attalea nucifera (14.6); Brownea stenantha (10.4); Isidodendron tripterocarpum (9.9)
+Top 5 IVF: Fabaceae (44.1); Lecythidaceae (27.4); Euphorbiaceae (24.0); Moraceae (22.7); Arecaceae (16.7)
+Familias más ricas: Fabaceae (25); Moraceae (12); Annonaceae (12); Rubiaceae (8); Malvaceae (7); Violaceae (7)
+Especies con 1 transecto: 100 de 178
+
+== B. DIVERSIDAD ALFA ==
+Total: n=745, S=178, cobertura=0.874, Chao1=361.8 (IC 279.9-443.8), completitud q0=49%
+B1: n=541, S=143, cobertura=0.856, Chao1=281.0 (IC 207.9-354.1), completitud q0=51%
+B2: n=204, S=63, cobertura=0.814, Chao1=422.2 (IC 81.2-763.2), completitud q0=15%
+Comparación a n = 204 individuos:
+  B1 q=0: 81.2 (75.7-86.8)
+  B1 q=1: 41.8 (36.7-46.9)
+  B1 q=2: 18.9 (15.2-22.6)
+  B2 q=0: 63.0 (52.6-73.4)
+  B2 q=1: 36.1 (29.5-42.6)
+  B2 q=2: 24.3 (19.9-28.6)
+Comparación a cobertura = 0.833:
+  B1 q=0 (m=412): 123.0 (113.1-132.9)
+  B1 q=1 (m=412): 51.0 (44.1-58.0)
+  B1 q=2 (m=412): 19.8 (15.7-23.8)
+  B2 q=0 (m=408): 99.1 (78.8-119.3)
+  B2 q=1 (m=408): 38.1 (30.0-46.1)
+  B2 q=2 (m=408): 25.7 (20.8-30.7)
+Estimadores por incidencia (Chao2 / Jack1 / Jack2):
+  Total: Sobs=178, Chao2=339.1±45.4, Jack1=274.7, Jack2=341.0
+  B1: Sobs=143, Chao2=279.7±42.6, Jack1=222.0, Jack2=276.5
+  B2: Sobs=63, Chao2=156.4±45.1, Jack1=99.4, Jack2=125.9
+Por transecto (medias ± DE): S = 15.6 ± 4; N = 24.8 ± 6.9; H' = 2.51 ± 0.33; J = 0.93 ± 0.05
+Wilcoxon B1 vs B2 por transecto: N p=0.174; S p=0.092; D1 p=0.497; invD p=1.000; J p=0.205; AB_m2 p=0.015
+
+== C. DIVERSIDAD BETA ==
+Total (10 transectos): βSOR=0.893, βSIM=0.874, βSNE=0.020 (recambio = 98%); βWhittaker=11.41
+B1 (10 transectos): βSOR=0.880, βSIM=0.857, βSNE=0.023 (recambio = 97%); βWhittaker=8.78
+B2 (10 transectos): βSOR=0.846, βSIM=0.815, βSNE=0.030 (recambio = 96%); βWhittaker=4.50
+Entre fragmentos: compartidas=28, exclusivas B1=115, exclusivas B2=35; Sørensen sim=0.272; βSIM=0.556
+Pares de transectos: βSOR medio=0.809, βSIM medio=0.772, βSNE medio=0.037
+PERMANOVA Bray-Curtis: F=6.29, R2=0.183, p=0.0001 | betadisper F=0.75, p=0.3896
+PERMANOVA Sørensen: F=6.18, R2=0.181, p=0.0001 | betadisper F=7.48, p=0.0091
+Similitud Bray-Curtis media dentro/entre fragmentos: 0.246 / 0.1
+NMDS Bray-Curtis (3 dimensiones): stress = 0.189
+Mantel (n=28 transectos con coordenadas): Bray-Curtis r=0.359 p=0.0001; Sørensen r=0.313 p=0.0004; distancia máx = 1001 m
+
+== D. ESTRUCTURA ==
+Individuos con DAP (sin A. nucifera): 676
+Clases diamétricas (Total, % individuos): <5=44.7%; 5-10=28.7%; 10-20=19.4%; 20-40=5.9%; ≥40=1.3%
+Área basal por clase (%): <5=3.0%; 5-10=7.0%; 10-20=20.0%; 20-40=22.4%; ≥40=47.6%
+Árboles ≥40 cm DAP: 9 individuos (1.3% de N) con 47.6% del área basal
+Exponencial negativa: ln(N/ha) = 6.98 -0.062·DAP; R2 = 0.987; cociente q medio = 2.69
+K-S distribución de DAP B1 vs B2: D=0.073, p=0.4565
+DAP mediano: B1=5.5 cm, B2=5.4 cm; Altura mediana: B1=6.0 m, B2=7.0 m
+Estratos (Total %): Sotobosque (<5 m)=34.7%; Subdosel (5-12 m)=42.9%; Dosel (12-25 m)=19.8%; Emergente (>25 m)=2.6%
+Alometría H-DAP (sin palmas, n=651): ln H = 0.59 + 0.74 ln DAP; R2 = 0.71
+Alturas máximas: Lecythis mesophylla 33 m; Tetragastris panamensis 30 m; Indet. 2 30 m; Isidodendron tripterocarpum 30 m
+
+== E. BIOGEOGRAFÍA ==
+Especies identificadas a especie: 103; con ficha válida en el Catálogo: 101
+Afinidades (% de especies): Magdalena medio y bajo=100%; Pacífico=66%; Amazonia=61%; Alto Magdalena=60%; Andes=58%; Llanura del Caribe=42%; Guayana y Serranía de La Macarena=41%; Orinoquia=38%; Valle del Cauca=27%; Sierra Nevada de Santa Marta=10%; Islas Caribeñas=2%
+Especies solo en el Valle del Magdalena: Duguetia surinamensis, Unonopsis aviceps, Attalea nucifera, Tapura bullata, Clathrotropis brunnea, Swartzia santanderensis, Gustavia longifuniculata, Isidodendron tripterocarpum, Rinorea laurifolia
+Especies del Alto Magdalena: 61; ausentes en el Alto Magdalena: 40
+Endémicas: Duguetia antioquensis, Ephedranthus colombianus, Guatteria cf. goudotiana, Pseudomalmea cf. boyacana, Pseudoxandra cf. pacifica, Unonopsis aviceps, Astrocaryum malybo, Attalea nucifera, Maytenus longipes, Tapura bullata, Brownea stenantha, Swartzia santanderensis, Gustavia longifuniculata, Elvasia oligandra, Isidodendron tripterocarpum
+Con categoría de amenaza: Astrocaryum malybo (En Peligro), Attalea nucifera (Vulnerable), Tapura bullata (En Peligro Crítico), Clathrotropis brunnea (En Peligro), Cariniana pyriformis (En Peligro Crítico), Gustavia longifuniculata (En Peligro), Lecythis mesophylla (Vulnerable), Isidodendron tripterocarpum (Vulnerable)
+
+Listo.
