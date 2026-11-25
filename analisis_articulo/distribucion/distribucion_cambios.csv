@@ -1,0 +1,1134 @@
+familia,especie,region,valor_original,valor_nuevo,estado,fuente,alerta_gbif
+Anacardiaceae,Tapirira guianensis,Amazonia,,1,especie nueva en la tabla,Catálogo,False
+Anacardiaceae,Tapirira guianensis,Andes,,1,especie nueva en la tabla,Catálogo,False
+Anacardiaceae,Tapirira guianensis,Guayana y Serranía de La Macarena,,1,especie nueva en la tabla,Catálogo,False
+Anacardiaceae,Tapirira guianensis,Islas Caribeñas,,0,especie nueva en la tabla,Catálogo,False
+Anacardiaceae,Tapirira guianensis,Llanura del Caribe,,1,especie nueva en la tabla,Catálogo,False
+Anacardiaceae,Tapirira guianensis,Orinoquia,,1,especie nueva en la tabla,Catálogo,False
+Anacardiaceae,Tapirira guianensis,Pacífico,,1,especie nueva en la tabla,Catálogo,False
+Anacardiaceae,Tapirira guianensis,Sierra Nevada de Santa Marta,,1,especie nueva en la tabla,Catálogo,False
+Anacardiaceae,Tapirira guianensis,Valle del Cauca,,1,especie nueva en la tabla,Catálogo,False
+Anacardiaceae,Tapirira guianensis,Alto Magdalena,,1,especie nueva en la tabla,Catálogo (Huila/Tolima); GBIF (151 registros),False
+Anacardiaceae,Tapirira guianensis,Magdalena medio y bajo,,1,especie nueva en la tabla,Catálogo,False
+Annonaceae,Duguetia antioquensis,Amazonia,0.0,0,confirmado,Catálogo,False
+Annonaceae,Duguetia antioquensis,Andes,1.0,1,confirmado,Catálogo,False
+Annonaceae,Duguetia antioquensis,Guayana y Serranía de La Macarena,0.0,0,confirmado,Catálogo,False
+Annonaceae,Duguetia antioquensis,Islas Caribeñas,,0,región nueva en el esquema,Catálogo,False
+Annonaceae,Duguetia antioquensis,Llanura del Caribe,0.0,0,confirmado,Catálogo,False
+Annonaceae,Duguetia antioquensis,Orinoquia,0.0,0,confirmado,Catálogo,False
+Annonaceae,Duguetia antioquensis,Pacífico,1.0,1,confirmado,Catálogo,False
+Annonaceae,Duguetia antioquensis,Sierra Nevada de Santa Marta,,0,región nueva en el esquema,Catálogo,False
+Annonaceae,Duguetia antioquensis,Valle del Cauca,0.0,0,confirmado,Catálogo,False
+Annonaceae,Duguetia antioquensis,Alto Magdalena,,0,región nueva en el esquema,sin registros en Catálogo ni GBIF,False
+Annonaceae,Duguetia antioquensis,Magdalena medio y bajo,1.0,1,confirmado,Catálogo,False
+Annonaceae,Duguetia surinamensis,Amazonia,1.0,0,corregido (quitado),Catálogo,False
+Annonaceae,Duguetia surinamensis,Andes,0.0,0,confirmado,Catálogo,False
+Annonaceae,Duguetia surinamensis,Guayana y Serranía de La Macarena,0.0,0,confirmado,Catálogo,False
+Annonaceae,Duguetia surinamensis,Islas Caribeñas,,0,región nueva en el esquema,Catálogo,False
+Annonaceae,Duguetia surinamensis,Llanura del Caribe,0.0,0,confirmado,Catálogo,False
+Annonaceae,Duguetia surinamensis,Orinoquia,0.0,0,confirmado,Catálogo,False
+Annonaceae,Duguetia surinamensis,Pacífico,0.0,0,confirmado,Catálogo,False
+Annonaceae,Duguetia surinamensis,Sierra Nevada de Santa Marta,,0,región nueva en el esquema,Catálogo,False
+Annonaceae,Duguetia surinamensis,Valle del Cauca,0.0,0,confirmado,Catálogo,False
+Annonaceae,Duguetia surinamensis,Alto Magdalena,,0,región nueva en el esquema,sin registros en Catálogo ni GBIF,False
+Annonaceae,Duguetia surinamensis,Magdalena medio y bajo,1.0,1,confirmado,Catálogo,False
+Annonaceae,Ephedranthus colombianus,Amazonia,0.0,0,confirmado,Catálogo,False
+Annonaceae,Ephedranthus colombianus,Andes,0.0,0,confirmado,Catálogo,False
+Annonaceae,Ephedranthus colombianus,Guayana y Serranía de La Macarena,0.0,0,confirmado,Catálogo,False
+Annonaceae,Ephedranthus colombianus,Islas Caribeñas,,0,región nueva en el esquema,Catálogo,False
+Annonaceae,Ephedranthus colombianus,Llanura del Caribe,0.0,0,confirmado,Catálogo,True
+Annonaceae,Ephedranthus colombianus,Orinoquia,0.0,0,confirmado,Catálogo,False
+Annonaceae,Ephedranthus colombianus,Pacífico,1.0,1,confirmado,Catálogo,False
+Annonaceae,Ephedranthus colombianus,Sierra Nevada de Santa Marta,,0,región nueva en el esquema,Catálogo,False
+Annonaceae,Ephedranthus colombianus,Valle del Cauca,0.0,0,confirmado,Catálogo,False
+Annonaceae,Ephedranthus colombianus,Alto Magdalena,,1,región nueva en el esquema,GBIF (3 registros),False
+Annonaceae,Ephedranthus colombianus,Magdalena medio y bajo,1.0,1,confirmado,Catálogo,False
+Annonaceae,Fusaea longifolia,Amazonia,1.0,1,confirmado,Catálogo,False
+Annonaceae,Fusaea longifolia,Andes,0.0,1,agregado,Catálogo,False
+Annonaceae,Fusaea longifolia,Guayana y Serranía de La Macarena,0.0,0,confirmado,Catálogo,False
+Annonaceae,Fusaea longifolia,Islas Caribeñas,,0,región nueva en el esquema,Catálogo,False
+Annonaceae,Fusaea longifolia,Llanura del Caribe,0.0,1,agregado,Catálogo,False
+Annonaceae,Fusaea longifolia,Orinoquia,0.0,0,confirmado,Catálogo,False
+Annonaceae,Fusaea longifolia,Pacífico,0.0,1,agregado,Catálogo,False
+Annonaceae,Fusaea longifolia,Sierra Nevada de Santa Marta,,0,región nueva en el esquema,Catálogo,False
+Annonaceae,Fusaea longifolia,Valle del Cauca,1.0,1,confirmado,Catálogo,False
+Annonaceae,Fusaea longifolia,Alto Magdalena,,0,región nueva en el esquema,sin registros en Catálogo ni GBIF,False
+Annonaceae,Fusaea longifolia,Magdalena medio y bajo,1.0,1,confirmado,Este inventario (Barrancabermeja); no listada en el Catálogo,False
+Annonaceae,Guatteria cf. goudotiana,Amazonia,0.0,0,confirmado,Catálogo,False
+Annonaceae,Guatteria cf. goudotiana,Andes,0.0,1,agregado,Catálogo,False
+Annonaceae,Guatteria cf. goudotiana,Guayana y Serranía de La Macarena,0.0,0,confirmado,Catálogo,False
+Annonaceae,Guatteria cf. goudotiana,Islas Caribeñas,,0,región nueva en el esquema,Catálogo,False
+Annonaceae,Guatteria cf. goudotiana,Llanura del Caribe,0.0,0,confirmado,Catálogo,False
+Annonaceae,Guatteria cf. goudotiana,Orinoquia,0.0,0,confirmado,Catálogo,False
+Annonaceae,Guatteria cf. goudotiana,Pacífico,0.0,0,confirmado,Catálogo,False
+Annonaceae,Guatteria cf. goudotiana,Sierra Nevada de Santa Marta,,0,región nueva en el esquema,Catálogo,False
+Annonaceae,Guatteria cf. goudotiana,Valle del Cauca,0.0,0,confirmado,Catálogo,False
+Annonaceae,Guatteria cf. goudotiana,Alto Magdalena,,0,región nueva en el esquema,sin registros en Catálogo ni GBIF,False
+Annonaceae,Guatteria cf. goudotiana,Magdalena medio y bajo,1.0,1,confirmado,Este inventario (Barrancabermeja); no listada en el Catálogo,False
+Annonaceae,Pseudomalmea cf. boyacana,Amazonia,,0,especie nueva en la tabla,Catálogo,False
+Annonaceae,Pseudomalmea cf. boyacana,Andes,,1,especie nueva en la tabla,Catálogo,False
+Annonaceae,Pseudomalmea cf. boyacana,Guayana y Serranía de La Macarena,,0,especie nueva en la tabla,Catálogo,False
+Annonaceae,Pseudomalmea cf. boyacana,Islas Caribeñas,,0,especie nueva en la tabla,Catálogo,False
+Annonaceae,Pseudomalmea cf. boyacana,Llanura del Caribe,,0,especie nueva en la tabla,Catálogo,False
+Annonaceae,Pseudomalmea cf. boyacana,Orinoquia,,0,especie nueva en la tabla,Catálogo,False
+Annonaceae,Pseudomalmea cf. boyacana,Pacífico,,0,especie nueva en la tabla,Catálogo,False
+Annonaceae,Pseudomalmea cf. boyacana,Sierra Nevada de Santa Marta,,0,especie nueva en la tabla,Catálogo,False
+Annonaceae,Pseudomalmea cf. boyacana,Valle del Cauca,,0,especie nueva en la tabla,Catálogo,False
+Annonaceae,Pseudomalmea cf. boyacana,Alto Magdalena,,0,especie nueva en la tabla,sin registros en Catálogo ni GBIF,False
+Annonaceae,Pseudomalmea cf. boyacana,Magdalena medio y bajo,,1,especie nueva en la tabla,Este inventario (Barrancabermeja); no listada en el Catálogo,False
+Annonaceae,Pseudoxandra cf. pacifica,Amazonia,,0,especie nueva en la tabla,Catálogo,True
+Annonaceae,Pseudoxandra cf. pacifica,Andes,,0,especie nueva en la tabla,Catálogo,False
+Annonaceae,Pseudoxandra cf. pacifica,Guayana y Serranía de La Macarena,,0,especie nueva en la tabla,Catálogo,False
+Annonaceae,Pseudoxandra cf. pacifica,Islas Caribeñas,,0,especie nueva en la tabla,Catálogo,False
+Annonaceae,Pseudoxandra cf. pacifica,Llanura del Caribe,,0,especie nueva en la tabla,Catálogo,False
+Annonaceae,Pseudoxandra cf. pacifica,Orinoquia,,0,especie nueva en la tabla,Catálogo,False
+Annonaceae,Pseudoxandra cf. pacifica,Pacífico,,1,especie nueva en la tabla,Catálogo,False
+Annonaceae,Pseudoxandra cf. pacifica,Sierra Nevada de Santa Marta,,0,especie nueva en la tabla,Catálogo,False
+Annonaceae,Pseudoxandra cf. pacifica,Valle del Cauca,,0,especie nueva en la tabla,Catálogo,False
+Annonaceae,Pseudoxandra cf. pacifica,Alto Magdalena,,0,especie nueva en la tabla,sin registros en Catálogo ni GBIF,False
+Annonaceae,Pseudoxandra cf. pacifica,Magdalena medio y bajo,,1,especie nueva en la tabla,Este inventario (Barrancabermeja); no listada en el Catálogo,False
+Annonaceae,Unonopsis aviceps,Amazonia,,0,especie nueva en la tabla,Catálogo,False
+Annonaceae,Unonopsis aviceps,Andes,,0,especie nueva en la tabla,Catálogo,False
+Annonaceae,Unonopsis aviceps,Guayana y Serranía de La Macarena,,0,especie nueva en la tabla,Catálogo,False
+Annonaceae,Unonopsis aviceps,Islas Caribeñas,,0,especie nueva en la tabla,Catálogo,False
+Annonaceae,Unonopsis aviceps,Llanura del Caribe,,0,especie nueva en la tabla,Catálogo,False
+Annonaceae,Unonopsis aviceps,Orinoquia,,0,especie nueva en la tabla,Catálogo,False
+Annonaceae,Unonopsis aviceps,Pacífico,,0,especie nueva en la tabla,Catálogo,False
+Annonaceae,Unonopsis aviceps,Sierra Nevada de Santa Marta,,0,especie nueva en la tabla,Catálogo,False
+Annonaceae,Unonopsis aviceps,Valle del Cauca,,0,especie nueva en la tabla,Catálogo,False
+Annonaceae,Unonopsis aviceps,Alto Magdalena,,0,especie nueva en la tabla,sin registros en Catálogo ni GBIF,False
+Annonaceae,Unonopsis aviceps,Magdalena medio y bajo,,1,especie nueva en la tabla,Catálogo,False
+Annonaceae,Xylopia emarginata,Amazonia,,1,especie nueva en la tabla,Catálogo,False
+Annonaceae,Xylopia emarginata,Andes,,1,especie nueva en la tabla,Catálogo,False
+Annonaceae,Xylopia emarginata,Guayana y Serranía de La Macarena,,0,especie nueva en la tabla,Catálogo,False
+Annonaceae,Xylopia emarginata,Islas Caribeñas,,0,especie nueva en la tabla,Catálogo,False
+Annonaceae,Xylopia emarginata,Llanura del Caribe,,0,especie nueva en la tabla,Catálogo,False
+Annonaceae,Xylopia emarginata,Orinoquia,,1,especie nueva en la tabla,Catálogo,False
+Annonaceae,Xylopia emarginata,Pacífico,,0,especie nueva en la tabla,Catálogo,False
+Annonaceae,Xylopia emarginata,Sierra Nevada de Santa Marta,,0,especie nueva en la tabla,Catálogo,False
+Annonaceae,Xylopia emarginata,Valle del Cauca,,0,especie nueva en la tabla,Catálogo,False
+Annonaceae,Xylopia emarginata,Alto Magdalena,,0,especie nueva en la tabla,sin registros en Catálogo ni GBIF,False
+Annonaceae,Xylopia emarginata,Magdalena medio y bajo,,1,especie nueva en la tabla,Catálogo,False
+Apocynaceae,Lacmellea floribunda,Amazonia,1.0,1,confirmado,Catálogo,False
+Apocynaceae,Lacmellea floribunda,Andes,0.0,0,confirmado,Catálogo,False
+Apocynaceae,Lacmellea floribunda,Guayana y Serranía de La Macarena,1.0,1,confirmado,Catálogo,False
+Apocynaceae,Lacmellea floribunda,Islas Caribeñas,,0,región nueva en el esquema,Catálogo,False
+Apocynaceae,Lacmellea floribunda,Llanura del Caribe,0.0,0,confirmado,Catálogo,False
+Apocynaceae,Lacmellea floribunda,Orinoquia,0.0,0,confirmado,Catálogo,True
+Apocynaceae,Lacmellea floribunda,Pacífico,0.0,0,confirmado,Catálogo,True
+Apocynaceae,Lacmellea floribunda,Sierra Nevada de Santa Marta,,0,región nueva en el esquema,Catálogo,False
+Apocynaceae,Lacmellea floribunda,Valle del Cauca,0.0,0,confirmado,Catálogo,False
+Apocynaceae,Lacmellea floribunda,Alto Magdalena,,0,región nueva en el esquema,sin registros en Catálogo ni GBIF,False
+Apocynaceae,Lacmellea floribunda,Magdalena medio y bajo,1.0,1,confirmado,Este inventario (Barrancabermeja); no listada en el Catálogo,False
+Araliaceae,Dendropanax arboreus,Amazonia,1.0,1,confirmado,Catálogo,False
+Araliaceae,Dendropanax arboreus,Andes,1.0,1,confirmado,Catálogo,False
+Araliaceae,Dendropanax arboreus,Guayana y Serranía de La Macarena,0.0,1,agregado,Catálogo,False
+Araliaceae,Dendropanax arboreus,Islas Caribeñas,,0,región nueva en el esquema,Catálogo,False
+Araliaceae,Dendropanax arboreus,Llanura del Caribe,1.0,1,confirmado,Catálogo,False
+Araliaceae,Dendropanax arboreus,Orinoquia,1.0,1,confirmado,Catálogo,False
+Araliaceae,Dendropanax arboreus,Pacífico,1.0,1,confirmado,Catálogo,False
+Araliaceae,Dendropanax arboreus,Sierra Nevada de Santa Marta,,1,región nueva en el esquema,Catálogo,False
+Araliaceae,Dendropanax arboreus,Valle del Cauca,1.0,1,confirmado,Catálogo,False
+Araliaceae,Dendropanax arboreus,Alto Magdalena,,1,región nueva en el esquema,GBIF (29 registros),False
+Araliaceae,Dendropanax arboreus,Magdalena medio y bajo,1.0,1,confirmado,Este inventario (Barrancabermeja); no listada en el Catálogo,False
+Araliaceae,Schefflera morototoni,Amazonia,,1,especie nueva en la tabla,Catálogo,False
+Araliaceae,Schefflera morototoni,Andes,,1,especie nueva en la tabla,Catálogo,False
+Araliaceae,Schefflera morototoni,Guayana y Serranía de La Macarena,,1,especie nueva en la tabla,Catálogo,False
+Araliaceae,Schefflera morototoni,Islas Caribeñas,,0,especie nueva en la tabla,Catálogo,False
+Araliaceae,Schefflera morototoni,Llanura del Caribe,,1,especie nueva en la tabla,Catálogo,False
+Araliaceae,Schefflera morototoni,Orinoquia,,1,especie nueva en la tabla,Catálogo,False
+Araliaceae,Schefflera morototoni,Pacífico,,0,especie nueva en la tabla,Catálogo,True
+Araliaceae,Schefflera morototoni,Sierra Nevada de Santa Marta,,0,especie nueva en la tabla,Catálogo,False
+Araliaceae,Schefflera morototoni,Valle del Cauca,,0,especie nueva en la tabla,Catálogo,False
+Araliaceae,Schefflera morototoni,Alto Magdalena,,1,especie nueva en la tabla,Catálogo (Huila/Tolima); GBIF (16 registros),False
+Araliaceae,Schefflera morototoni,Magdalena medio y bajo,,1,especie nueva en la tabla,Catálogo,False
+Arecaceae,Astrocaryum malybo,Amazonia,,0,especie nueva en la tabla,Catálogo,False
+Arecaceae,Astrocaryum malybo,Andes,,0,especie nueva en la tabla,Catálogo,False
+Arecaceae,Astrocaryum malybo,Guayana y Serranía de La Macarena,,0,especie nueva en la tabla,Catálogo,False
+Arecaceae,Astrocaryum malybo,Islas Caribeñas,,0,especie nueva en la tabla,Catálogo,False
+Arecaceae,Astrocaryum malybo,Llanura del Caribe,,1,especie nueva en la tabla,Catálogo,False
+Arecaceae,Astrocaryum malybo,Orinoquia,,0,especie nueva en la tabla,Catálogo,False
+Arecaceae,Astrocaryum malybo,Pacífico,,1,especie nueva en la tabla,Catálogo,False
+Arecaceae,Astrocaryum malybo,Sierra Nevada de Santa Marta,,0,especie nueva en la tabla,Catálogo,False
+Arecaceae,Astrocaryum malybo,Valle del Cauca,,0,especie nueva en la tabla,Catálogo,False
+Arecaceae,Astrocaryum malybo,Alto Magdalena,,1,especie nueva en la tabla,Catálogo (Huila/Tolima); GBIF (7 registros),False
+Arecaceae,Astrocaryum malybo,Magdalena medio y bajo,,1,especie nueva en la tabla,Catálogo,False
+Arecaceae,Attalea nucifera,Amazonia,0.0,0,confirmado,Catálogo,False
+Arecaceae,Attalea nucifera,Andes,0.0,0,confirmado,Catálogo,False
+Arecaceae,Attalea nucifera,Guayana y Serranía de La Macarena,0.0,0,confirmado,Catálogo,False
+Arecaceae,Attalea nucifera,Islas Caribeñas,,0,región nueva en el esquema,Catálogo,False
+Arecaceae,Attalea nucifera,Llanura del Caribe,1.0,0,corregido (quitado),Catálogo,False
+Arecaceae,Attalea nucifera,Orinoquia,0.0,0,confirmado,Catálogo,False
+Arecaceae,Attalea nucifera,Pacífico,0.0,0,confirmado,Catálogo,False
+Arecaceae,Attalea nucifera,Sierra Nevada de Santa Marta,,0,región nueva en el esquema,Catálogo,False
+Arecaceae,Attalea nucifera,Valle del Cauca,0.0,0,confirmado,Catálogo,False
+Arecaceae,Attalea nucifera,Alto Magdalena,,1,región nueva en el esquema,Catálogo (Huila/Tolima); GBIF (18 registros),False
+Arecaceae,Attalea nucifera,Magdalena medio y bajo,1.0,1,confirmado,Catálogo,False
+Arecaceae,Euterpe longevaginata,Amazonia,0.0,0,confirmado,Catálogo,False
+Arecaceae,Euterpe longevaginata,Andes,1.0,1,confirmado,Catálogo,False
+Arecaceae,Euterpe longevaginata,Guayana y Serranía de La Macarena,0.0,0,confirmado,Catálogo,False
+Arecaceae,Euterpe longevaginata,Islas Caribeñas,,0,región nueva en el esquema,Catálogo,False
+Arecaceae,Euterpe longevaginata,Llanura del Caribe,0.0,0,confirmado,Catálogo,False
+Arecaceae,Euterpe longevaginata,Orinoquia,0.0,1,agregado,Catálogo,False
+Arecaceae,Euterpe longevaginata,Pacífico,1.0,1,confirmado,Catálogo,False
+Arecaceae,Euterpe longevaginata,Sierra Nevada de Santa Marta,,0,región nueva en el esquema,Catálogo,False
+Arecaceae,Euterpe longevaginata,Valle del Cauca,0.0,0,confirmado,Catálogo,False
+Arecaceae,Euterpe longevaginata,Alto Magdalena,,1,región nueva en el esquema,Catálogo (Huila/Tolima),False
+Arecaceae,Euterpe longevaginata,Magdalena medio y bajo,1.0,1,confirmado,Catálogo,False
+Bignoniaceae,Jacaranda caucana,Amazonia,1.0,0,corregido (quitado),Catálogo,True
+Bignoniaceae,Jacaranda caucana,Andes,1.0,1,confirmado,Catálogo,False
+Bignoniaceae,Jacaranda caucana,Guayana y Serranía de La Macarena,0.0,0,confirmado,Catálogo,False
+Bignoniaceae,Jacaranda caucana,Islas Caribeñas,,0,región nueva en el esquema,Catálogo,False
+Bignoniaceae,Jacaranda caucana,Llanura del Caribe,1.0,1,confirmado,Catálogo,False
+Bignoniaceae,Jacaranda caucana,Orinoquia,0.0,0,confirmado,Catálogo,True
+Bignoniaceae,Jacaranda caucana,Pacífico,1.0,1,confirmado,Catálogo,False
+Bignoniaceae,Jacaranda caucana,Sierra Nevada de Santa Marta,,0,región nueva en el esquema,Catálogo,False
+Bignoniaceae,Jacaranda caucana,Valle del Cauca,1.0,1,confirmado,Catálogo,False
+Bignoniaceae,Jacaranda caucana,Alto Magdalena,,1,región nueva en el esquema,Catálogo (Huila/Tolima); GBIF (220 registros),False
+Bignoniaceae,Jacaranda caucana,Magdalena medio y bajo,1.0,1,confirmado,Catálogo,False
+Bignoniaceae,Memora aspericarpa,Amazonia,,0,especie nueva en la tabla,Catálogo,False
+Bignoniaceae,Memora aspericarpa,Andes,,0,especie nueva en la tabla,Catálogo,False
+Bignoniaceae,Memora aspericarpa,Guayana y Serranía de La Macarena,,1,especie nueva en la tabla,Catálogo,False
+Bignoniaceae,Memora aspericarpa,Islas Caribeñas,,0,especie nueva en la tabla,Catálogo,False
+Bignoniaceae,Memora aspericarpa,Llanura del Caribe,,1,especie nueva en la tabla,Catálogo,False
+Bignoniaceae,Memora aspericarpa,Orinoquia,,0,especie nueva en la tabla,Catálogo,False
+Bignoniaceae,Memora aspericarpa,Pacífico,,0,especie nueva en la tabla,Catálogo,False
+Bignoniaceae,Memora aspericarpa,Sierra Nevada de Santa Marta,,0,especie nueva en la tabla,Catálogo,False
+Bignoniaceae,Memora aspericarpa,Valle del Cauca,,1,especie nueva en la tabla,Catálogo,False
+Bignoniaceae,Memora aspericarpa,Alto Magdalena,,1,especie nueva en la tabla,GBIF (36 registros),False
+Bignoniaceae,Memora aspericarpa,Magdalena medio y bajo,,1,especie nueva en la tabla,Catálogo,False
+Burseraceae,Protium calanense,Amazonia,,1,especie nueva en la tabla,Catálogo,False
+Burseraceae,Protium calanense,Andes,,0,especie nueva en la tabla,Catálogo,False
+Burseraceae,Protium calanense,Guayana y Serranía de La Macarena,,1,especie nueva en la tabla,Catálogo,False
+Burseraceae,Protium calanense,Islas Caribeñas,,0,especie nueva en la tabla,Catálogo,False
+Burseraceae,Protium calanense,Llanura del Caribe,,0,especie nueva en la tabla,Catálogo,False
+Burseraceae,Protium calanense,Orinoquia,,1,especie nueva en la tabla,Catálogo,False
+Burseraceae,Protium calanense,Pacífico,,0,especie nueva en la tabla,Catálogo,False
+Burseraceae,Protium calanense,Sierra Nevada de Santa Marta,,0,especie nueva en la tabla,Catálogo,False
+Burseraceae,Protium calanense,Valle del Cauca,,0,especie nueva en la tabla,Catálogo,False
+Burseraceae,Protium calanense,Alto Magdalena,,1,especie nueva en la tabla,GBIF (10 registros),False
+Burseraceae,Protium calanense,Magdalena medio y bajo,,1,especie nueva en la tabla,Este inventario (Barrancabermeja); no listada en el Catálogo,False
+Burseraceae,Protium sagotianum,Amazonia,,1,especie nueva en la tabla,Catálogo,False
+Burseraceae,Protium sagotianum,Andes,,0,especie nueva en la tabla,Catálogo,False
+Burseraceae,Protium sagotianum,Guayana y Serranía de La Macarena,,1,especie nueva en la tabla,Catálogo,False
+Burseraceae,Protium sagotianum,Islas Caribeñas,,0,especie nueva en la tabla,Catálogo,False
+Burseraceae,Protium sagotianum,Llanura del Caribe,,0,especie nueva en la tabla,Catálogo,True
+Burseraceae,Protium sagotianum,Orinoquia,,0,especie nueva en la tabla,Catálogo,True
+Burseraceae,Protium sagotianum,Pacífico,,1,especie nueva en la tabla,Catálogo,False
+Burseraceae,Protium sagotianum,Sierra Nevada de Santa Marta,,0,especie nueva en la tabla,Catálogo,False
+Burseraceae,Protium sagotianum,Valle del Cauca,,0,especie nueva en la tabla,Catálogo,False
+Burseraceae,Protium sagotianum,Alto Magdalena,,1,especie nueva en la tabla,GBIF (3 registros),False
+Burseraceae,Protium sagotianum,Magdalena medio y bajo,,1,especie nueva en la tabla,Catálogo,False
+Burseraceae,Tetragastris panamensis,Amazonia,,1,especie nueva en la tabla,Catálogo,False
+Burseraceae,Tetragastris panamensis,Andes,,1,especie nueva en la tabla,Catálogo,False
+Burseraceae,Tetragastris panamensis,Guayana y Serranía de La Macarena,,0,especie nueva en la tabla,Catálogo,False
+Burseraceae,Tetragastris panamensis,Islas Caribeñas,,0,especie nueva en la tabla,Catálogo,False
+Burseraceae,Tetragastris panamensis,Llanura del Caribe,,0,especie nueva en la tabla,Catálogo,True
+Burseraceae,Tetragastris panamensis,Orinoquia,,1,especie nueva en la tabla,Catálogo,False
+Burseraceae,Tetragastris panamensis,Pacífico,,1,especie nueva en la tabla,Catálogo,False
+Burseraceae,Tetragastris panamensis,Sierra Nevada de Santa Marta,,0,especie nueva en la tabla,Catálogo,False
+Burseraceae,Tetragastris panamensis,Valle del Cauca,,0,especie nueva en la tabla,Catálogo,False
+Burseraceae,Tetragastris panamensis,Alto Magdalena,,1,especie nueva en la tabla,GBIF (11 registros),False
+Burseraceae,Tetragastris panamensis,Magdalena medio y bajo,,1,especie nueva en la tabla,Catálogo,False
+Celastraceae,Cheiloclinium cognatum,Amazonia,1.0,1,confirmado,Catálogo,False
+Celastraceae,Cheiloclinium cognatum,Andes,1.0,1,confirmado,Catálogo,False
+Celastraceae,Cheiloclinium cognatum,Guayana y Serranía de La Macarena,0.0,1,agregado,Catálogo,False
+Celastraceae,Cheiloclinium cognatum,Islas Caribeñas,,0,región nueva en el esquema,Catálogo,False
+Celastraceae,Cheiloclinium cognatum,Llanura del Caribe,0.0,0,confirmado,Catálogo,False
+Celastraceae,Cheiloclinium cognatum,Orinoquia,1.0,0,corregido (quitado),Catálogo,True
+Celastraceae,Cheiloclinium cognatum,Pacífico,1.0,1,confirmado,Catálogo,False
+Celastraceae,Cheiloclinium cognatum,Sierra Nevada de Santa Marta,,0,región nueva en el esquema,Catálogo,False
+Celastraceae,Cheiloclinium cognatum,Valle del Cauca,0.0,0,confirmado,Catálogo,False
+Celastraceae,Cheiloclinium cognatum,Alto Magdalena,,0,región nueva en el esquema,sin registros en Catálogo ni GBIF,False
+Celastraceae,Cheiloclinium cognatum,Magdalena medio y bajo,1.0,1,confirmado,Catálogo,False
+Celastraceae,Dendrobangia boliviana,Amazonia,1.0,1,confirmado,Catálogo,False
+Celastraceae,Dendrobangia boliviana,Andes,1.0,1,confirmado,Catálogo,False
+Celastraceae,Dendrobangia boliviana,Guayana y Serranía de La Macarena,0.0,0,confirmado,Catálogo,False
+Celastraceae,Dendrobangia boliviana,Islas Caribeñas,,0,región nueva en el esquema,Catálogo,False
+Celastraceae,Dendrobangia boliviana,Llanura del Caribe,0.0,0,confirmado,Catálogo,True
+Celastraceae,Dendrobangia boliviana,Orinoquia,0.0,0,confirmado,Catálogo,False
+Celastraceae,Dendrobangia boliviana,Pacífico,1.0,0,corregido (quitado),Catálogo,True
+Celastraceae,Dendrobangia boliviana,Sierra Nevada de Santa Marta,,0,región nueva en el esquema,Catálogo,False
+Celastraceae,Dendrobangia boliviana,Valle del Cauca,0.0,0,confirmado,Catálogo,False
+Celastraceae,Dendrobangia boliviana,Alto Magdalena,,1,región nueva en el esquema,GBIF (2 registros),False
+Celastraceae,Dendrobangia boliviana,Magdalena medio y bajo,1.0,1,confirmado,Este inventario (Barrancabermeja); no listada en el Catálogo,False
+Celastraceae,Maytenus longipes,Amazonia,,0,especie nueva en la tabla,Catálogo,False
+Celastraceae,Maytenus longipes,Andes,,0,especie nueva en la tabla,Catálogo,False
+Celastraceae,Maytenus longipes,Guayana y Serranía de La Macarena,,0,especie nueva en la tabla,Catálogo,False
+Celastraceae,Maytenus longipes,Islas Caribeñas,,0,especie nueva en la tabla,Catálogo,False
+Celastraceae,Maytenus longipes,Llanura del Caribe,,1,especie nueva en la tabla,Catálogo,False
+Celastraceae,Maytenus longipes,Orinoquia,,0,especie nueva en la tabla,Catálogo,False
+Celastraceae,Maytenus longipes,Pacífico,,0,especie nueva en la tabla,Catálogo,False
+Celastraceae,Maytenus longipes,Sierra Nevada de Santa Marta,,0,especie nueva en la tabla,Catálogo,False
+Celastraceae,Maytenus longipes,Valle del Cauca,,0,especie nueva en la tabla,Catálogo,False
+Celastraceae,Maytenus longipes,Alto Magdalena,,0,especie nueva en la tabla,sin registros en Catálogo ni GBIF,False
+Celastraceae,Maytenus longipes,Magdalena medio y bajo,,1,especie nueva en la tabla,Catálogo,False
+Chrysobalanaceae,Hirtella triandra,Amazonia,1.0,1,confirmado,Catálogo,False
+Chrysobalanaceae,Hirtella triandra,Andes,0.0,0,confirmado,Catálogo,False
+Chrysobalanaceae,Hirtella triandra,Guayana y Serranía de La Macarena,0.0,1,agregado,Catálogo,False
+Chrysobalanaceae,Hirtella triandra,Islas Caribeñas,,0,región nueva en el esquema,Catálogo,False
+Chrysobalanaceae,Hirtella triandra,Llanura del Caribe,1.0,1,confirmado,Catálogo,False
+Chrysobalanaceae,Hirtella triandra,Orinoquia,1.0,1,confirmado,Catálogo,False
+Chrysobalanaceae,Hirtella triandra,Pacífico,1.0,1,confirmado,Catálogo,False
+Chrysobalanaceae,Hirtella triandra,Sierra Nevada de Santa Marta,,1,región nueva en el esquema,Catálogo,False
+Chrysobalanaceae,Hirtella triandra,Valle del Cauca,1.0,0,corregido (quitado),Catálogo,False
+Chrysobalanaceae,Hirtella triandra,Alto Magdalena,,0,región nueva en el esquema,sin registros en Catálogo ni GBIF,False
+Chrysobalanaceae,Hirtella triandra,Magdalena medio y bajo,1.0,1,confirmado,Catálogo,False
+Chrysobalanaceae,Licania hypoleuca,Amazonia,1.0,0,corregido (quitado),Catálogo,True
+Chrysobalanaceae,Licania hypoleuca,Andes,0.0,0,confirmado,Catálogo,False
+Chrysobalanaceae,Licania hypoleuca,Guayana y Serranía de La Macarena,1.0,1,confirmado,Catálogo,False
+Chrysobalanaceae,Licania hypoleuca,Islas Caribeñas,,0,región nueva en el esquema,Catálogo,False
+Chrysobalanaceae,Licania hypoleuca,Llanura del Caribe,0.0,0,confirmado,Catálogo,False
+Chrysobalanaceae,Licania hypoleuca,Orinoquia,1.0,1,confirmado,Catálogo,False
+Chrysobalanaceae,Licania hypoleuca,Pacífico,1.0,1,confirmado,Catálogo,False
+Chrysobalanaceae,Licania hypoleuca,Sierra Nevada de Santa Marta,,0,región nueva en el esquema,Catálogo,False
+Chrysobalanaceae,Licania hypoleuca,Valle del Cauca,0.0,0,confirmado,Catálogo,False
+Chrysobalanaceae,Licania hypoleuca,Alto Magdalena,,1,región nueva en el esquema,GBIF (2 registros),False
+Chrysobalanaceae,Licania hypoleuca,Magdalena medio y bajo,1.0,1,confirmado,Catálogo,False
+Clusiaceae,Clusia columnaris,Amazonia,1.0,1,confirmado,Catálogo,False
+Clusiaceae,Clusia columnaris,Andes,1.0,1,confirmado,Catálogo,False
+Clusiaceae,Clusia columnaris,Guayana y Serranía de La Macarena,0.0,1,agregado,Catálogo,False
+Clusiaceae,Clusia columnaris,Islas Caribeñas,,0,región nueva en el esquema,Catálogo,False
+Clusiaceae,Clusia columnaris,Llanura del Caribe,0.0,0,confirmado,Catálogo,False
+Clusiaceae,Clusia columnaris,Orinoquia,1.0,1,confirmado,Catálogo,False
+Clusiaceae,Clusia columnaris,Pacífico,0.0,0,confirmado,Catálogo,True
+Clusiaceae,Clusia columnaris,Sierra Nevada de Santa Marta,,0,región nueva en el esquema,Catálogo,False
+Clusiaceae,Clusia columnaris,Valle del Cauca,0.0,0,confirmado,Catálogo,False
+Clusiaceae,Clusia columnaris,Alto Magdalena,,1,región nueva en el esquema,Catálogo (Huila/Tolima),False
+Clusiaceae,Clusia columnaris,Magdalena medio y bajo,1.0,1,confirmado,Catálogo,False
+Clusiaceae,Garcinia madruno,Amazonia,1.0,1,confirmado,Catálogo,False
+Clusiaceae,Garcinia madruno,Andes,0.0,1,agregado,Catálogo,False
+Clusiaceae,Garcinia madruno,Guayana y Serranía de La Macarena,0.0,1,agregado,Catálogo,False
+Clusiaceae,Garcinia madruno,Islas Caribeñas,,0,región nueva en el esquema,Catálogo,False
+Clusiaceae,Garcinia madruno,Llanura del Caribe,0.0,0,confirmado,Catálogo,True
+Clusiaceae,Garcinia madruno,Orinoquia,1.0,1,confirmado,Catálogo,False
+Clusiaceae,Garcinia madruno,Pacífico,1.0,1,confirmado,Catálogo,False
+Clusiaceae,Garcinia madruno,Sierra Nevada de Santa Marta,,0,región nueva en el esquema,Catálogo,False
+Clusiaceae,Garcinia madruno,Valle del Cauca,1.0,0,corregido (quitado),Catálogo,False
+Clusiaceae,Garcinia madruno,Alto Magdalena,,1,región nueva en el esquema,Catálogo (Huila/Tolima); GBIF (51 registros),False
+Clusiaceae,Garcinia madruno,Magdalena medio y bajo,1.0,1,confirmado,Catálogo,False
+Connaraceae,Rourea cuspidata,Amazonia,,1,especie nueva en la tabla,Catálogo,False
+Connaraceae,Rourea cuspidata,Andes,,0,especie nueva en la tabla,Catálogo,False
+Connaraceae,Rourea cuspidata,Guayana y Serranía de La Macarena,,0,especie nueva en la tabla,Catálogo,False
+Connaraceae,Rourea cuspidata,Islas Caribeñas,,0,especie nueva en la tabla,Catálogo,False
+Connaraceae,Rourea cuspidata,Llanura del Caribe,,0,especie nueva en la tabla,Catálogo,False
+Connaraceae,Rourea cuspidata,Orinoquia,,0,especie nueva en la tabla,Catálogo,False
+Connaraceae,Rourea cuspidata,Pacífico,,0,especie nueva en la tabla,Catálogo,False
+Connaraceae,Rourea cuspidata,Sierra Nevada de Santa Marta,,0,especie nueva en la tabla,Catálogo,False
+Connaraceae,Rourea cuspidata,Valle del Cauca,,0,especie nueva en la tabla,Catálogo,False
+Connaraceae,Rourea cuspidata,Alto Magdalena,,0,especie nueva en la tabla,sin registros en Catálogo ni GBIF,False
+Connaraceae,Rourea cuspidata,Magdalena medio y bajo,,1,especie nueva en la tabla,Catálogo,False
+Dichapetalaceae,Tapura bullata,Amazonia,,0,especie nueva en la tabla,Catálogo,False
+Dichapetalaceae,Tapura bullata,Andes,,0,especie nueva en la tabla,Catálogo,False
+Dichapetalaceae,Tapura bullata,Guayana y Serranía de La Macarena,,0,especie nueva en la tabla,Catálogo,False
+Dichapetalaceae,Tapura bullata,Islas Caribeñas,,0,especie nueva en la tabla,Catálogo,False
+Dichapetalaceae,Tapura bullata,Llanura del Caribe,,0,especie nueva en la tabla,Catálogo,False
+Dichapetalaceae,Tapura bullata,Orinoquia,,0,especie nueva en la tabla,Catálogo,False
+Dichapetalaceae,Tapura bullata,Pacífico,,0,especie nueva en la tabla,Catálogo,False
+Dichapetalaceae,Tapura bullata,Sierra Nevada de Santa Marta,,0,especie nueva en la tabla,Catálogo,False
+Dichapetalaceae,Tapura bullata,Valle del Cauca,,0,especie nueva en la tabla,Catálogo,False
+Dichapetalaceae,Tapura bullata,Alto Magdalena,,0,especie nueva en la tabla,sin registros en Catálogo ni GBIF,False
+Dichapetalaceae,Tapura bullata,Magdalena medio y bajo,,1,especie nueva en la tabla,Catálogo,False
+Dilleniaceae,Doliocarpus major,Amazonia,1.0,1,confirmado,Catálogo,False
+Dilleniaceae,Doliocarpus major,Andes,0.0,0,confirmado,Catálogo,False
+Dilleniaceae,Doliocarpus major,Guayana y Serranía de La Macarena,0.0,0,confirmado,Catálogo,False
+Dilleniaceae,Doliocarpus major,Islas Caribeñas,,0,región nueva en el esquema,Catálogo,False
+Dilleniaceae,Doliocarpus major,Llanura del Caribe,0.0,0,confirmado,Catálogo,False
+Dilleniaceae,Doliocarpus major,Orinoquia,1.0,0,corregido (quitado),Catálogo,False
+Dilleniaceae,Doliocarpus major,Pacífico,1.0,1,confirmado,Catálogo,False
+Dilleniaceae,Doliocarpus major,Sierra Nevada de Santa Marta,,0,región nueva en el esquema,Catálogo,False
+Dilleniaceae,Doliocarpus major,Valle del Cauca,0.0,0,confirmado,Catálogo,False
+Dilleniaceae,Doliocarpus major,Alto Magdalena,,0,región nueva en el esquema,sin registros en Catálogo ni GBIF,False
+Dilleniaceae,Doliocarpus major,Magdalena medio y bajo,1.0,1,confirmado,Este inventario (Barrancabermeja); no listada en el Catálogo,False
+Elaeocarpaceae,Sloanea tuerckheimii,Amazonia,,1,especie nueva en la tabla,Catálogo,False
+Elaeocarpaceae,Sloanea tuerckheimii,Andes,,1,especie nueva en la tabla,Catálogo,False
+Elaeocarpaceae,Sloanea tuerckheimii,Guayana y Serranía de La Macarena,,0,especie nueva en la tabla,Catálogo,False
+Elaeocarpaceae,Sloanea tuerckheimii,Islas Caribeñas,,0,especie nueva en la tabla,Catálogo,False
+Elaeocarpaceae,Sloanea tuerckheimii,Llanura del Caribe,,1,especie nueva en la tabla,Catálogo,False
+Elaeocarpaceae,Sloanea tuerckheimii,Orinoquia,,0,especie nueva en la tabla,Catálogo,False
+Elaeocarpaceae,Sloanea tuerckheimii,Pacífico,,1,especie nueva en la tabla,Catálogo,False
+Elaeocarpaceae,Sloanea tuerckheimii,Sierra Nevada de Santa Marta,,1,especie nueva en la tabla,Catálogo,False
+Elaeocarpaceae,Sloanea tuerckheimii,Valle del Cauca,,0,especie nueva en la tabla,Catálogo,False
+Elaeocarpaceae,Sloanea tuerckheimii,Alto Magdalena,,0,especie nueva en la tabla,sin registros en Catálogo ni GBIF,False
+Elaeocarpaceae,Sloanea tuerckheimii,Magdalena medio y bajo,,1,especie nueva en la tabla,Catálogo,False
+Erythroxylaceae,Erythroxylum citrifolium,Amazonia,1.0,1,confirmado,Catálogo,False
+Erythroxylaceae,Erythroxylum citrifolium,Andes,1.0,1,confirmado,Catálogo,False
+Erythroxylaceae,Erythroxylum citrifolium,Guayana y Serranía de La Macarena,0.0,1,agregado,Catálogo,False
+Erythroxylaceae,Erythroxylum citrifolium,Islas Caribeñas,,0,región nueva en el esquema,Catálogo,False
+Erythroxylaceae,Erythroxylum citrifolium,Llanura del Caribe,0.0,1,agregado,Catálogo,False
+Erythroxylaceae,Erythroxylum citrifolium,Orinoquia,1.0,1,confirmado,Catálogo,False
+Erythroxylaceae,Erythroxylum citrifolium,Pacífico,1.0,1,confirmado,Catálogo,False
+Erythroxylaceae,Erythroxylum citrifolium,Sierra Nevada de Santa Marta,,0,región nueva en el esquema,Catálogo,False
+Erythroxylaceae,Erythroxylum citrifolium,Valle del Cauca,1.0,1,confirmado,Catálogo,False
+Erythroxylaceae,Erythroxylum citrifolium,Alto Magdalena,,1,región nueva en el esquema,Catálogo (Huila/Tolima); GBIF (7 registros),False
+Erythroxylaceae,Erythroxylum citrifolium,Magdalena medio y bajo,1.0,1,confirmado,Catálogo,False
+Euphorbiaceae,Mabea occidentalis,Amazonia,1.0,1,confirmado,Catálogo,False
+Euphorbiaceae,Mabea occidentalis,Andes,1.0,1,confirmado,Catálogo,False
+Euphorbiaceae,Mabea occidentalis,Guayana y Serranía de La Macarena,1.0,1,confirmado,Catálogo,False
+Euphorbiaceae,Mabea occidentalis,Islas Caribeñas,,0,región nueva en el esquema,Catálogo,False
+Euphorbiaceae,Mabea occidentalis,Llanura del Caribe,0.0,1,agregado,Catálogo,False
+Euphorbiaceae,Mabea occidentalis,Orinoquia,0.0,0,confirmado,Catálogo,True
+Euphorbiaceae,Mabea occidentalis,Pacífico,1.0,1,confirmado,Catálogo,False
+Euphorbiaceae,Mabea occidentalis,Sierra Nevada de Santa Marta,,0,región nueva en el esquema,Catálogo,False
+Euphorbiaceae,Mabea occidentalis,Valle del Cauca,1.0,1,confirmado,Catálogo,False
+Euphorbiaceae,Mabea occidentalis,Alto Magdalena,,1,región nueva en el esquema,GBIF (4 registros),False
+Euphorbiaceae,Mabea occidentalis,Magdalena medio y bajo,1.0,1,confirmado,Este inventario (Barrancabermeja); no listada en el Catálogo,False
+Euphorbiaceae,Sagotia brachysepala,Amazonia,,1,especie nueva en la tabla,Catálogo,False
+Euphorbiaceae,Sagotia brachysepala,Andes,,1,especie nueva en la tabla,Catálogo,False
+Euphorbiaceae,Sagotia brachysepala,Guayana y Serranía de La Macarena,,0,especie nueva en la tabla,Catálogo,False
+Euphorbiaceae,Sagotia brachysepala,Islas Caribeñas,,0,especie nueva en la tabla,Catálogo,False
+Euphorbiaceae,Sagotia brachysepala,Llanura del Caribe,,0,especie nueva en la tabla,Catálogo,False
+Euphorbiaceae,Sagotia brachysepala,Orinoquia,,0,especie nueva en la tabla,Catálogo,False
+Euphorbiaceae,Sagotia brachysepala,Pacífico,,1,especie nueva en la tabla,Catálogo,False
+Euphorbiaceae,Sagotia brachysepala,Sierra Nevada de Santa Marta,,0,especie nueva en la tabla,Catálogo,False
+Euphorbiaceae,Sagotia brachysepala,Valle del Cauca,,0,especie nueva en la tabla,Catálogo,False
+Euphorbiaceae,Sagotia brachysepala,Alto Magdalena,,0,especie nueva en la tabla,sin registros en Catálogo ni GBIF,False
+Euphorbiaceae,Sagotia brachysepala,Magdalena medio y bajo,,1,especie nueva en la tabla,Este inventario (Barrancabermeja); no listada en el Catálogo,False
+Euphorbiaceae,Senefeldera testiculata,Amazonia,,0,especie nueva en la tabla,Catálogo,False
+Euphorbiaceae,Senefeldera testiculata,Andes,,0,especie nueva en la tabla,Catálogo,False
+Euphorbiaceae,Senefeldera testiculata,Guayana y Serranía de La Macarena,,0,especie nueva en la tabla,Catálogo,False
+Euphorbiaceae,Senefeldera testiculata,Islas Caribeñas,,0,especie nueva en la tabla,Catálogo,False
+Euphorbiaceae,Senefeldera testiculata,Llanura del Caribe,,1,especie nueva en la tabla,Catálogo,False
+Euphorbiaceae,Senefeldera testiculata,Orinoquia,,0,especie nueva en la tabla,Catálogo,False
+Euphorbiaceae,Senefeldera testiculata,Pacífico,,1,especie nueva en la tabla,Catálogo,False
+Euphorbiaceae,Senefeldera testiculata,Sierra Nevada de Santa Marta,,0,especie nueva en la tabla,Catálogo,False
+Euphorbiaceae,Senefeldera testiculata,Valle del Cauca,,0,especie nueva en la tabla,Catálogo,False
+Euphorbiaceae,Senefeldera testiculata,Alto Magdalena,,0,especie nueva en la tabla,sin registros en Catálogo ni GBIF,False
+Euphorbiaceae,Senefeldera testiculata,Magdalena medio y bajo,,1,especie nueva en la tabla,Catálogo,False
+Fabaceae,Abarema macradenia,Amazonia,1.0,0,corregido (quitado),Catálogo,False
+Fabaceae,Abarema macradenia,Andes,1.0,1,confirmado,Catálogo,False
+Fabaceae,Abarema macradenia,Guayana y Serranía de La Macarena,0.0,0,confirmado,Catálogo,False
+Fabaceae,Abarema macradenia,Islas Caribeñas,,0,región nueva en el esquema,Catálogo,False
+Fabaceae,Abarema macradenia,Llanura del Caribe,0.0,0,confirmado,Catálogo,False
+Fabaceae,Abarema macradenia,Orinoquia,0.0,0,confirmado,Catálogo,False
+Fabaceae,Abarema macradenia,Pacífico,1.0,1,confirmado,Catálogo,False
+Fabaceae,Abarema macradenia,Sierra Nevada de Santa Marta,,0,región nueva en el esquema,Catálogo,False
+Fabaceae,Abarema macradenia,Valle del Cauca,0.0,0,confirmado,Catálogo,False
+Fabaceae,Abarema macradenia,Alto Magdalena,,0,región nueva en el esquema,sin registros en Catálogo ni GBIF,False
+Fabaceae,Abarema macradenia,Magdalena medio y bajo,1.0,1,confirmado,Este inventario (Barrancabermeja); no listada en el Catálogo,False
+Fabaceae,Bauhinia rutilans,Amazonia,1.0,1,confirmado,Catálogo,False
+Fabaceae,Bauhinia rutilans,Andes,0.0,0,confirmado,Catálogo,False
+Fabaceae,Bauhinia rutilans,Guayana y Serranía de La Macarena,0.0,0,confirmado,Catálogo,False
+Fabaceae,Bauhinia rutilans,Islas Caribeñas,,0,región nueva en el esquema,Catálogo,False
+Fabaceae,Bauhinia rutilans,Llanura del Caribe,1.0,0,corregido (quitado),Catálogo,False
+Fabaceae,Bauhinia rutilans,Orinoquia,1.0,1,confirmado,Catálogo,False
+Fabaceae,Bauhinia rutilans,Pacífico,0.0,0,confirmado,Catálogo,False
+Fabaceae,Bauhinia rutilans,Sierra Nevada de Santa Marta,,0,región nueva en el esquema,Catálogo,False
+Fabaceae,Bauhinia rutilans,Valle del Cauca,0.0,0,confirmado,Catálogo,False
+Fabaceae,Bauhinia rutilans,Alto Magdalena,,0,región nueva en el esquema,sin registros en Catálogo ni GBIF,False
+Fabaceae,Bauhinia rutilans,Magdalena medio y bajo,1.0,1,confirmado,Este inventario (Barrancabermeja); no listada en el Catálogo,False
+Fabaceae,Brownea stenantha,Amazonia,0.0,0,confirmado,Catálogo,False
+Fabaceae,Brownea stenantha,Andes,0.0,0,confirmado,Catálogo,False
+Fabaceae,Brownea stenantha,Guayana y Serranía de La Macarena,0.0,0,confirmado,Catálogo,False
+Fabaceae,Brownea stenantha,Islas Caribeñas,,0,región nueva en el esquema,Catálogo,False
+Fabaceae,Brownea stenantha,Llanura del Caribe,1.0,1,confirmado,Catálogo,False
+Fabaceae,Brownea stenantha,Orinoquia,0.0,0,confirmado,Catálogo,False
+Fabaceae,Brownea stenantha,Pacífico,1.0,1,confirmado,Catálogo,False
+Fabaceae,Brownea stenantha,Sierra Nevada de Santa Marta,,0,región nueva en el esquema,Catálogo,False
+Fabaceae,Brownea stenantha,Valle del Cauca,0.0,0,confirmado,Catálogo,False
+Fabaceae,Brownea stenantha,Alto Magdalena,,0,región nueva en el esquema,sin registros en Catálogo ni GBIF,False
+Fabaceae,Brownea stenantha,Magdalena medio y bajo,1.0,1,confirmado,Catálogo,False
+Fabaceae,Clathrotropis brunnea,Amazonia,1.0,0,corregido (quitado),Catálogo,False
+Fabaceae,Clathrotropis brunnea,Andes,0.0,0,confirmado,Catálogo,False
+Fabaceae,Clathrotropis brunnea,Guayana y Serranía de La Macarena,0.0,0,confirmado,Catálogo,False
+Fabaceae,Clathrotropis brunnea,Islas Caribeñas,,0,región nueva en el esquema,Catálogo,False
+Fabaceae,Clathrotropis brunnea,Llanura del Caribe,0.0,0,confirmado,Catálogo,True
+Fabaceae,Clathrotropis brunnea,Orinoquia,0.0,0,confirmado,Catálogo,True
+Fabaceae,Clathrotropis brunnea,Pacífico,0.0,0,confirmado,Catálogo,False
+Fabaceae,Clathrotropis brunnea,Sierra Nevada de Santa Marta,,0,región nueva en el esquema,Catálogo,False
+Fabaceae,Clathrotropis brunnea,Valle del Cauca,0.0,0,confirmado,Catálogo,False
+Fabaceae,Clathrotropis brunnea,Alto Magdalena,,0,región nueva en el esquema,sin registros en Catálogo ni GBIF,False
+Fabaceae,Clathrotropis brunnea,Magdalena medio y bajo,1.0,1,confirmado,Catálogo,False
+Fabaceae,Inga acrocephala,Amazonia,1.0,1,confirmado,Catálogo,False
+Fabaceae,Inga acrocephala,Andes,1.0,1,confirmado,Catálogo,False
+Fabaceae,Inga acrocephala,Guayana y Serranía de La Macarena,0.0,1,agregado,Catálogo,False
+Fabaceae,Inga acrocephala,Islas Caribeñas,,0,región nueva en el esquema,Catálogo,False
+Fabaceae,Inga acrocephala,Llanura del Caribe,1.0,0,corregido (quitado),Catálogo,False
+Fabaceae,Inga acrocephala,Orinoquia,1.0,1,confirmado,Catálogo,False
+Fabaceae,Inga acrocephala,Pacífico,1.0,1,confirmado,Catálogo,False
+Fabaceae,Inga acrocephala,Sierra Nevada de Santa Marta,,0,región nueva en el esquema,Catálogo,False
+Fabaceae,Inga acrocephala,Valle del Cauca,1.0,0,corregido (quitado),Catálogo,False
+Fabaceae,Inga acrocephala,Alto Magdalena,,0,región nueva en el esquema,sin registros en Catálogo ni GBIF,False
+Fabaceae,Inga acrocephala,Magdalena medio y bajo,1.0,1,confirmado,Catálogo,False
+Fabaceae,Inga acuminata,Amazonia,1.0,1,confirmado,Catálogo,False
+Fabaceae,Inga acuminata,Andes,1.0,1,confirmado,Catálogo,False
+Fabaceae,Inga acuminata,Guayana y Serranía de La Macarena,0.0,1,agregado,Catálogo,False
+Fabaceae,Inga acuminata,Islas Caribeñas,,0,región nueva en el esquema,Catálogo,False
+Fabaceae,Inga acuminata,Llanura del Caribe,0.0,1,agregado,Catálogo,False
+Fabaceae,Inga acuminata,Orinoquia,1.0,1,confirmado,Catálogo,False
+Fabaceae,Inga acuminata,Pacífico,1.0,1,confirmado,Catálogo,False
+Fabaceae,Inga acuminata,Sierra Nevada de Santa Marta,,1,región nueva en el esquema,Catálogo,False
+Fabaceae,Inga acuminata,Valle del Cauca,0.0,0,confirmado,Catálogo,False
+Fabaceae,Inga acuminata,Alto Magdalena,,0,región nueva en el esquema,sin registros en Catálogo ni GBIF,False
+Fabaceae,Inga acuminata,Magdalena medio y bajo,1.0,1,confirmado,Catálogo,False
+Fabaceae,Inga heterophylla,Amazonia,1.0,1,confirmado,Catálogo,False
+Fabaceae,Inga heterophylla,Andes,1.0,1,confirmado,Catálogo,False
+Fabaceae,Inga heterophylla,Guayana y Serranía de La Macarena,1.0,1,confirmado,Catálogo,False
+Fabaceae,Inga heterophylla,Islas Caribeñas,,0,región nueva en el esquema,Catálogo,False
+Fabaceae,Inga heterophylla,Llanura del Caribe,0.0,1,agregado,Catálogo,False
+Fabaceae,Inga heterophylla,Orinoquia,1.0,1,confirmado,Catálogo,False
+Fabaceae,Inga heterophylla,Pacífico,1.0,0,corregido (quitado),Catálogo,True
+Fabaceae,Inga heterophylla,Sierra Nevada de Santa Marta,,0,región nueva en el esquema,Catálogo,False
+Fabaceae,Inga heterophylla,Valle del Cauca,1.0,1,confirmado,Catálogo,False
+Fabaceae,Inga heterophylla,Alto Magdalena,,0,región nueva en el esquema,sin registros en Catálogo ni GBIF,False
+Fabaceae,Inga heterophylla,Magdalena medio y bajo,1.0,1,confirmado,Catálogo,False
+Fabaceae,Inga oerstediana,Amazonia,1.0,1,confirmado,Catálogo,False
+Fabaceae,Inga oerstediana,Andes,1.0,1,confirmado,Catálogo,False
+Fabaceae,Inga oerstediana,Guayana y Serranía de La Macarena,1.0,1,confirmado,Catálogo,False
+Fabaceae,Inga oerstediana,Islas Caribeñas,,0,región nueva en el esquema,Catálogo,False
+Fabaceae,Inga oerstediana,Llanura del Caribe,1.0,1,confirmado,Catálogo,False
+Fabaceae,Inga oerstediana,Orinoquia,1.0,0,corregido (quitado),Catálogo,True
+Fabaceae,Inga oerstediana,Pacífico,0.0,1,agregado,Catálogo,False
+Fabaceae,Inga oerstediana,Sierra Nevada de Santa Marta,,1,región nueva en el esquema,Catálogo,False
+Fabaceae,Inga oerstediana,Valle del Cauca,0.0,1,agregado,Catálogo,False
+Fabaceae,Inga oerstediana,Alto Magdalena,,1,región nueva en el esquema,Catálogo (Huila/Tolima); GBIF (5 registros),False
+Fabaceae,Inga oerstediana,Magdalena medio y bajo,1.0,1,confirmado,Catálogo,False
+Fabaceae,Inga pezizifera,Amazonia,1.0,1,confirmado,Catálogo,False
+Fabaceae,Inga pezizifera,Andes,1.0,1,confirmado,Catálogo,False
+Fabaceae,Inga pezizifera,Guayana y Serranía de La Macarena,1.0,1,confirmado,Catálogo,False
+Fabaceae,Inga pezizifera,Islas Caribeñas,,0,región nueva en el esquema,Catálogo,False
+Fabaceae,Inga pezizifera,Llanura del Caribe,0.0,0,confirmado,Catálogo,True
+Fabaceae,Inga pezizifera,Orinoquia,0.0,0,confirmado,Catálogo,True
+Fabaceae,Inga pezizifera,Pacífico,1.0,1,confirmado,Catálogo,False
+Fabaceae,Inga pezizifera,Sierra Nevada de Santa Marta,,0,región nueva en el esquema,Catálogo,False
+Fabaceae,Inga pezizifera,Valle del Cauca,1.0,1,confirmado,Catálogo,False
+Fabaceae,Inga pezizifera,Alto Magdalena,,0,región nueva en el esquema,sin registros en Catálogo ni GBIF,False
+Fabaceae,Inga pezizifera,Magdalena medio y bajo,1.0,1,confirmado,Catálogo,False
+Fabaceae,Machaerium capote,Amazonia,,0,especie nueva en la tabla,Catálogo,False
+Fabaceae,Machaerium capote,Andes,,1,especie nueva en la tabla,Catálogo,False
+Fabaceae,Machaerium capote,Guayana y Serranía de La Macarena,,0,especie nueva en la tabla,Catálogo,False
+Fabaceae,Machaerium capote,Islas Caribeñas,,0,especie nueva en la tabla,Catálogo,False
+Fabaceae,Machaerium capote,Llanura del Caribe,,1,especie nueva en la tabla,Catálogo,False
+Fabaceae,Machaerium capote,Orinoquia,,0,especie nueva en la tabla,Catálogo,True
+Fabaceae,Machaerium capote,Pacífico,,1,especie nueva en la tabla,Catálogo,False
+Fabaceae,Machaerium capote,Sierra Nevada de Santa Marta,,0,especie nueva en la tabla,Catálogo,False
+Fabaceae,Machaerium capote,Valle del Cauca,,1,especie nueva en la tabla,Catálogo,False
+Fabaceae,Machaerium capote,Alto Magdalena,,1,especie nueva en la tabla,Catálogo (Huila/Tolima); GBIF (1679 registros),False
+Fabaceae,Machaerium capote,Magdalena medio y bajo,,1,especie nueva en la tabla,Catálogo,False
+Fabaceae,Machaerium kegelii,Amazonia,,0,especie nueva en la tabla,Catálogo,True
+Fabaceae,Machaerium kegelii,Andes,,0,especie nueva en la tabla,Catálogo,False
+Fabaceae,Machaerium kegelii,Guayana y Serranía de La Macarena,,1,especie nueva en la tabla,Catálogo,False
+Fabaceae,Machaerium kegelii,Islas Caribeñas,,0,especie nueva en la tabla,Catálogo,False
+Fabaceae,Machaerium kegelii,Llanura del Caribe,,0,especie nueva en la tabla,Catálogo,True
+Fabaceae,Machaerium kegelii,Orinoquia,,0,especie nueva en la tabla,Catálogo,False
+Fabaceae,Machaerium kegelii,Pacífico,,1,especie nueva en la tabla,Catálogo,False
+Fabaceae,Machaerium kegelii,Sierra Nevada de Santa Marta,,0,especie nueva en la tabla,Catálogo,False
+Fabaceae,Machaerium kegelii,Valle del Cauca,,0,especie nueva en la tabla,Catálogo,False
+Fabaceae,Machaerium kegelii,Alto Magdalena,,1,especie nueva en la tabla,GBIF (98 registros),False
+Fabaceae,Machaerium kegelii,Magdalena medio y bajo,,1,especie nueva en la tabla,Catálogo,False
+Fabaceae,Peltogyne paniculata,Amazonia,,0,especie nueva en la tabla,Catálogo,True
+Fabaceae,Peltogyne paniculata,Andes,,0,especie nueva en la tabla,Catálogo,False
+Fabaceae,Peltogyne paniculata,Guayana y Serranía de La Macarena,,0,especie nueva en la tabla,Catálogo,False
+Fabaceae,Peltogyne paniculata,Islas Caribeñas,,0,especie nueva en la tabla,Catálogo,False
+Fabaceae,Peltogyne paniculata,Llanura del Caribe,,1,especie nueva en la tabla,Catálogo,False
+Fabaceae,Peltogyne paniculata,Orinoquia,,0,especie nueva en la tabla,Catálogo,False
+Fabaceae,Peltogyne paniculata,Pacífico,,0,especie nueva en la tabla,Catálogo,False
+Fabaceae,Peltogyne paniculata,Sierra Nevada de Santa Marta,,0,especie nueva en la tabla,Catálogo,False
+Fabaceae,Peltogyne paniculata,Valle del Cauca,,0,especie nueva en la tabla,Catálogo,False
+Fabaceae,Peltogyne paniculata,Alto Magdalena,,0,especie nueva en la tabla,sin registros en Catálogo ni GBIF,False
+Fabaceae,Peltogyne paniculata,Magdalena medio y bajo,,1,especie nueva en la tabla,Catálogo,False
+Fabaceae,Pterocarpus officinalis,Amazonia,,1,especie nueva en la tabla,Catálogo,False
+Fabaceae,Pterocarpus officinalis,Andes,,0,especie nueva en la tabla,Catálogo,False
+Fabaceae,Pterocarpus officinalis,Guayana y Serranía de La Macarena,,0,especie nueva en la tabla,Catálogo,False
+Fabaceae,Pterocarpus officinalis,Islas Caribeñas,,0,especie nueva en la tabla,Catálogo,False
+Fabaceae,Pterocarpus officinalis,Llanura del Caribe,,1,especie nueva en la tabla,Catálogo,False
+Fabaceae,Pterocarpus officinalis,Orinoquia,,0,especie nueva en la tabla,Catálogo,True
+Fabaceae,Pterocarpus officinalis,Pacífico,,1,especie nueva en la tabla,Catálogo,False
+Fabaceae,Pterocarpus officinalis,Sierra Nevada de Santa Marta,,0,especie nueva en la tabla,Catálogo,False
+Fabaceae,Pterocarpus officinalis,Valle del Cauca,,0,especie nueva en la tabla,Catálogo,False
+Fabaceae,Pterocarpus officinalis,Alto Magdalena,,1,especie nueva en la tabla,GBIF (20 registros),False
+Fabaceae,Pterocarpus officinalis,Magdalena medio y bajo,,1,especie nueva en la tabla,Catálogo,False
+Fabaceae,Stryphnodendron microstachyum,Amazonia,,0,especie nueva en la tabla,Catálogo,True
+Fabaceae,Stryphnodendron microstachyum,Andes,,0,especie nueva en la tabla,Catálogo,False
+Fabaceae,Stryphnodendron microstachyum,Guayana y Serranía de La Macarena,,1,especie nueva en la tabla,Catálogo,False
+Fabaceae,Stryphnodendron microstachyum,Islas Caribeñas,,0,especie nueva en la tabla,Catálogo,False
+Fabaceae,Stryphnodendron microstachyum,Llanura del Caribe,,0,especie nueva en la tabla,Catálogo,False
+Fabaceae,Stryphnodendron microstachyum,Orinoquia,,1,especie nueva en la tabla,Catálogo,False
+Fabaceae,Stryphnodendron microstachyum,Pacífico,,0,especie nueva en la tabla,Catálogo,False
+Fabaceae,Stryphnodendron microstachyum,Sierra Nevada de Santa Marta,,0,especie nueva en la tabla,Catálogo,False
+Fabaceae,Stryphnodendron microstachyum,Valle del Cauca,,0,especie nueva en la tabla,Catálogo,False
+Fabaceae,Stryphnodendron microstachyum,Alto Magdalena,,0,especie nueva en la tabla,sin registros en Catálogo ni GBIF,False
+Fabaceae,Stryphnodendron microstachyum,Magdalena medio y bajo,,1,especie nueva en la tabla,Catálogo,False
+Fabaceae,Swartzia oraria,Amazonia,,1,especie nueva en la tabla,Catálogo,False
+Fabaceae,Swartzia oraria,Andes,,1,especie nueva en la tabla,Catálogo,False
+Fabaceae,Swartzia oraria,Guayana y Serranía de La Macarena,,0,especie nueva en la tabla,Catálogo,False
+Fabaceae,Swartzia oraria,Islas Caribeñas,,0,especie nueva en la tabla,Catálogo,False
+Fabaceae,Swartzia oraria,Llanura del Caribe,,1,especie nueva en la tabla,Catálogo,False
+Fabaceae,Swartzia oraria,Orinoquia,,0,especie nueva en la tabla,Catálogo,False
+Fabaceae,Swartzia oraria,Pacífico,,1,especie nueva en la tabla,Catálogo,False
+Fabaceae,Swartzia oraria,Sierra Nevada de Santa Marta,,0,especie nueva en la tabla,Catálogo,False
+Fabaceae,Swartzia oraria,Valle del Cauca,,0,especie nueva en la tabla,Catálogo,False
+Fabaceae,Swartzia oraria,Alto Magdalena,,0,especie nueva en la tabla,sin registros en Catálogo ni GBIF,False
+Fabaceae,Swartzia oraria,Magdalena medio y bajo,,1,especie nueva en la tabla,Catálogo,False
+Fabaceae,Swartzia santanderensis,Amazonia,,0,especie nueva en la tabla,Catálogo,False
+Fabaceae,Swartzia santanderensis,Andes,,0,especie nueva en la tabla,Catálogo,False
+Fabaceae,Swartzia santanderensis,Guayana y Serranía de La Macarena,,0,especie nueva en la tabla,Catálogo,False
+Fabaceae,Swartzia santanderensis,Islas Caribeñas,,0,especie nueva en la tabla,Catálogo,False
+Fabaceae,Swartzia santanderensis,Llanura del Caribe,,0,especie nueva en la tabla,Catálogo,False
+Fabaceae,Swartzia santanderensis,Orinoquia,,0,especie nueva en la tabla,Catálogo,False
+Fabaceae,Swartzia santanderensis,Pacífico,,0,especie nueva en la tabla,Catálogo,False
+Fabaceae,Swartzia santanderensis,Sierra Nevada de Santa Marta,,0,especie nueva en la tabla,Catálogo,False
+Fabaceae,Swartzia santanderensis,Valle del Cauca,,0,especie nueva en la tabla,Catálogo,False
+Fabaceae,Swartzia santanderensis,Alto Magdalena,,0,especie nueva en la tabla,sin registros en Catálogo ni GBIF,False
+Fabaceae,Swartzia santanderensis,Magdalena medio y bajo,,1,especie nueva en la tabla,Catálogo,False
+Fabaceae,Swartzia simplex,Amazonia,,1,especie nueva en la tabla,Catálogo,False
+Fabaceae,Swartzia simplex,Andes,,1,especie nueva en la tabla,Catálogo,False
+Fabaceae,Swartzia simplex,Guayana y Serranía de La Macarena,,0,especie nueva en la tabla,Catálogo,False
+Fabaceae,Swartzia simplex,Islas Caribeñas,,0,especie nueva en la tabla,Catálogo,False
+Fabaceae,Swartzia simplex,Llanura del Caribe,,1,especie nueva en la tabla,Catálogo,False
+Fabaceae,Swartzia simplex,Orinoquia,,0,especie nueva en la tabla,Catálogo,False
+Fabaceae,Swartzia simplex,Pacífico,,1,especie nueva en la tabla,Catálogo,False
+Fabaceae,Swartzia simplex,Sierra Nevada de Santa Marta,,0,especie nueva en la tabla,Catálogo,False
+Fabaceae,Swartzia simplex,Valle del Cauca,,0,especie nueva en la tabla,Catálogo,False
+Fabaceae,Swartzia simplex,Alto Magdalena,,1,especie nueva en la tabla,Catálogo (Huila/Tolima); GBIF (61 registros),False
+Fabaceae,Swartzia simplex,Magdalena medio y bajo,,1,especie nueva en la tabla,Catálogo,False
+Hypericaceae,Vismia macrophylla,Amazonia,,1,especie nueva en la tabla,Catálogo,False
+Hypericaceae,Vismia macrophylla,Andes,,1,especie nueva en la tabla,Catálogo,False
+Hypericaceae,Vismia macrophylla,Guayana y Serranía de La Macarena,,0,especie nueva en la tabla,Catálogo,False
+Hypericaceae,Vismia macrophylla,Islas Caribeñas,,0,especie nueva en la tabla,Catálogo,False
+Hypericaceae,Vismia macrophylla,Llanura del Caribe,,0,especie nueva en la tabla,Catálogo,True
+Hypericaceae,Vismia macrophylla,Orinoquia,,1,especie nueva en la tabla,Catálogo,False
+Hypericaceae,Vismia macrophylla,Pacífico,,0,especie nueva en la tabla,Catálogo,True
+Hypericaceae,Vismia macrophylla,Sierra Nevada de Santa Marta,,0,especie nueva en la tabla,Catálogo,False
+Hypericaceae,Vismia macrophylla,Valle del Cauca,,0,especie nueva en la tabla,Catálogo,False
+Hypericaceae,Vismia macrophylla,Alto Magdalena,,1,especie nueva en la tabla,Catálogo (Huila/Tolima); GBIF (4 registros),False
+Hypericaceae,Vismia macrophylla,Magdalena medio y bajo,,1,especie nueva en la tabla,Catálogo,False
+Lacistemataceae,Lacistema aggregatum,Amazonia,1.0,1,confirmado,Catálogo,False
+Lacistemataceae,Lacistema aggregatum,Andes,1.0,1,confirmado,Catálogo,False
+Lacistemataceae,Lacistema aggregatum,Guayana y Serranía de La Macarena,1.0,1,confirmado,Catálogo,False
+Lacistemataceae,Lacistema aggregatum,Islas Caribeñas,,0,región nueva en el esquema,Catálogo,False
+Lacistemataceae,Lacistema aggregatum,Llanura del Caribe,0.0,0,confirmado,Catálogo,True
+Lacistemataceae,Lacistema aggregatum,Orinoquia,1.0,1,confirmado,Catálogo,False
+Lacistemataceae,Lacistema aggregatum,Pacífico,0.0,1,agregado,Catálogo,False
+Lacistemataceae,Lacistema aggregatum,Sierra Nevada de Santa Marta,,1,región nueva en el esquema,Catálogo,False
+Lacistemataceae,Lacistema aggregatum,Valle del Cauca,0.0,0,confirmado,Catálogo,False
+Lacistemataceae,Lacistema aggregatum,Alto Magdalena,,1,región nueva en el esquema,Catálogo (Huila/Tolima); GBIF (61 registros),False
+Lacistemataceae,Lacistema aggregatum,Magdalena medio y bajo,1.0,1,confirmado,Catálogo,False
+Lauraceae,Aniba robusta,Amazonia,0.0,0,confirmado,Catálogo,False
+Lauraceae,Aniba robusta,Andes,1.0,1,confirmado,Catálogo,False
+Lauraceae,Aniba robusta,Guayana y Serranía de La Macarena,0.0,0,confirmado,Catálogo,False
+Lauraceae,Aniba robusta,Islas Caribeñas,,0,región nueva en el esquema,Catálogo,False
+Lauraceae,Aniba robusta,Llanura del Caribe,1.0,0,corregido (quitado),Catálogo,False
+Lauraceae,Aniba robusta,Orinoquia,0.0,0,confirmado,Catálogo,True
+Lauraceae,Aniba robusta,Pacífico,1.0,0,corregido (quitado),Catálogo,False
+Lauraceae,Aniba robusta,Sierra Nevada de Santa Marta,,0,región nueva en el esquema,Catálogo,False
+Lauraceae,Aniba robusta,Valle del Cauca,0.0,0,confirmado,Catálogo,False
+Lauraceae,Aniba robusta,Alto Magdalena,,1,región nueva en el esquema,GBIF (2 registros),False
+Lauraceae,Aniba robusta,Magdalena medio y bajo,1.0,1,confirmado,Este inventario (Barrancabermeja); no listada en el Catálogo,False
+Lauraceae,Ocotea longifolia,Amazonia,,1,especie nueva en la tabla,Catálogo,False
+Lauraceae,Ocotea longifolia,Andes,,0,especie nueva en la tabla,Catálogo,False
+Lauraceae,Ocotea longifolia,Guayana y Serranía de La Macarena,,1,especie nueva en la tabla,Catálogo,False
+Lauraceae,Ocotea longifolia,Islas Caribeñas,,0,especie nueva en la tabla,Catálogo,False
+Lauraceae,Ocotea longifolia,Llanura del Caribe,,1,especie nueva en la tabla,Catálogo,False
+Lauraceae,Ocotea longifolia,Orinoquia,,1,especie nueva en la tabla,Catálogo,False
+Lauraceae,Ocotea longifolia,Pacífico,,0,especie nueva en la tabla,Catálogo,False
+Lauraceae,Ocotea longifolia,Sierra Nevada de Santa Marta,,0,especie nueva en la tabla,Catálogo,False
+Lauraceae,Ocotea longifolia,Valle del Cauca,,0,especie nueva en la tabla,Catálogo,False
+Lauraceae,Ocotea longifolia,Alto Magdalena,,1,especie nueva en la tabla,Catálogo (Huila/Tolima); GBIF (107 registros),False
+Lauraceae,Ocotea longifolia,Magdalena medio y bajo,,1,especie nueva en la tabla,Catálogo,False
+Lecythidaceae,Cariniana pyriformis,Amazonia,,0,especie nueva en la tabla,Catálogo,True
+Lecythidaceae,Cariniana pyriformis,Andes,,0,especie nueva en la tabla,Catálogo,False
+Lecythidaceae,Cariniana pyriformis,Guayana y Serranía de La Macarena,,0,especie nueva en la tabla,Catálogo,False
+Lecythidaceae,Cariniana pyriformis,Islas Caribeñas,,0,especie nueva en la tabla,Catálogo,False
+Lecythidaceae,Cariniana pyriformis,Llanura del Caribe,,0,especie nueva en la tabla,Catálogo,True
+Lecythidaceae,Cariniana pyriformis,Orinoquia,,0,especie nueva en la tabla,Catálogo,False
+Lecythidaceae,Cariniana pyriformis,Pacífico,,1,especie nueva en la tabla,Catálogo,False
+Lecythidaceae,Cariniana pyriformis,Sierra Nevada de Santa Marta,,0,especie nueva en la tabla,Catálogo,False
+Lecythidaceae,Cariniana pyriformis,Valle del Cauca,,0,especie nueva en la tabla,Catálogo,False
+Lecythidaceae,Cariniana pyriformis,Alto Magdalena,,1,especie nueva en la tabla,GBIF (4 registros),False
+Lecythidaceae,Cariniana pyriformis,Magdalena medio y bajo,,1,especie nueva en la tabla,Catálogo,False
+Lecythidaceae,Couratari guianensis,Amazonia,1.0,0,corregido (quitado),Catálogo,True
+Lecythidaceae,Couratari guianensis,Andes,0.0,0,confirmado,Catálogo,False
+Lecythidaceae,Couratari guianensis,Guayana y Serranía de La Macarena,0.0,0,confirmado,Catálogo,False
+Lecythidaceae,Couratari guianensis,Islas Caribeñas,,0,región nueva en el esquema,Catálogo,False
+Lecythidaceae,Couratari guianensis,Llanura del Caribe,0.0,0,confirmado,Catálogo,True
+Lecythidaceae,Couratari guianensis,Orinoquia,0.0,0,confirmado,Catálogo,False
+Lecythidaceae,Couratari guianensis,Pacífico,1.0,1,confirmado,Catálogo,False
+Lecythidaceae,Couratari guianensis,Sierra Nevada de Santa Marta,,0,región nueva en el esquema,Catálogo,False
+Lecythidaceae,Couratari guianensis,Valle del Cauca,0.0,0,confirmado,Catálogo,False
+Lecythidaceae,Couratari guianensis,Alto Magdalena,,0,región nueva en el esquema,sin registros en Catálogo ni GBIF,False
+Lecythidaceae,Couratari guianensis,Magdalena medio y bajo,1.0,1,confirmado,Catálogo,False
+Lecythidaceae,Eschweilera coriacea,Amazonia,1.0,1,confirmado,Catálogo,False
+Lecythidaceae,Eschweilera coriacea,Andes,0.0,0,confirmado,Catálogo,False
+Lecythidaceae,Eschweilera coriacea,Guayana y Serranía de La Macarena,0.0,1,agregado,Catálogo,False
+Lecythidaceae,Eschweilera coriacea,Islas Caribeñas,,0,región nueva en el esquema,Catálogo,False
+Lecythidaceae,Eschweilera coriacea,Llanura del Caribe,0.0,0,confirmado,Catálogo,False
+Lecythidaceae,Eschweilera coriacea,Orinoquia,0.0,0,confirmado,Catálogo,True
+Lecythidaceae,Eschweilera coriacea,Pacífico,1.0,1,confirmado,Catálogo,False
+Lecythidaceae,Eschweilera coriacea,Sierra Nevada de Santa Marta,,0,región nueva en el esquema,Catálogo,False
+Lecythidaceae,Eschweilera coriacea,Valle del Cauca,1.0,0,corregido (quitado),Catálogo,False
+Lecythidaceae,Eschweilera coriacea,Alto Magdalena,,1,región nueva en el esquema,GBIF (12 registros),False
+Lecythidaceae,Eschweilera coriacea,Magdalena medio y bajo,1.0,1,confirmado,Catálogo,False
+Lecythidaceae,Gustavia longifuniculata,Amazonia,1.0,0,corregido (quitado),Catálogo,False
+Lecythidaceae,Gustavia longifuniculata,Andes,0.0,0,confirmado,Catálogo,False
+Lecythidaceae,Gustavia longifuniculata,Guayana y Serranía de La Macarena,0.0,0,confirmado,Catálogo,False
+Lecythidaceae,Gustavia longifuniculata,Islas Caribeñas,,0,región nueva en el esquema,Catálogo,False
+Lecythidaceae,Gustavia longifuniculata,Llanura del Caribe,0.0,0,confirmado,Catálogo,False
+Lecythidaceae,Gustavia longifuniculata,Orinoquia,0.0,0,confirmado,Catálogo,False
+Lecythidaceae,Gustavia longifuniculata,Pacífico,0.0,0,confirmado,Catálogo,False
+Lecythidaceae,Gustavia longifuniculata,Sierra Nevada de Santa Marta,,0,región nueva en el esquema,Catálogo,False
+Lecythidaceae,Gustavia longifuniculata,Valle del Cauca,0.0,0,confirmado,Catálogo,False
+Lecythidaceae,Gustavia longifuniculata,Alto Magdalena,,0,región nueva en el esquema,sin registros en Catálogo ni GBIF,False
+Lecythidaceae,Gustavia longifuniculata,Magdalena medio y bajo,1.0,1,confirmado,Catálogo,False
+Lecythidaceae,Lecythis mesophylla,Amazonia,0.0,0,confirmado,Catálogo,False
+Lecythidaceae,Lecythis mesophylla,Andes,0.0,0,confirmado,Catálogo,False
+Lecythidaceae,Lecythis mesophylla,Guayana y Serranía de La Macarena,0.0,0,confirmado,Catálogo,False
+Lecythidaceae,Lecythis mesophylla,Islas Caribeñas,,0,región nueva en el esquema,Catálogo,False
+Lecythidaceae,Lecythis mesophylla,Llanura del Caribe,0.0,1,agregado,Catálogo,False
+Lecythidaceae,Lecythis mesophylla,Orinoquia,0.0,0,confirmado,Catálogo,False
+Lecythidaceae,Lecythis mesophylla,Pacífico,0.0,0,confirmado,Catálogo,True
+Lecythidaceae,Lecythis mesophylla,Sierra Nevada de Santa Marta,,0,región nueva en el esquema,Catálogo,False
+Lecythidaceae,Lecythis mesophylla,Valle del Cauca,0.0,0,confirmado,Catálogo,False
+Lecythidaceae,Lecythis mesophylla,Alto Magdalena,,0,región nueva en el esquema,sin registros en Catálogo ni GBIF,False
+Lecythidaceae,Lecythis mesophylla,Magdalena medio y bajo,1.0,1,confirmado,Catálogo,False
+Malpighiaceae,Byrsonima spicata,Amazonia,1.0,1,confirmado,Catálogo,False
+Malpighiaceae,Byrsonima spicata,Andes,1.0,1,confirmado,Catálogo,False
+Malpighiaceae,Byrsonima spicata,Guayana y Serranía de La Macarena,0.0,1,agregado,Catálogo,False
+Malpighiaceae,Byrsonima spicata,Islas Caribeñas,,0,región nueva en el esquema,Catálogo,False
+Malpighiaceae,Byrsonima spicata,Llanura del Caribe,1.0,1,confirmado,Catálogo,False
+Malpighiaceae,Byrsonima spicata,Orinoquia,1.0,1,confirmado,Catálogo,False
+Malpighiaceae,Byrsonima spicata,Pacífico,1.0,1,confirmado,Catálogo,False
+Malpighiaceae,Byrsonima spicata,Sierra Nevada de Santa Marta,,0,región nueva en el esquema,Catálogo,False
+Malpighiaceae,Byrsonima spicata,Valle del Cauca,1.0,1,confirmado,Catálogo,False
+Malpighiaceae,Byrsonima spicata,Alto Magdalena,,1,región nueva en el esquema,Catálogo (Huila/Tolima); GBIF (5 registros),False
+Malpighiaceae,Byrsonima spicata,Magdalena medio y bajo,1.0,1,confirmado,Catálogo,False
+Malvaceae,Apeiba aspera,Amazonia,1.0,1,confirmado,Catálogo,False
+Malvaceae,Apeiba aspera,Andes,0.0,1,agregado,Catálogo,False
+Malvaceae,Apeiba aspera,Guayana y Serranía de La Macarena,0.0,0,confirmado,Catálogo,False
+Malvaceae,Apeiba aspera,Islas Caribeñas,,0,región nueva en el esquema,Catálogo,False
+Malvaceae,Apeiba aspera,Llanura del Caribe,0.0,0,confirmado,Catálogo,True
+Malvaceae,Apeiba aspera,Orinoquia,1.0,0,corregido (quitado),Catálogo,True
+Malvaceae,Apeiba aspera,Pacífico,1.0,1,confirmado,Catálogo,False
+Malvaceae,Apeiba aspera,Sierra Nevada de Santa Marta,,0,región nueva en el esquema,Catálogo,False
+Malvaceae,Apeiba aspera,Valle del Cauca,0.0,0,confirmado,Catálogo,False
+Malvaceae,Apeiba aspera,Alto Magdalena,,1,región nueva en el esquema,GBIF (6 registros),False
+Malvaceae,Apeiba aspera,Magdalena medio y bajo,1.0,1,confirmado,Catálogo,False
+Malvaceae,Sterculia apetala,Amazonia,,0,especie nueva en la tabla,Catálogo,True
+Malvaceae,Sterculia apetala,Andes,,0,especie nueva en la tabla,Catálogo,False
+Malvaceae,Sterculia apetala,Guayana y Serranía de La Macarena,,0,especie nueva en la tabla,Catálogo,False
+Malvaceae,Sterculia apetala,Islas Caribeñas,,0,especie nueva en la tabla,Catálogo,False
+Malvaceae,Sterculia apetala,Llanura del Caribe,,1,especie nueva en la tabla,Catálogo,False
+Malvaceae,Sterculia apetala,Orinoquia,,0,especie nueva en la tabla,Catálogo,True
+Malvaceae,Sterculia apetala,Pacífico,,1,especie nueva en la tabla,Catálogo,False
+Malvaceae,Sterculia apetala,Sierra Nevada de Santa Marta,,0,especie nueva en la tabla,Catálogo,False
+Malvaceae,Sterculia apetala,Valle del Cauca,,1,especie nueva en la tabla,Catálogo,False
+Malvaceae,Sterculia apetala,Alto Magdalena,,1,especie nueva en la tabla,GBIF (8 registros),False
+Malvaceae,Sterculia apetala,Magdalena medio y bajo,,1,especie nueva en la tabla,Catálogo,False
+Malvaceae,Trichospermum colombianum,Amazonia,,0,especie nueva en la tabla,Catálogo,True
+Malvaceae,Trichospermum colombianum,Andes,,1,especie nueva en la tabla,Catálogo,False
+Malvaceae,Trichospermum colombianum,Guayana y Serranía de La Macarena,,0,especie nueva en la tabla,Catálogo,False
+Malvaceae,Trichospermum colombianum,Islas Caribeñas,,0,especie nueva en la tabla,Catálogo,False
+Malvaceae,Trichospermum colombianum,Llanura del Caribe,,0,especie nueva en la tabla,Catálogo,True
+Malvaceae,Trichospermum colombianum,Orinoquia,,0,especie nueva en la tabla,Catálogo,False
+Malvaceae,Trichospermum colombianum,Pacífico,,1,especie nueva en la tabla,Catálogo,False
+Malvaceae,Trichospermum colombianum,Sierra Nevada de Santa Marta,,0,especie nueva en la tabla,Catálogo,False
+Malvaceae,Trichospermum colombianum,Valle del Cauca,,0,especie nueva en la tabla,Catálogo,False
+Malvaceae,Trichospermum colombianum,Alto Magdalena,,1,especie nueva en la tabla,GBIF (9 registros),False
+Malvaceae,Trichospermum colombianum,Magdalena medio y bajo,,1,especie nueva en la tabla,Catálogo,False
+Melastomataceae,Bellucia grossularioides,Amazonia,1.0,1,confirmado,Catálogo,False
+Melastomataceae,Bellucia grossularioides,Andes,1.0,1,confirmado,Catálogo,False
+Melastomataceae,Bellucia grossularioides,Guayana y Serranía de La Macarena,0.0,1,agregado,Catálogo,False
+Melastomataceae,Bellucia grossularioides,Islas Caribeñas,,0,región nueva en el esquema,Catálogo,False
+Melastomataceae,Bellucia grossularioides,Llanura del Caribe,0.0,0,confirmado,Catálogo,False
+Melastomataceae,Bellucia grossularioides,Orinoquia,1.0,1,confirmado,Catálogo,False
+Melastomataceae,Bellucia grossularioides,Pacífico,1.0,0,corregido (quitado),Catálogo,False
+Melastomataceae,Bellucia grossularioides,Sierra Nevada de Santa Marta,,0,región nueva en el esquema,Catálogo,False
+Melastomataceae,Bellucia grossularioides,Valle del Cauca,1.0,1,confirmado,Catálogo,False
+Melastomataceae,Bellucia grossularioides,Alto Magdalena,,1,región nueva en el esquema,GBIF (9 registros),False
+Melastomataceae,Bellucia grossularioides,Magdalena medio y bajo,1.0,1,confirmado,Catálogo,False
+Melastomataceae,Bellucia pentamera,Amazonia,,1,especie nueva en la tabla,Catálogo,False
+Melastomataceae,Bellucia pentamera,Andes,,1,especie nueva en la tabla,Catálogo,False
+Melastomataceae,Bellucia pentamera,Guayana y Serranía de La Macarena,,1,especie nueva en la tabla,Catálogo,False
+Melastomataceae,Bellucia pentamera,Islas Caribeñas,,0,especie nueva en la tabla,Catálogo,False
+Melastomataceae,Bellucia pentamera,Llanura del Caribe,,0,especie nueva en la tabla,Catálogo,True
+Melastomataceae,Bellucia pentamera,Orinoquia,,0,especie nueva en la tabla,Catálogo,True
+Melastomataceae,Bellucia pentamera,Pacífico,,1,especie nueva en la tabla,Catálogo,False
+Melastomataceae,Bellucia pentamera,Sierra Nevada de Santa Marta,,1,especie nueva en la tabla,Catálogo,False
+Melastomataceae,Bellucia pentamera,Valle del Cauca,,1,especie nueva en la tabla,Catálogo,False
+Melastomataceae,Bellucia pentamera,Alto Magdalena,,1,especie nueva en la tabla,GBIF (10 registros),False
+Melastomataceae,Bellucia pentamera,Magdalena medio y bajo,,1,especie nueva en la tabla,Este inventario (Barrancabermeja); no listada en el Catálogo,False
+Melastomataceae,Miconia prasina,Amazonia,,1,especie nueva en la tabla,Catálogo,False
+Melastomataceae,Miconia prasina,Andes,,1,especie nueva en la tabla,Catálogo,False
+Melastomataceae,Miconia prasina,Guayana y Serranía de La Macarena,,0,especie nueva en la tabla,Catálogo,False
+Melastomataceae,Miconia prasina,Islas Caribeñas,,1,especie nueva en la tabla,Catálogo,False
+Melastomataceae,Miconia prasina,Llanura del Caribe,,1,especie nueva en la tabla,Catálogo,False
+Melastomataceae,Miconia prasina,Orinoquia,,1,especie nueva en la tabla,Catálogo,False
+Melastomataceae,Miconia prasina,Pacífico,,1,especie nueva en la tabla,Catálogo,False
+Melastomataceae,Miconia prasina,Sierra Nevada de Santa Marta,,1,especie nueva en la tabla,Catálogo,False
+Melastomataceae,Miconia prasina,Valle del Cauca,,1,especie nueva en la tabla,Catálogo,False
+Melastomataceae,Miconia prasina,Alto Magdalena,,1,especie nueva en la tabla,Catálogo (Huila/Tolima); GBIF (32 registros),False
+Melastomataceae,Miconia prasina,Magdalena medio y bajo,,1,especie nueva en la tabla,Catálogo,False
+Melastomataceae,Miconia tomentosa,Amazonia,,1,especie nueva en la tabla,Catálogo,False
+Melastomataceae,Miconia tomentosa,Andes,,1,especie nueva en la tabla,Catálogo,False
+Melastomataceae,Miconia tomentosa,Guayana y Serranía de La Macarena,,0,especie nueva en la tabla,Catálogo,False
+Melastomataceae,Miconia tomentosa,Islas Caribeñas,,0,especie nueva en la tabla,Catálogo,False
+Melastomataceae,Miconia tomentosa,Llanura del Caribe,,0,especie nueva en la tabla,Catálogo,False
+Melastomataceae,Miconia tomentosa,Orinoquia,,1,especie nueva en la tabla,Catálogo,False
+Melastomataceae,Miconia tomentosa,Pacífico,,1,especie nueva en la tabla,Catálogo,False
+Melastomataceae,Miconia tomentosa,Sierra Nevada de Santa Marta,,0,especie nueva en la tabla,Catálogo,False
+Melastomataceae,Miconia tomentosa,Valle del Cauca,,1,especie nueva en la tabla,Catálogo,False
+Melastomataceae,Miconia tomentosa,Alto Magdalena,,0,especie nueva en la tabla,sin registros en Catálogo ni GBIF,False
+Melastomataceae,Miconia tomentosa,Magdalena medio y bajo,,1,especie nueva en la tabla,Catálogo,False
+Moraceae,Brosimum guianense,Amazonia,1.0,1,confirmado,Catálogo,False
+Moraceae,Brosimum guianense,Andes,1.0,0,corregido (quitado),Catálogo,False
+Moraceae,Brosimum guianense,Guayana y Serranía de La Macarena,0.0,0,confirmado,Catálogo,False
+Moraceae,Brosimum guianense,Islas Caribeñas,,0,región nueva en el esquema,Catálogo,False
+Moraceae,Brosimum guianense,Llanura del Caribe,1.0,1,confirmado,Catálogo,False
+Moraceae,Brosimum guianense,Orinoquia,1.0,0,corregido (quitado),Catálogo,True
+Moraceae,Brosimum guianense,Pacífico,1.0,1,confirmado,Catálogo,False
+Moraceae,Brosimum guianense,Sierra Nevada de Santa Marta,,0,región nueva en el esquema,Catálogo,False
+Moraceae,Brosimum guianense,Valle del Cauca,1.0,0,corregido (quitado),Catálogo,False
+Moraceae,Brosimum guianense,Alto Magdalena,,1,región nueva en el esquema,GBIF (10 registros),False
+Moraceae,Brosimum guianense,Magdalena medio y bajo,1.0,1,confirmado,Catálogo,False
+Moraceae,Brosimum utile,Amazonia,1.0,1,confirmado,Catálogo,False
+Moraceae,Brosimum utile,Andes,0.0,1,agregado,Catálogo,False
+Moraceae,Brosimum utile,Guayana y Serranía de La Macarena,0.0,0,confirmado,Catálogo,False
+Moraceae,Brosimum utile,Islas Caribeñas,,0,región nueva en el esquema,Catálogo,False
+Moraceae,Brosimum utile,Llanura del Caribe,0.0,1,agregado,Catálogo,False
+Moraceae,Brosimum utile,Orinoquia,0.0,1,agregado,Catálogo,False
+Moraceae,Brosimum utile,Pacífico,1.0,1,confirmado,Catálogo,False
+Moraceae,Brosimum utile,Sierra Nevada de Santa Marta,,0,región nueva en el esquema,Catálogo,False
+Moraceae,Brosimum utile,Valle del Cauca,1.0,1,confirmado,Catálogo,False
+Moraceae,Brosimum utile,Alto Magdalena,,1,región nueva en el esquema,GBIF (19 registros),False
+Moraceae,Brosimum utile,Magdalena medio y bajo,1.0,1,confirmado,Catálogo,False
+Moraceae,Ficus citrifolia,Amazonia,1.0,1,confirmado,Catálogo,False
+Moraceae,Ficus citrifolia,Andes,1.0,1,confirmado,Catálogo,False
+Moraceae,Ficus citrifolia,Guayana y Serranía de La Macarena,0.0,0,confirmado,Catálogo,False
+Moraceae,Ficus citrifolia,Islas Caribeñas,,0,región nueva en el esquema,Catálogo,False
+Moraceae,Ficus citrifolia,Llanura del Caribe,1.0,1,confirmado,Catálogo,False
+Moraceae,Ficus citrifolia,Orinoquia,0.0,0,confirmado,Catálogo,True
+Moraceae,Ficus citrifolia,Pacífico,1.0,1,confirmado,Catálogo,False
+Moraceae,Ficus citrifolia,Sierra Nevada de Santa Marta,,1,región nueva en el esquema,Catálogo,False
+Moraceae,Ficus citrifolia,Valle del Cauca,1.0,1,confirmado,Catálogo,False
+Moraceae,Ficus citrifolia,Alto Magdalena,,1,región nueva en el esquema,Catálogo (Huila/Tolima); GBIF (6 registros),False
+Moraceae,Ficus citrifolia,Magdalena medio y bajo,1.0,1,confirmado,Catálogo,False
+Moraceae,Helianthostylis sprucei,Amazonia,1.0,0,corregido (quitado),Catálogo,True
+Moraceae,Helianthostylis sprucei,Andes,1.0,1,confirmado,Catálogo,False
+Moraceae,Helianthostylis sprucei,Guayana y Serranía de La Macarena,0.0,1,agregado,Catálogo,False
+Moraceae,Helianthostylis sprucei,Islas Caribeñas,,0,región nueva en el esquema,Catálogo,False
+Moraceae,Helianthostylis sprucei,Llanura del Caribe,1.0,1,confirmado,Catálogo,False
+Moraceae,Helianthostylis sprucei,Orinoquia,0.0,1,agregado,Catálogo,False
+Moraceae,Helianthostylis sprucei,Pacífico,1.0,1,confirmado,Catálogo,False
+Moraceae,Helianthostylis sprucei,Sierra Nevada de Santa Marta,,0,región nueva en el esquema,Catálogo,False
+Moraceae,Helianthostylis sprucei,Valle del Cauca,0.0,0,confirmado,Catálogo,False
+Moraceae,Helianthostylis sprucei,Alto Magdalena,,1,región nueva en el esquema,GBIF (121 registros),False
+Moraceae,Helianthostylis sprucei,Magdalena medio y bajo,1.0,1,confirmado,Este inventario (Barrancabermeja); no listada en el Catálogo,False
+Moraceae,Helicostylis tomentosa,Amazonia,1.0,1,confirmado,Catálogo,False
+Moraceae,Helicostylis tomentosa,Andes,1.0,1,confirmado,Catálogo,False
+Moraceae,Helicostylis tomentosa,Guayana y Serranía de La Macarena,0.0,0,confirmado,Catálogo,False
+Moraceae,Helicostylis tomentosa,Islas Caribeñas,,0,región nueva en el esquema,Catálogo,False
+Moraceae,Helicostylis tomentosa,Llanura del Caribe,0.0,1,agregado,Catálogo,False
+Moraceae,Helicostylis tomentosa,Orinoquia,1.0,1,confirmado,Catálogo,False
+Moraceae,Helicostylis tomentosa,Pacífico,1.0,1,confirmado,Catálogo,False
+Moraceae,Helicostylis tomentosa,Sierra Nevada de Santa Marta,,0,región nueva en el esquema,Catálogo,False
+Moraceae,Helicostylis tomentosa,Valle del Cauca,1.0,0,corregido (quitado),Catálogo,False
+Moraceae,Helicostylis tomentosa,Alto Magdalena,,1,región nueva en el esquema,GBIF (2 registros),False
+Moraceae,Helicostylis tomentosa,Magdalena medio y bajo,1.0,1,confirmado,Este inventario (Barrancabermeja); no listada en el Catálogo,False
+Moraceae,Naucleopsis glabra,Amazonia,,1,especie nueva en la tabla,Catálogo,False
+Moraceae,Naucleopsis glabra,Andes,,0,especie nueva en la tabla,Catálogo,False
+Moraceae,Naucleopsis glabra,Guayana y Serranía de La Macarena,,0,especie nueva en la tabla,Catálogo,False
+Moraceae,Naucleopsis glabra,Islas Caribeñas,,0,especie nueva en la tabla,Catálogo,False
+Moraceae,Naucleopsis glabra,Llanura del Caribe,,1,especie nueva en la tabla,Catálogo,False
+Moraceae,Naucleopsis glabra,Orinoquia,,0,especie nueva en la tabla,Catálogo,True
+Moraceae,Naucleopsis glabra,Pacífico,,1,especie nueva en la tabla,Catálogo,False
+Moraceae,Naucleopsis glabra,Sierra Nevada de Santa Marta,,0,especie nueva en la tabla,Catálogo,False
+Moraceae,Naucleopsis glabra,Valle del Cauca,,0,especie nueva en la tabla,Catálogo,False
+Moraceae,Naucleopsis glabra,Alto Magdalena,,1,especie nueva en la tabla,GBIF (2 registros),False
+Moraceae,Naucleopsis glabra,Magdalena medio y bajo,,1,especie nueva en la tabla,Este inventario (Barrancabermeja); no listada en el Catálogo,False
+Moraceae,Sorocea pubivena,Amazonia,,1,especie nueva en la tabla,Catálogo,False
+Moraceae,Sorocea pubivena,Andes,,1,especie nueva en la tabla,Catálogo,False
+Moraceae,Sorocea pubivena,Guayana y Serranía de La Macarena,,0,especie nueva en la tabla,Catálogo,False
+Moraceae,Sorocea pubivena,Islas Caribeñas,,0,especie nueva en la tabla,Catálogo,False
+Moraceae,Sorocea pubivena,Llanura del Caribe,,1,especie nueva en la tabla,Catálogo,False
+Moraceae,Sorocea pubivena,Orinoquia,,1,especie nueva en la tabla,Catálogo,False
+Moraceae,Sorocea pubivena,Pacífico,,0,especie nueva en la tabla,Catálogo,True
+Moraceae,Sorocea pubivena,Sierra Nevada de Santa Marta,,0,especie nueva en la tabla,Catálogo,False
+Moraceae,Sorocea pubivena,Valle del Cauca,,0,especie nueva en la tabla,Catálogo,False
+Moraceae,Sorocea pubivena,Alto Magdalena,,1,especie nueva en la tabla,GBIF (7 registros),False
+Moraceae,Sorocea pubivena,Magdalena medio y bajo,,1,especie nueva en la tabla,Este inventario (Barrancabermeja); no listada en el Catálogo,False
+Myristicaceae,Compsoneura mutisii,Amazonia,1.0,1,confirmado,Catálogo,False
+Myristicaceae,Compsoneura mutisii,Andes,1.0,1,confirmado,Catálogo,False
+Myristicaceae,Compsoneura mutisii,Guayana y Serranía de La Macarena,0.0,0,confirmado,Catálogo,False
+Myristicaceae,Compsoneura mutisii,Islas Caribeñas,,0,región nueva en el esquema,Catálogo,False
+Myristicaceae,Compsoneura mutisii,Llanura del Caribe,0.0,0,confirmado,Catálogo,True
+Myristicaceae,Compsoneura mutisii,Orinoquia,0.0,0,confirmado,Catálogo,False
+Myristicaceae,Compsoneura mutisii,Pacífico,1.0,1,confirmado,Catálogo,False
+Myristicaceae,Compsoneura mutisii,Sierra Nevada de Santa Marta,,0,región nueva en el esquema,Catálogo,False
+Myristicaceae,Compsoneura mutisii,Valle del Cauca,0.0,0,confirmado,Catálogo,False
+Myristicaceae,Compsoneura mutisii,Alto Magdalena,,1,región nueva en el esquema,GBIF (4 registros),False
+Myristicaceae,Compsoneura mutisii,Magdalena medio y bajo,1.0,1,confirmado,Catálogo,False
+Myristicaceae,Virola sebifera,Amazonia,,1,especie nueva en la tabla,Catálogo,False
+Myristicaceae,Virola sebifera,Andes,,1,especie nueva en la tabla,Catálogo,False
+Myristicaceae,Virola sebifera,Guayana y Serranía de La Macarena,,1,especie nueva en la tabla,Catálogo,False
+Myristicaceae,Virola sebifera,Islas Caribeñas,,0,especie nueva en la tabla,Catálogo,False
+Myristicaceae,Virola sebifera,Llanura del Caribe,,1,especie nueva en la tabla,Catálogo,False
+Myristicaceae,Virola sebifera,Orinoquia,,1,especie nueva en la tabla,Catálogo,False
+Myristicaceae,Virola sebifera,Pacífico,,1,especie nueva en la tabla,Catálogo,False
+Myristicaceae,Virola sebifera,Sierra Nevada de Santa Marta,,0,especie nueva en la tabla,Catálogo,False
+Myristicaceae,Virola sebifera,Valle del Cauca,,1,especie nueva en la tabla,Catálogo,False
+Myristicaceae,Virola sebifera,Alto Magdalena,,1,especie nueva en la tabla,Catálogo (Huila/Tolima); GBIF (16 registros),False
+Myristicaceae,Virola sebifera,Magdalena medio y bajo,,1,especie nueva en la tabla,Catálogo,False
+Myrtaceae,Eugenia floribunda,Amazonia,0.0,0,confirmado,sin dato en el Catálogo,False
+Myrtaceae,Eugenia floribunda,Andes,0.0,0,confirmado,sin dato en el Catálogo,False
+Myrtaceae,Eugenia floribunda,Guayana y Serranía de La Macarena,0.0,0,confirmado,sin dato en el Catálogo,False
+Myrtaceae,Eugenia floribunda,Islas Caribeñas,,0,región nueva en el esquema,sin dato en el Catálogo,False
+Myrtaceae,Eugenia floribunda,Llanura del Caribe,0.0,0,confirmado,sin dato en el Catálogo,False
+Myrtaceae,Eugenia floribunda,Orinoquia,0.0,0,confirmado,sin dato en el Catálogo,False
+Myrtaceae,Eugenia floribunda,Pacífico,0.0,0,confirmado,sin dato en el Catálogo,False
+Myrtaceae,Eugenia floribunda,Sierra Nevada de Santa Marta,,0,región nueva en el esquema,sin dato en el Catálogo,False
+Myrtaceae,Eugenia floribunda,Valle del Cauca,0.0,0,confirmado,sin dato en el Catálogo,False
+Myrtaceae,Eugenia floribunda,Alto Magdalena,,0,región nueva en el esquema,sin registros en Catálogo ni GBIF,False
+Myrtaceae,Eugenia floribunda,Magdalena medio y bajo,1.0,1,confirmado,Este inventario (Barrancabermeja); no listada en el Catálogo,False
+Myrtaceae,Eugenia florida,Amazonia,1.0,1,confirmado,Catálogo,False
+Myrtaceae,Eugenia florida,Andes,1.0,1,confirmado,Catálogo,False
+Myrtaceae,Eugenia florida,Guayana y Serranía de La Macarena,0.0,0,confirmado,Catálogo,False
+Myrtaceae,Eugenia florida,Islas Caribeñas,,0,región nueva en el esquema,Catálogo,False
+Myrtaceae,Eugenia florida,Llanura del Caribe,0.0,0,confirmado,Catálogo,False
+Myrtaceae,Eugenia florida,Orinoquia,1.0,1,confirmado,Catálogo,False
+Myrtaceae,Eugenia florida,Pacífico,1.0,1,confirmado,Catálogo,False
+Myrtaceae,Eugenia florida,Sierra Nevada de Santa Marta,,0,región nueva en el esquema,Catálogo,False
+Myrtaceae,Eugenia florida,Valle del Cauca,0.0,0,confirmado,Catálogo,False
+Myrtaceae,Eugenia florida,Alto Magdalena,,1,región nueva en el esquema,GBIF (180 registros),False
+Myrtaceae,Eugenia florida,Magdalena medio y bajo,1.0,1,confirmado,Catálogo,False
+Myrtaceae,Myrcia splendens,Amazonia,,1,especie nueva en la tabla,Catálogo,False
+Myrtaceae,Myrcia splendens,Andes,,0,especie nueva en la tabla,Catálogo,False
+Myrtaceae,Myrcia splendens,Guayana y Serranía de La Macarena,,0,especie nueva en la tabla,Catálogo,False
+Myrtaceae,Myrcia splendens,Islas Caribeñas,,0,especie nueva en la tabla,Catálogo,False
+Myrtaceae,Myrcia splendens,Llanura del Caribe,,0,especie nueva en la tabla,Catálogo,True
+Myrtaceae,Myrcia splendens,Orinoquia,,0,especie nueva en la tabla,Catálogo,True
+Myrtaceae,Myrcia splendens,Pacífico,,0,especie nueva en la tabla,Catálogo,True
+Myrtaceae,Myrcia splendens,Sierra Nevada de Santa Marta,,0,especie nueva en la tabla,Catálogo,False
+Myrtaceae,Myrcia splendens,Valle del Cauca,,1,especie nueva en la tabla,Catálogo,False
+Myrtaceae,Myrcia splendens,Alto Magdalena,,1,especie nueva en la tabla,Catálogo (Huila/Tolima); GBIF (288 registros),False
+Myrtaceae,Myrcia splendens,Magdalena medio y bajo,,1,especie nueva en la tabla,Catálogo,False
+Nyctaginaceae,Neea divaricata,Amazonia,,1,especie nueva en la tabla,Catálogo,False
+Nyctaginaceae,Neea divaricata,Andes,,1,especie nueva en la tabla,Catálogo,False
+Nyctaginaceae,Neea divaricata,Guayana y Serranía de La Macarena,,0,especie nueva en la tabla,Catálogo,False
+Nyctaginaceae,Neea divaricata,Islas Caribeñas,,0,especie nueva en la tabla,Catálogo,False
+Nyctaginaceae,Neea divaricata,Llanura del Caribe,,0,especie nueva en la tabla,Catálogo,True
+Nyctaginaceae,Neea divaricata,Orinoquia,,0,especie nueva en la tabla,Catálogo,True
+Nyctaginaceae,Neea divaricata,Pacífico,,0,especie nueva en la tabla,Catálogo,False
+Nyctaginaceae,Neea divaricata,Sierra Nevada de Santa Marta,,0,especie nueva en la tabla,Catálogo,False
+Nyctaginaceae,Neea divaricata,Valle del Cauca,,0,especie nueva en la tabla,Catálogo,False
+Nyctaginaceae,Neea divaricata,Alto Magdalena,,1,especie nueva en la tabla,GBIF (59 registros),False
+Nyctaginaceae,Neea divaricata,Magdalena medio y bajo,,1,especie nueva en la tabla,Catálogo,False
+Ochnaceae,Elvasia elvasioides,Amazonia,1.0,0,corregido (quitado),Catálogo: identificación errónea,False
+Ochnaceae,Elvasia elvasioides,Andes,0.0,0,confirmado,Catálogo: identificación errónea,False
+Ochnaceae,Elvasia elvasioides,Guayana y Serranía de La Macarena,0.0,0,confirmado,Catálogo: identificación errónea,False
+Ochnaceae,Elvasia elvasioides,Islas Caribeñas,,0,región nueva en el esquema,Catálogo: identificación errónea,False
+Ochnaceae,Elvasia elvasioides,Llanura del Caribe,0.0,0,confirmado,Catálogo: identificación errónea,False
+Ochnaceae,Elvasia elvasioides,Orinoquia,1.0,0,corregido (quitado),Catálogo: identificación errónea,False
+Ochnaceae,Elvasia elvasioides,Pacífico,0.0,0,confirmado,Catálogo: identificación errónea,False
+Ochnaceae,Elvasia elvasioides,Sierra Nevada de Santa Marta,,0,región nueva en el esquema,Catálogo: identificación errónea,False
+Ochnaceae,Elvasia elvasioides,Valle del Cauca,0.0,0,confirmado,Catálogo: identificación errónea,False
+Ochnaceae,Elvasia elvasioides,Alto Magdalena,,0,región nueva en el esquema,sin registros en Catálogo ni GBIF,False
+Ochnaceae,Elvasia elvasioides,Magdalena medio y bajo,1.0,1,confirmado,Este inventario (Barrancabermeja); no listada en el Catálogo,False
+Ochnaceae,Elvasia oligandra,Amazonia,,0,especie nueva en la tabla,Catálogo,False
+Ochnaceae,Elvasia oligandra,Andes,,1,especie nueva en la tabla,Catálogo,False
+Ochnaceae,Elvasia oligandra,Guayana y Serranía de La Macarena,,0,especie nueva en la tabla,Catálogo,False
+Ochnaceae,Elvasia oligandra,Islas Caribeñas,,0,especie nueva en la tabla,Catálogo,False
+Ochnaceae,Elvasia oligandra,Llanura del Caribe,,0,especie nueva en la tabla,Catálogo,False
+Ochnaceae,Elvasia oligandra,Orinoquia,,0,especie nueva en la tabla,Catálogo,False
+Ochnaceae,Elvasia oligandra,Pacífico,,0,especie nueva en la tabla,Catálogo,False
+Ochnaceae,Elvasia oligandra,Sierra Nevada de Santa Marta,,0,especie nueva en la tabla,Catálogo,False
+Ochnaceae,Elvasia oligandra,Valle del Cauca,,0,especie nueva en la tabla,Catálogo,False
+Ochnaceae,Elvasia oligandra,Alto Magdalena,,0,especie nueva en la tabla,sin registros en Catálogo ni GBIF,False
+Ochnaceae,Elvasia oligandra,Magdalena medio y bajo,,1,especie nueva en la tabla,Este inventario (Barrancabermeja); no listada en el Catálogo,False
+Olacaceae,Minquartia guianensis,Amazonia,,1,especie nueva en la tabla,Catálogo,False
+Olacaceae,Minquartia guianensis,Andes,,1,especie nueva en la tabla,Catálogo,False
+Olacaceae,Minquartia guianensis,Guayana y Serranía de La Macarena,,1,especie nueva en la tabla,Catálogo,False
+Olacaceae,Minquartia guianensis,Islas Caribeñas,,0,especie nueva en la tabla,Catálogo,False
+Olacaceae,Minquartia guianensis,Llanura del Caribe,,0,especie nueva en la tabla,Catálogo,False
+Olacaceae,Minquartia guianensis,Orinoquia,,0,especie nueva en la tabla,Catálogo,True
+Olacaceae,Minquartia guianensis,Pacífico,,1,especie nueva en la tabla,Catálogo,False
+Olacaceae,Minquartia guianensis,Sierra Nevada de Santa Marta,,0,especie nueva en la tabla,Catálogo,False
+Olacaceae,Minquartia guianensis,Valle del Cauca,,0,especie nueva en la tabla,Catálogo,False
+Olacaceae,Minquartia guianensis,Alto Magdalena,,1,especie nueva en la tabla,GBIF (9 registros),False
+Olacaceae,Minquartia guianensis,Magdalena medio y bajo,,1,especie nueva en la tabla,Este inventario (Barrancabermeja); no listada en el Catálogo,False
+Rubiaceae,Amaioua corymbosa,Amazonia,1.0,1,confirmado,Catálogo,False
+Rubiaceae,Amaioua corymbosa,Andes,0.0,0,confirmado,Catálogo,False
+Rubiaceae,Amaioua corymbosa,Guayana y Serranía de La Macarena,0.0,1,agregado,Catálogo,False
+Rubiaceae,Amaioua corymbosa,Islas Caribeñas,,1,región nueva en el esquema,Catálogo,False
+Rubiaceae,Amaioua corymbosa,Llanura del Caribe,1.0,1,confirmado,Catálogo,False
+Rubiaceae,Amaioua corymbosa,Orinoquia,1.0,0,corregido (quitado),Catálogo,True
+Rubiaceae,Amaioua corymbosa,Pacífico,1.0,1,confirmado,Catálogo,False
+Rubiaceae,Amaioua corymbosa,Sierra Nevada de Santa Marta,,0,región nueva en el esquema,Catálogo,False
+Rubiaceae,Amaioua corymbosa,Valle del Cauca,0.0,0,confirmado,Catálogo,False
+Rubiaceae,Amaioua corymbosa,Alto Magdalena,,1,región nueva en el esquema,Catálogo (Huila/Tolima); GBIF (20 registros),False
+Rubiaceae,Amaioua corymbosa,Magdalena medio y bajo,1.0,1,confirmado,Catálogo,False
+Rubiaceae,Duroia hirsuta,Amazonia,1.0,1,confirmado,Catálogo,False
+Rubiaceae,Duroia hirsuta,Andes,1.0,1,confirmado,Catálogo,False
+Rubiaceae,Duroia hirsuta,Guayana y Serranía de La Macarena,0.0,1,agregado,Catálogo,False
+Rubiaceae,Duroia hirsuta,Islas Caribeñas,,0,región nueva en el esquema,Catálogo,False
+Rubiaceae,Duroia hirsuta,Llanura del Caribe,0.0,0,confirmado,Catálogo,True
+Rubiaceae,Duroia hirsuta,Orinoquia,1.0,1,confirmado,Catálogo,False
+Rubiaceae,Duroia hirsuta,Pacífico,1.0,1,confirmado,Catálogo,False
+Rubiaceae,Duroia hirsuta,Sierra Nevada de Santa Marta,,0,región nueva en el esquema,Catálogo,False
+Rubiaceae,Duroia hirsuta,Valle del Cauca,1.0,0,corregido (quitado),Catálogo,False
+Rubiaceae,Duroia hirsuta,Alto Magdalena,,1,región nueva en el esquema,GBIF (5 registros),False
+Rubiaceae,Duroia hirsuta,Magdalena medio y bajo,1.0,1,confirmado,Catálogo,False
+Rubiaceae,Posoqueria latifolia,Amazonia,,0,especie nueva en la tabla,Catálogo,True
+Rubiaceae,Posoqueria latifolia,Andes,,1,especie nueva en la tabla,Catálogo,False
+Rubiaceae,Posoqueria latifolia,Guayana y Serranía de La Macarena,,0,especie nueva en la tabla,Catálogo,False
+Rubiaceae,Posoqueria latifolia,Islas Caribeñas,,0,especie nueva en la tabla,Catálogo,False
+Rubiaceae,Posoqueria latifolia,Llanura del Caribe,,0,especie nueva en la tabla,Catálogo,True
+Rubiaceae,Posoqueria latifolia,Orinoquia,,0,especie nueva en la tabla,Catálogo,True
+Rubiaceae,Posoqueria latifolia,Pacífico,,1,especie nueva en la tabla,Catálogo,False
+Rubiaceae,Posoqueria latifolia,Sierra Nevada de Santa Marta,,0,especie nueva en la tabla,Catálogo,False
+Rubiaceae,Posoqueria latifolia,Valle del Cauca,,0,especie nueva en la tabla,Catálogo,False
+Rubiaceae,Posoqueria latifolia,Alto Magdalena,,1,especie nueva en la tabla,GBIF (36 registros),False
+Rubiaceae,Posoqueria latifolia,Magdalena medio y bajo,,1,especie nueva en la tabla,Este inventario (Barrancabermeja); no listada en el Catálogo,False
+Salicaceae,Casearia arborea,Amazonia,1.0,1,confirmado,Catálogo,False
+Salicaceae,Casearia arborea,Andes,1.0,1,confirmado,Catálogo,False
+Salicaceae,Casearia arborea,Guayana y Serranía de La Macarena,0.0,1,agregado,Catálogo,False
+Salicaceae,Casearia arborea,Islas Caribeñas,,0,región nueva en el esquema,Catálogo,False
+Salicaceae,Casearia arborea,Llanura del Caribe,1.0,1,confirmado,Catálogo,False
+Salicaceae,Casearia arborea,Orinoquia,1.0,1,confirmado,Catálogo,False
+Salicaceae,Casearia arborea,Pacífico,1.0,1,confirmado,Catálogo,False
+Salicaceae,Casearia arborea,Sierra Nevada de Santa Marta,,0,región nueva en el esquema,Catálogo,False
+Salicaceae,Casearia arborea,Valle del Cauca,1.0,1,confirmado,Catálogo,False
+Salicaceae,Casearia arborea,Alto Magdalena,,1,región nueva en el esquema,GBIF (32 registros),False
+Salicaceae,Casearia arborea,Magdalena medio y bajo,1.0,1,confirmado,Catálogo,False
+Salicaceae,Casearia javitensis,Amazonia,1.0,1,confirmado,Catálogo,False
+Salicaceae,Casearia javitensis,Andes,1.0,1,confirmado,Catálogo,False
+Salicaceae,Casearia javitensis,Guayana y Serranía de La Macarena,0.0,1,agregado,Catálogo,False
+Salicaceae,Casearia javitensis,Islas Caribeñas,,0,región nueva en el esquema,Catálogo,False
+Salicaceae,Casearia javitensis,Llanura del Caribe,1.0,1,confirmado,Catálogo,False
+Salicaceae,Casearia javitensis,Orinoquia,1.0,1,confirmado,Catálogo,False
+Salicaceae,Casearia javitensis,Pacífico,1.0,1,confirmado,Catálogo,False
+Salicaceae,Casearia javitensis,Sierra Nevada de Santa Marta,,0,región nueva en el esquema,Catálogo,False
+Salicaceae,Casearia javitensis,Valle del Cauca,1.0,1,confirmado,Catálogo,False
+Salicaceae,Casearia javitensis,Alto Magdalena,,1,región nueva en el esquema,GBIF (21 registros),False
+Salicaceae,Casearia javitensis,Magdalena medio y bajo,1.0,1,confirmado,Catálogo,False
+Salicaceae,Ryania speciosa,Amazonia,,1,especie nueva en la tabla,Catálogo,False
+Salicaceae,Ryania speciosa,Andes,,1,especie nueva en la tabla,Catálogo,False
+Salicaceae,Ryania speciosa,Guayana y Serranía de La Macarena,,1,especie nueva en la tabla,Catálogo,False
+Salicaceae,Ryania speciosa,Islas Caribeñas,,0,especie nueva en la tabla,Catálogo,False
+Salicaceae,Ryania speciosa,Llanura del Caribe,,1,especie nueva en la tabla,Catálogo,False
+Salicaceae,Ryania speciosa,Orinoquia,,1,especie nueva en la tabla,Catálogo,False
+Salicaceae,Ryania speciosa,Pacífico,,1,especie nueva en la tabla,Catálogo,False
+Salicaceae,Ryania speciosa,Sierra Nevada de Santa Marta,,0,especie nueva en la tabla,Catálogo,False
+Salicaceae,Ryania speciosa,Valle del Cauca,,0,especie nueva en la tabla,Catálogo,False
+Salicaceae,Ryania speciosa,Alto Magdalena,,1,especie nueva en la tabla,Catálogo (Huila/Tolima); GBIF (12 registros),False
+Salicaceae,Ryania speciosa,Magdalena medio y bajo,,1,especie nueva en la tabla,Catálogo,False
+Salicaceae,Ryania spruceana,Amazonia,,0,especie nueva en la tabla,Catálogo,True
+Salicaceae,Ryania spruceana,Andes,,0,especie nueva en la tabla,Catálogo,False
+Salicaceae,Ryania spruceana,Guayana y Serranía de La Macarena,,1,especie nueva en la tabla,Catálogo,False
+Salicaceae,Ryania spruceana,Islas Caribeñas,,0,especie nueva en la tabla,Catálogo,False
+Salicaceae,Ryania spruceana,Llanura del Caribe,,0,especie nueva en la tabla,Catálogo,True
+Salicaceae,Ryania spruceana,Orinoquia,,1,especie nueva en la tabla,Catálogo,False
+Salicaceae,Ryania spruceana,Pacífico,,0,especie nueva en la tabla,Catálogo,False
+Salicaceae,Ryania spruceana,Sierra Nevada de Santa Marta,,0,especie nueva en la tabla,Catálogo,False
+Salicaceae,Ryania spruceana,Valle del Cauca,,0,especie nueva en la tabla,Catálogo,False
+Salicaceae,Ryania spruceana,Alto Magdalena,,0,especie nueva en la tabla,sin registros en Catálogo ni GBIF,False
+Salicaceae,Ryania spruceana,Magdalena medio y bajo,,1,especie nueva en la tabla,Catálogo,False
+Sapindaceae,Cupania latifolia,Amazonia,1.0,0,corregido (quitado),Catálogo,True
+Sapindaceae,Cupania latifolia,Andes,1.0,1,confirmado,Catálogo,False
+Sapindaceae,Cupania latifolia,Guayana y Serranía de La Macarena,0.0,0,confirmado,Catálogo,False
+Sapindaceae,Cupania latifolia,Islas Caribeñas,,0,región nueva en el esquema,Catálogo,False
+Sapindaceae,Cupania latifolia,Llanura del Caribe,1.0,1,confirmado,Catálogo,False
+Sapindaceae,Cupania latifolia,Orinoquia,1.0,1,confirmado,Catálogo,False
+Sapindaceae,Cupania latifolia,Pacífico,1.0,1,confirmado,Catálogo,False
+Sapindaceae,Cupania latifolia,Sierra Nevada de Santa Marta,,0,región nueva en el esquema,Catálogo,False
+Sapindaceae,Cupania latifolia,Valle del Cauca,1.0,1,confirmado,Catálogo,False
+Sapindaceae,Cupania latifolia,Alto Magdalena,,1,región nueva en el esquema,Catálogo (Huila/Tolima); GBIF (78 registros),False
+Sapindaceae,Cupania latifolia,Magdalena medio y bajo,1.0,1,confirmado,Catálogo,False
+Sapindaceae,Cupania scrobiculata,Amazonia,1.0,1,confirmado,Catálogo,False
+Sapindaceae,Cupania scrobiculata,Andes,1.0,1,confirmado,Catálogo,False
+Sapindaceae,Cupania scrobiculata,Guayana y Serranía de La Macarena,0.0,1,agregado,Catálogo,False
+Sapindaceae,Cupania scrobiculata,Islas Caribeñas,,0,región nueva en el esquema,Catálogo,False
+Sapindaceae,Cupania scrobiculata,Llanura del Caribe,1.0,1,confirmado,Catálogo,False
+Sapindaceae,Cupania scrobiculata,Orinoquia,1.0,0,corregido (quitado),Catálogo,True
+Sapindaceae,Cupania scrobiculata,Pacífico,1.0,1,confirmado,Catálogo,False
+Sapindaceae,Cupania scrobiculata,Sierra Nevada de Santa Marta,,0,región nueva en el esquema,Catálogo,False
+Sapindaceae,Cupania scrobiculata,Valle del Cauca,1.0,1,confirmado,Catálogo,False
+Sapindaceae,Cupania scrobiculata,Alto Magdalena,,1,región nueva en el esquema,GBIF (4 registros),False
+Sapindaceae,Cupania scrobiculata,Magdalena medio y bajo,1.0,1,confirmado,Catálogo,False
+Sapotaceae,Chrysophyllum argenteum,Amazonia,1.0,1,confirmado,Catálogo,False
+Sapotaceae,Chrysophyllum argenteum,Andes,1.0,1,confirmado,Catálogo,False
+Sapotaceae,Chrysophyllum argenteum,Guayana y Serranía de La Macarena,0.0,0,confirmado,Catálogo,False
+Sapotaceae,Chrysophyllum argenteum,Islas Caribeñas,,0,región nueva en el esquema,Catálogo,False
+Sapotaceae,Chrysophyllum argenteum,Llanura del Caribe,0.0,0,confirmado,Catálogo,True
+Sapotaceae,Chrysophyllum argenteum,Orinoquia,0.0,0,confirmado,Catálogo,True
+Sapotaceae,Chrysophyllum argenteum,Pacífico,1.0,1,confirmado,Catálogo,False
+Sapotaceae,Chrysophyllum argenteum,Sierra Nevada de Santa Marta,,0,región nueva en el esquema,Catálogo,False
+Sapotaceae,Chrysophyllum argenteum,Valle del Cauca,1.0,0,corregido (quitado),Catálogo,False
+Sapotaceae,Chrysophyllum argenteum,Alto Magdalena,,1,región nueva en el esquema,GBIF (10 registros),False
+Sapotaceae,Chrysophyllum argenteum,Magdalena medio y bajo,1.0,1,confirmado,Catálogo,False
+Sapotaceae,Manilkara bidentata,Amazonia,,1,especie nueva en la tabla,Catálogo,False
+Sapotaceae,Manilkara bidentata,Andes,,0,especie nueva en la tabla,Catálogo,False
+Sapotaceae,Manilkara bidentata,Guayana y Serranía de La Macarena,,1,especie nueva en la tabla,Catálogo,False
+Sapotaceae,Manilkara bidentata,Islas Caribeñas,,0,especie nueva en la tabla,Catálogo,False
+Sapotaceae,Manilkara bidentata,Llanura del Caribe,,0,especie nueva en la tabla,Catálogo,True
+Sapotaceae,Manilkara bidentata,Orinoquia,,0,especie nueva en la tabla,Catálogo,False
+Sapotaceae,Manilkara bidentata,Pacífico,,1,especie nueva en la tabla,Catálogo,False
+Sapotaceae,Manilkara bidentata,Sierra Nevada de Santa Marta,,0,especie nueva en la tabla,Catálogo,False
+Sapotaceae,Manilkara bidentata,Valle del Cauca,,0,especie nueva en la tabla,Catálogo,False
+Sapotaceae,Manilkara bidentata,Alto Magdalena,,0,especie nueva en la tabla,sin registros en Catálogo ni GBIF,False
+Sapotaceae,Manilkara bidentata,Magdalena medio y bajo,,1,especie nueva en la tabla,Catálogo,False
+Sapotaceae,Micropholis guyanensis,Amazonia,,1,especie nueva en la tabla,Catálogo,False
+Sapotaceae,Micropholis guyanensis,Andes,,0,especie nueva en la tabla,Catálogo,False
+Sapotaceae,Micropholis guyanensis,Guayana y Serranía de La Macarena,,1,especie nueva en la tabla,Catálogo,False
+Sapotaceae,Micropholis guyanensis,Islas Caribeñas,,0,especie nueva en la tabla,Catálogo,False
+Sapotaceae,Micropholis guyanensis,Llanura del Caribe,,0,especie nueva en la tabla,Catálogo,False
+Sapotaceae,Micropholis guyanensis,Orinoquia,,0,especie nueva en la tabla,Catálogo,True
+Sapotaceae,Micropholis guyanensis,Pacífico,,1,especie nueva en la tabla,Catálogo,False
+Sapotaceae,Micropholis guyanensis,Sierra Nevada de Santa Marta,,0,especie nueva en la tabla,Catálogo,False
+Sapotaceae,Micropholis guyanensis,Valle del Cauca,,0,especie nueva en la tabla,Catálogo,False
+Sapotaceae,Micropholis guyanensis,Alto Magdalena,,1,especie nueva en la tabla,GBIF (6 registros),False
+Sapotaceae,Micropholis guyanensis,Magdalena medio y bajo,,1,especie nueva en la tabla,Catálogo,False
+Siparunaceae,Siparuna guianensis,Amazonia,,1,especie nueva en la tabla,Catálogo,False
+Siparunaceae,Siparuna guianensis,Andes,,1,especie nueva en la tabla,Catálogo,False
+Siparunaceae,Siparuna guianensis,Guayana y Serranía de La Macarena,,1,especie nueva en la tabla,Catálogo,False
+Siparunaceae,Siparuna guianensis,Islas Caribeñas,,0,especie nueva en la tabla,Catálogo,False
+Siparunaceae,Siparuna guianensis,Llanura del Caribe,,1,especie nueva en la tabla,Catálogo,False
+Siparunaceae,Siparuna guianensis,Orinoquia,,1,especie nueva en la tabla,Catálogo,False
+Siparunaceae,Siparuna guianensis,Pacífico,,1,especie nueva en la tabla,Catálogo,False
+Siparunaceae,Siparuna guianensis,Sierra Nevada de Santa Marta,,0,especie nueva en la tabla,Catálogo,False
+Siparunaceae,Siparuna guianensis,Valle del Cauca,,1,especie nueva en la tabla,Catálogo,False
+Siparunaceae,Siparuna guianensis,Alto Magdalena,,1,especie nueva en la tabla,Catálogo (Huila/Tolima); GBIF (30 registros),False
+Siparunaceae,Siparuna guianensis,Magdalena medio y bajo,,1,especie nueva en la tabla,Catálogo,False
+Trigoniaceae,Isidodendron tripterocarpum,Amazonia,0.0,0,confirmado,Catálogo,False
+Trigoniaceae,Isidodendron tripterocarpum,Andes,0.0,0,confirmado,Catálogo,False
+Trigoniaceae,Isidodendron tripterocarpum,Guayana y Serranía de La Macarena,0.0,0,confirmado,Catálogo,False
+Trigoniaceae,Isidodendron tripterocarpum,Islas Caribeñas,,0,región nueva en el esquema,Catálogo,False
+Trigoniaceae,Isidodendron tripterocarpum,Llanura del Caribe,0.0,0,confirmado,Catálogo,False
+Trigoniaceae,Isidodendron tripterocarpum,Orinoquia,0.0,0,confirmado,Catálogo,False
+Trigoniaceae,Isidodendron tripterocarpum,Pacífico,0.0,0,confirmado,Catálogo,False
+Trigoniaceae,Isidodendron tripterocarpum,Sierra Nevada de Santa Marta,,0,región nueva en el esquema,Catálogo,False
+Trigoniaceae,Isidodendron tripterocarpum,Valle del Cauca,0.0,0,confirmado,Catálogo,False
+Trigoniaceae,Isidodendron tripterocarpum,Alto Magdalena,,0,región nueva en el esquema,sin registros en Catálogo ni GBIF,False
+Trigoniaceae,Isidodendron tripterocarpum,Magdalena medio y bajo,1.0,1,confirmado,Catálogo,False
+Violaceae,Leonia triandra,Amazonia,0.0,0,confirmado,Catálogo,False
+Violaceae,Leonia triandra,Andes,1.0,1,confirmado,Catálogo,False
+Violaceae,Leonia triandra,Guayana y Serranía de La Macarena,0.0,0,confirmado,Catálogo,False
+Violaceae,Leonia triandra,Islas Caribeñas,,0,región nueva en el esquema,Catálogo,False
+Violaceae,Leonia triandra,Llanura del Caribe,0.0,0,confirmado,Catálogo,True
+Violaceae,Leonia triandra,Orinoquia,0.0,0,confirmado,Catálogo,False
+Violaceae,Leonia triandra,Pacífico,1.0,1,confirmado,Catálogo,False
+Violaceae,Leonia triandra,Sierra Nevada de Santa Marta,,0,región nueva en el esquema,Catálogo,False
+Violaceae,Leonia triandra,Valle del Cauca,1.0,1,confirmado,Catálogo,False
+Violaceae,Leonia triandra,Alto Magdalena,,0,región nueva en el esquema,sin registros en Catálogo ni GBIF,False
+Violaceae,Leonia triandra,Magdalena medio y bajo,1.0,1,confirmado,Catálogo,False
+Violaceae,Rinorea laurifolia,Amazonia,,0,especie nueva en la tabla,Catálogo,False
+Violaceae,Rinorea laurifolia,Andes,,0,especie nueva en la tabla,Catálogo,False
+Violaceae,Rinorea laurifolia,Guayana y Serranía de La Macarena,,0,especie nueva en la tabla,Catálogo,False
+Violaceae,Rinorea laurifolia,Islas Caribeñas,,0,especie nueva en la tabla,Catálogo,False
+Violaceae,Rinorea laurifolia,Llanura del Caribe,,0,especie nueva en la tabla,Catálogo,False
+Violaceae,Rinorea laurifolia,Orinoquia,,0,especie nueva en la tabla,Catálogo,False
+Violaceae,Rinorea laurifolia,Pacífico,,0,especie nueva en la tabla,Catálogo,True
+Violaceae,Rinorea laurifolia,Sierra Nevada de Santa Marta,,0,especie nueva en la tabla,Catálogo,False
+Violaceae,Rinorea laurifolia,Valle del Cauca,,0,especie nueva en la tabla,Catálogo,False
+Violaceae,Rinorea laurifolia,Alto Magdalena,,0,especie nueva en la tabla,sin registros en Catálogo ni GBIF,False
+Violaceae,Rinorea laurifolia,Magdalena medio y bajo,,1,especie nueva en la tabla,Catálogo,False
+Violaceae,Rinorea lindeniana,Amazonia,,1,especie nueva en la tabla,Catálogo,False
+Violaceae,Rinorea lindeniana,Andes,,0,especie nueva en la tabla,Catálogo,False
+Violaceae,Rinorea lindeniana,Guayana y Serranía de La Macarena,,1,especie nueva en la tabla,Catálogo,False
+Violaceae,Rinorea lindeniana,Islas Caribeñas,,0,especie nueva en la tabla,Catálogo,False
+Violaceae,Rinorea lindeniana,Llanura del Caribe,,0,especie nueva en la tabla,Catálogo,True
+Violaceae,Rinorea lindeniana,Orinoquia,,1,especie nueva en la tabla,Catálogo,False
+Violaceae,Rinorea lindeniana,Pacífico,,1,especie nueva en la tabla,Catálogo,False
+Violaceae,Rinorea lindeniana,Sierra Nevada de Santa Marta,,0,especie nueva en la tabla,Catálogo,False
+Violaceae,Rinorea lindeniana,Valle del Cauca,,0,especie nueva en la tabla,Catálogo,False
+Violaceae,Rinorea lindeniana,Alto Magdalena,,1,especie nueva en la tabla,GBIF (4 registros),False
+Violaceae,Rinorea lindeniana,Magdalena medio y bajo,,1,especie nueva en la tabla,Catálogo,False

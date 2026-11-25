@@ -33,3 +33,27 @@ Las curvas de Hill (rarefacción/extrapolación, cobertura, Chao1, bootstrap) es
 - El CAP de 500 cm de *Lecythis mesophylla* es correcto.
 - *Attalea nucifera* es acaule: los "tallos" medidos son pecíolos. Se conserva en composición y diversidad,
   pero sin DAP ni área basal (queda fuera de clases diamétricas y su dominancia relativa es 0).
+
+## Distribución de las especies (`distribucion/`)
+
+La tabla original de distribución (hoja `distr_simpl` de `datos_agosto1.xlsx`,
+exportada en `distr_simpl_original.csv`) se verificó contra el Catálogo de plantas
+y líquenes de Colombia y GBIF (consultas del 25 de noviembre de 2026). Tropicos no
+se consultó de forma automática porque su API exige una clave.
+
+1. `01_consultar_fuentes.py` descarga la ficha del Catálogo y los conteos de GBIF
+   de cada especie identificada a especie (103, incluidas tres cf.) y los guarda en
+   `consultas/catalogo.json` y `consultas/gbif.json`.
+2. `02_construir_distribucion.py` arma:
+   * `distribucion_verificada.csv`: una fila por especie, 0/1 por región, más
+     elevación, origen, categoría de amenaza, nombre aceptado en GBIF, alertas de
+     GBIF (`gbif_sugiere`) y notas de revisión.
+   * `distribucion_cambios.csv`: una fila por especie y región, con el valor
+     original, el nuevo, el estado (confirmado, agregado, corregido (quitado),
+     región nueva en el esquema, especie nueva en la tabla) y la fuente.
+
+Esquema: regiones del Catálogo, con el valle del Magdalena dividido en Alto
+Magdalena (aguas arriba de Honda) y Magdalena medio y bajo. Reglas en el
+encabezado de `02_construir_distribucion.py`. La columna Centroamérica de la
+tabla original no se conserva porque no forma parte del esquema. La sección E de
+`02_analisis.R` lee `distribucion_verificada.csv`.

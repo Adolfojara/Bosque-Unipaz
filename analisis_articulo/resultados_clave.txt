@@ -57,8 +57,11 @@ Alometría H-DAP (sin palmas, n=651): ln H = 0.59 + 0.74 ln DAP; R2 = 0.71
 Alturas máximas: Lecythis mesophylla 33 m; Tetragastris panamensis 30 m; Indet. 2 30 m; Isidodendron tripterocarpum 30 m
 
 == E. BIOGEOGRAFÍA ==
-Especies con información de distribución: 56 de 82 en la hoja (26 no coinciden con el inventario)
-Afinidades (% de especies): Amazonia=79%; Chocó=73%; Caribe=32%; Andes=59%; Centroamérica=64%; Orinoquia/sabana=50%; V del Cauca=43%; Imerí/Guyana=12%; Magdalena=100%
-Especies registradas solo en Magdalena (posibles endémicas regionales): Eugenia floribunda, Guatteria cf. goudotiana, Isidodendron tripterocarpum
+Especies identificadas a especie: 103; con ficha válida en el Catálogo: 101
+Afinidades (% de especies): Magdalena medio y bajo=100%; Pacífico=66%; Amazonia=61%; Alto Magdalena=60%; Andes=58%; Llanura del Caribe=42%; Guayana y Serranía de La Macarena=41%; Orinoquia=38%; Valle del Cauca=27%; Sierra Nevada de Santa Marta=10%; Islas Caribeñas=2%
+Especies solo en el Valle del Magdalena: Duguetia surinamensis, Unonopsis aviceps, Attalea nucifera, Tapura bullata, Clathrotropis brunnea, Swartzia santanderensis, Gustavia longifuniculata, Isidodendron tripterocarpum, Rinorea laurifolia
+Especies del Alto Magdalena: 61; ausentes en el Alto Magdalena: 40
+Endémicas: Duguetia antioquensis, Ephedranthus colombianus, Guatteria cf. goudotiana, Pseudomalmea cf. boyacana, Pseudoxandra cf. pacifica, Unonopsis aviceps, Astrocaryum malybo, Attalea nucifera, Maytenus longipes, Tapura bullata, Brownea stenantha, Swartzia santanderensis, Gustavia longifuniculata, Elvasia oligandra, Isidodendron tripterocarpum
+Con categoría de amenaza: Astrocaryum malybo (En Peligro), Attalea nucifera (Vulnerable), Tapura bullata (En Peligro Crítico), Clathrotropis brunnea (En Peligro), Cariniana pyriformis (En Peligro Crítico), Gustavia longifuniculata (En Peligro), Lecythis mesophylla (Vulnerable), Isidodendron tripterocarpum (Vulnerable)
 
 Listo.

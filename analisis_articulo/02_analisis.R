@@ -425,24 +425,36 @@ invisible(dev.off())
 ## E. AFINIDADES BIOGEOGRÁFICAS
 ## ---------------------------------------------------------------
 say("\n== E. BIOGEOGRAFÍA ==")
-bg <- read_excel(file.path(base, "datos_agosto1.xlsx"), sheet = "distr_simpl")
-bg$Especie <- str_squish(bg$Especie)
-fix_bg <- c("Belllucia" = "Bellucia", "Byrsomima" = "Byrsonima", "Clathotropis" = "Clathrotropis",
-            "Duguettia" = "Duguetia", "kegelli" = "kegelii", "Manilkara bidenta$" = "Manilkara bidentata",
-            "Licaniahypoleuca" = "Licania hypoleuca",
-            "^Euterpe precatoria var. longevaginata.*" = "Euterpe longevaginata")
-for (p in names(fix_bg)) bg$Especie <- str_replace(bg$Especie, p, fix_bg[[p]])
-reg <- names(bg)[4:12]                          # Amazonia ... Magdalena
-bg_in <- filter(bg, Especie %in% d$especie)
-t_bg <- data.frame(Region = reg, Especies = sapply(reg, function(r) sum(bg_in[[r]] == 1, na.rm = TRUE)))
+## Tabla verificada contra el Catálogo de plantas y líquenes de Colombia y GBIF
+## (ver distribucion/02_construir_distribucion.py). Esquema del Catálogo con el
+## Valle del Magdalena dividido en Alto Magdalena (aguas arriba de Honda) y
+## Magdalena medio y bajo.
+bg <- read.csv(file.path(dir_a, "distribucion", "distribucion_verificada.csv"),
+               check.names = FALSE, stringsAsFactors = FALSE, encoding = "UTF-8")
+reg <- c("Amazonia", "Andes", "Guayana y Serranía de La Macarena", "Islas Caribeñas",
+         "Llanura del Caribe", "Orinoquia", "Pacífico", "Sierra Nevada de Santa Marta",
+         "Valle del Cauca", "Alto Magdalena", "Magdalena medio y bajo")
+stopifnot(all(reg %in% names(bg)), all(bg$especie %in% d$especie))
+## Se excluyen las especies sin ficha en el Catálogo o con registro erróneo
+bg_in <- bg[as.logical(bg$catalogo_encontrado) & !as.logical(bg$catalogo_identificacion_erronea), ]
+t_bg <- data.frame(Region = reg, Especies = sapply(reg, function(r) sum(bg_in[[r]] == 1)))
 t_bg$Pct <- 100 * t_bg$Especies / nrow(bg_in)
+t_bg <- t_bg[order(-t_bg$Pct), ]
 tab(t_bg, "T15_afinidades_biogeograficas")
-say("Especies con información de distribución: ", nrow(bg_in), " de ", nrow(bg),
-    " en la hoja (", sum(!bg$Especie %in% d$especie), " no coinciden con el inventario)")
+say("Especies identificadas a especie: ", nrow(bg), "; con ficha válida en el Catálogo: ", nrow(bg_in))
 say("Afinidades (% de especies): ", paste(sprintf("%s=%.0f%%", t_bg$Region, t_bg$Pct), collapse = "; "))
-solo_mag <- bg_in$Especie[rowSums(bg_in[, setdiff(reg, "Magdalena")] == 1, na.rm = TRUE) == 0]
-say("Especies registradas solo en Magdalena (posibles endémicas regionales): ",
-    paste(solo_mag, collapse = ", "))
+fuera <- setdiff(reg, c("Alto Magdalena", "Magdalena medio y bajo"))
+solo_mag <- bg_in$especie[rowSums(bg_in[, fuera] == 1) == 0]
+say("Especies solo en el Valle del Magdalena: ", paste(solo_mag, collapse = ", "))
+say("Especies del Alto Magdalena: ", sum(bg_in[["Alto Magdalena"]] == 1),
+    "; ausentes en el Alto Magdalena: ", sum(bg_in[["Alto Magdalena"]] == 0))
+cons <- bg_in[grepl("Endémica", bg_in$catalogo_origen) |
+              grepl("Vulnerable|Peligro", bg_in$catalogo_conservacion),
+              c("familia", "especie", "catalogo_origen", "catalogo_conservacion", "catalogo_elevacion")]
+tab(cons, "T16_endemicas_amenazadas")
+say("Endémicas: ", paste(cons$especie[grepl("Endémica", cons$catalogo_origen)], collapse = ", "))
+say("Con categoría de amenaza: ", paste(sprintf("%s (%s)", cons$especie, cons$catalogo_conservacion)[
+    grepl("Vulnerable|Peligro", cons$catalogo_conservacion)], collapse = ", "))
 
 ## ---------------------------------------------------------------
 ## Anexo: lista florística
@@ -457,6 +469,6 @@ write_xlsx(list(Resumen = t_comp, IVI = ivi, IVF = ivf, Hill_asintoticos = asin,
                 Hill_n = comp_n, Hill_cobertura = comp_C, Incidencia = pool,
                 Div_transecto = div_tr, Wilcoxon = wt, Beta_Baselga = t_beta,
                 PERMANOVA = t_perm, Envfit = ef_df, Clases_DAP = est_dap,
-                AB_clase = ab_cl, Estratos = est_v, Biogeografia = t_bg, Lista = lista),
+                AB_clase = ab_cl, Estratos = est_v, Biogeografia = t_bg, Endemicas_amenazadas = cons, Lista = lista),
            file.path(dir_a, "resultados_articulo.xlsx"))
 say("\nListo.")
