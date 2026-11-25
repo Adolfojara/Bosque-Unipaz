@@ -10,7 +10,8 @@ lang: es
 
 Los bosques húmedos de tierras bajas del Magdalena Medio están entre los ecosistemas más transformados de Colombia y la información cuantitativa sobre su diversidad a escala local es escasa. Describimos la composición, diversidad alfa y beta y la estructura de los relictos de bosque del Instituto Universitario de la Paz en Barrancabermeja, Santander. En 30 transectos de 100 m^2^ (0,3 ha) distribuidos en dos fragmentos medimos todos los individuos leñosos con DAP ≥ 2,5 cm y analizamos la diversidad con números de Hill, rarefacción y extrapolación, partición de la diversidad beta y PERMANOVA. Registramos 745 individuos de 178 morfoespecies, 100 géneros y 42 familias. *Senefeldera testiculata*, *Lecythis mesophylla* y *Attalea nucifera* tuvieron el mayor valor de importancia, y Fabaceae fue la familia más importante y más rica. La cobertura de muestreo fue 0,87, pero la riqueza estimada duplicó la observada, lo que indica una alta proporción de especies raras. La diversidad beta fue alta y se debió casi por completo al recambio de especies, que aumentó con la distancia entre transectos; los dos fragmentos difirieron en composición y en área basal, aunque no en densidad ni en diversidad por transecto. La distribución diamétrica en J invertida y la concentración del área basal en pocos árboles grandes sugieren bosques en recuperación con remanentes del dosel original. Estos relictos conservan una flora rica, con afinidades con el Pacífico y la Amazonia, 15 especies endémicas de Colombia y ocho amenazadas, y su protección es relevante para la conservación regional.
 
-**Palabras clave:** diversidad beta, números de Hill, recambio de especies, relictos boscosos, Santander
+**Palabras clave:** diversidad beta, números de Hill, recambio de especies, relictos boscosos, Santander, xxxxxxxxx
+
 
 # ABSTRACT
 
